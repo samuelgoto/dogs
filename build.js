@@ -20,8 +20,13 @@ async function main() {
   for (let file of fs.readdirSync(`images/${dir}/`)) {
    // console.log(file);
    entry.examples.push(`images/${dir}/${file}`);
+
+   let annotations = fs.readFileSync(`annotations/${dir}/${file.substring(0, file.length - 4)}`);
+   console.log(annotations);
+   break;
   }
   dataset.entries.push(entry);
+  break;
  }
  console.log(JSON.stringify(dataset, undefined, 2));
 }

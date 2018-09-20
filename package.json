@@ -1,0 +1,19 @@
+{
+  "name": "dogs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelgoto/dogs.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/samuelgoto/dogs/issues"
+  },
+  "homepage": "https://github.com/samuelgoto/dogs",
+  "dependencies": {
+  }
+}
