@@ -8,6 +8,8 @@ async function main() {
  let dataset = {
   "@context": "https://code.sgo.to/datasets",
   "@type": "Dataset",
+  "url": "https://code.sgo.to/dogs/index.jsonld",
+  "description": "The stanford dog breed dataset packaged into a JSON-LD",
   "entries": []
  };
  for (let dir of dirs) {
