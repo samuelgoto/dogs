@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "build.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/samuelgoto/dogs.git"
@@ -15,5 +14,6 @@
   },
   "homepage": "https://github.com/samuelgoto/dogs",
   "dependencies": {
+    "xml2js": "^0.4.19"
   }
 }
