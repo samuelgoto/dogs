@@ -1,0 +1,3275 @@
+{
+  "@context": "https://feeds.json-ld.io/2005/Atom",
+  "@type": "Feed",
+  "name": "Images of n02093754-Border_terrier",
+  "entries": [
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1062.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "85",
+          "right": "447",
+          "top": "86",
+          "bottom": "447"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1100.jpg",
+      "size": {
+        "width": "358",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "291",
+          "top": "125",
+          "bottom": "291"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1102.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "334",
+          "top": "34",
+          "bottom": "334"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1111.jpg",
+      "size": {
+        "width": "500",
+        "height": "421",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "305",
+          "top": "1",
+          "bottom": "305"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1148.jpg",
+      "size": {
+        "width": "500",
+        "height": "378",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "73",
+          "right": "341",
+          "top": "127",
+          "bottom": "341"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_115.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "129",
+          "right": "348",
+          "top": "20",
+          "bottom": "348"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_123.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "63",
+          "right": "257",
+          "top": "141",
+          "bottom": "257"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1247.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "61",
+          "right": "386",
+          "top": "49",
+          "bottom": "386"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1256.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "106",
+          "right": "364",
+          "top": "39",
+          "bottom": "364"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1283.jpg",
+      "size": {
+        "width": "432",
+        "height": "349",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "348",
+          "top": "35",
+          "bottom": "348"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1310.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "145",
+          "right": "361",
+          "top": "1",
+          "bottom": "361"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1329.jpg",
+      "size": {
+        "width": "138",
+        "height": "170",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "108",
+          "top": "4",
+          "bottom": "108"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1422.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "293",
+          "right": "432",
+          "top": "113",
+          "bottom": "432"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1460.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "149",
+          "right": "323",
+          "top": "84",
+          "bottom": "323"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1464.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "247",
+          "right": "469",
+          "top": "135",
+          "bottom": "469"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1536.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "386",
+          "top": "21",
+          "bottom": "386"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1557.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "97",
+          "right": "384",
+          "top": "91",
+          "bottom": "384"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1652.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "113",
+          "right": "499",
+          "top": "11",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1722.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "357",
+          "top": "0",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_175.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "95",
+          "right": "320",
+          "top": "37",
+          "bottom": "320"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_180.jpg",
+      "size": {
+        "width": "500",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "173",
+          "right": "323",
+          "top": "45",
+          "bottom": "323"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1833.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "150",
+          "right": "337",
+          "top": "55",
+          "bottom": "337"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1845.jpg",
+      "size": {
+        "width": "300",
+        "height": "450",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "39",
+          "right": "280",
+          "top": "80",
+          "bottom": "280"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_186.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "370",
+          "top": "0",
+          "bottom": "370"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1861.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "81",
+          "right": "286",
+          "top": "92",
+          "bottom": "286"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1895.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "389",
+          "top": "0",
+          "bottom": "389"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_1954.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "204",
+          "right": "408",
+          "top": "24",
+          "bottom": "408"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2123.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "331",
+          "top": "32",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_218.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "472",
+          "top": "0",
+          "bottom": "472"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2189.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "140",
+          "right": "454",
+          "top": "76",
+          "bottom": "454"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2207.jpg",
+      "size": {
+        "width": "391",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "102",
+          "right": "269",
+          "top": "27",
+          "bottom": "269"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2276.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "37",
+          "right": "498",
+          "top": "0",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2281.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "30",
+          "right": "387",
+          "top": "73",
+          "bottom": "387"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_234.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "367",
+          "top": "65",
+          "bottom": "367"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2425.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "153",
+          "right": "432",
+          "top": "15",
+          "bottom": "432"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2453.jpg",
+      "size": {
+        "width": "385",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "216",
+          "top": "87",
+          "bottom": "216"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2457.jpg",
+      "size": {
+        "width": "500",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "408",
+          "top": "30",
+          "bottom": "408"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2687.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2742.jpg",
+      "size": {
+        "width": "301",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "300",
+          "top": "5",
+          "bottom": "300"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2799.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "403",
+          "top": "34",
+          "bottom": "403"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2801.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "297",
+          "top": "37",
+          "bottom": "297"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2847.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "83",
+          "right": "223",
+          "top": "108",
+          "bottom": "223"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2887.jpg",
+      "size": {
+        "width": "500",
+        "height": "445",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "422",
+          "top": "27",
+          "bottom": "422"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_2959.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "146",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3113.jpg",
+      "size": {
+        "width": "500",
+        "height": "401",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "162",
+          "right": "388",
+          "top": "44",
+          "bottom": "388"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3152.jpg",
+      "size": {
+        "width": "250",
+        "height": "261",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "237",
+          "top": "16",
+          "bottom": "237"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3176.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "142",
+          "right": "337",
+          "top": "0",
+          "bottom": "337"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_329.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "332",
+          "top": "132",
+          "bottom": "332"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3339.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "303",
+          "top": "0",
+          "bottom": "303"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3428.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "316",
+          "top": "47",
+          "bottom": "316"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3442.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3634.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "457",
+          "top": "91",
+          "bottom": "457"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_367.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "407",
+          "top": "25",
+          "bottom": "407"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3725.jpg",
+      "size": {
+        "width": "318",
+        "height": "212",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "108",
+          "right": "243",
+          "top": "0",
+          "bottom": "243"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_373.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "253",
+          "right": "364",
+          "top": "56",
+          "bottom": "364"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3749.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "139",
+          "right": "383",
+          "top": "74",
+          "bottom": "383"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_3888.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "172",
+          "top": "162",
+          "bottom": "172"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4043.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "117",
+          "right": "353",
+          "top": "85",
+          "bottom": "353"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4072.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "459",
+          "top": "70",
+          "bottom": "459"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4110.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "142",
+          "right": "347",
+          "top": "102",
+          "bottom": "347"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4213.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "165",
+          "right": "295",
+          "top": "87",
+          "bottom": "295"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4271.jpg",
+      "size": {
+        "width": "208",
+        "height": "298",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "179",
+          "top": "130",
+          "bottom": "179"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4285.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "499",
+          "top": "99",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4332.jpg",
+      "size": {
+        "width": "480",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "71",
+          "right": "391",
+          "top": "58",
+          "bottom": "391"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4354.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "54",
+          "right": "363",
+          "top": "15",
+          "bottom": "363"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4374.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "87",
+          "right": "443",
+          "top": "9",
+          "bottom": "443"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4418.jpg",
+      "size": {
+        "width": "500",
+        "height": "450",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "47",
+          "right": "478",
+          "top": "0",
+          "bottom": "478"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4448.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "421",
+          "top": "2",
+          "bottom": "421"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4452.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "136",
+          "right": "342",
+          "top": "71",
+          "bottom": "342"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4564.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "157",
+          "right": "364",
+          "top": "42",
+          "bottom": "364"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4582.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "105",
+          "right": "430",
+          "top": "3",
+          "bottom": "430"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4669.jpg",
+      "size": {
+        "width": "167",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "166",
+          "top": "8",
+          "bottom": "166"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4697.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "334",
+          "top": "8",
+          "bottom": "334"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4721.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "385",
+          "top": "26",
+          "bottom": "385"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4730.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "333",
+          "top": "75",
+          "bottom": "333"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_476.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "121",
+          "right": "391",
+          "top": "13",
+          "bottom": "391"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4859.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "485",
+          "top": "50",
+          "bottom": "485"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4868.jpg",
+      "size": {
+        "width": "500",
+        "height": "335",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "129",
+          "right": "453",
+          "top": "11",
+          "bottom": "453"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4879.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "152",
+          "right": "449",
+          "top": "62",
+          "bottom": "449"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_4949.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "332",
+          "top": "1",
+          "bottom": "332"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5029.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "127",
+          "right": "246",
+          "top": "12",
+          "bottom": "246"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5037.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "339",
+          "top": "1",
+          "bottom": "339"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5038.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "328",
+          "top": "0",
+          "bottom": "328"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_51.jpg",
+      "size": {
+        "width": "385",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "45",
+          "right": "313",
+          "top": "78",
+          "bottom": "313"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5170.jpg",
+      "size": {
+        "width": "312",
+        "height": "312",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "51",
+          "right": "295",
+          "top": "40",
+          "bottom": "295"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5175.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "463",
+          "top": "5",
+          "bottom": "463"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5190.jpg",
+      "size": {
+        "width": "173",
+        "height": "201",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "151",
+          "top": "7",
+          "bottom": "151"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5192.jpg",
+      "size": {
+        "width": "500",
+        "height": "432",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "15",
+          "right": "498",
+          "top": "0",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5195.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "460",
+          "top": "37",
+          "bottom": "460"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_521.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "498",
+          "top": "47",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5238.jpg",
+      "size": {
+        "width": "400",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "327",
+          "top": "138",
+          "bottom": "327"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5260.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "499",
+          "top": "2",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5261.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "164",
+          "right": "460",
+          "top": "76",
+          "bottom": "460"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5266.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5297.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "255",
+          "right": "476",
+          "top": "25",
+          "bottom": "476"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5298.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "295",
+          "right": "489",
+          "top": "10",
+          "bottom": "489"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5315.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "75",
+          "right": "343",
+          "top": "66",
+          "bottom": "343"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5342.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "108",
+          "right": "440",
+          "top": "2",
+          "bottom": "440"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5391.jpg",
+      "size": {
+        "width": "500",
+        "height": "335",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "205",
+          "right": "499",
+          "top": "2",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5404.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "57",
+          "right": "409",
+          "top": "53",
+          "bottom": "409"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5522.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "90",
+          "right": "352",
+          "top": "34",
+          "bottom": "352"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5594.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "66",
+          "right": "297",
+          "top": "97",
+          "bottom": "297"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5606.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "164",
+          "right": "354",
+          "top": "76",
+          "bottom": "354"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5639.jpg",
+      "size": {
+        "width": "500",
+        "height": "376",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "71",
+          "right": "410",
+          "top": "12",
+          "bottom": "410"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5656.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "499",
+          "top": "13",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5660.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "157",
+          "right": "370",
+          "top": "86",
+          "bottom": "370"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5662.jpg",
+      "size": {
+        "width": "500",
+        "height": "410",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "404",
+          "top": "12",
+          "bottom": "404"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5891.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "152",
+          "right": "347",
+          "top": "0",
+          "bottom": "347"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5928.jpg",
+      "size": {
+        "width": "500",
+        "height": "413",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "45",
+          "right": "498",
+          "top": "22",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5971.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "98",
+          "right": "263",
+          "top": "100",
+          "bottom": "263"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_5975.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6061.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "128",
+          "right": "450",
+          "top": "95",
+          "bottom": "450"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6082.jpg",
+      "size": {
+        "width": "301",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "242",
+          "top": "76",
+          "bottom": "242"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6089.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "400",
+          "top": "0",
+          "bottom": "400"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6098.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "103",
+          "right": "245",
+          "top": "141",
+          "bottom": "245"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6106.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "271",
+          "right": "499",
+          "top": "123",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6189.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "150",
+          "right": "388",
+          "top": "23",
+          "bottom": "388"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6221.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "499",
+          "top": "42",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6248.jpg",
+      "size": {
+        "width": "465",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "131",
+          "right": "375",
+          "top": "103",
+          "bottom": "375"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6257.jpg",
+      "size": {
+        "width": "500",
+        "height": "453",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "484",
+          "top": "4",
+          "bottom": "484"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6402.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "362",
+          "top": "0",
+          "bottom": "362"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6432.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "35",
+          "right": "325",
+          "top": "86",
+          "bottom": "325"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6437.jpg",
+      "size": {
+        "width": "500",
+        "height": "459",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "437",
+          "top": "31",
+          "bottom": "437"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6453.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "337",
+          "right": "469",
+          "top": "4",
+          "bottom": "469"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6483.jpg",
+      "size": {
+        "width": "210",
+        "height": "210",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "201",
+          "top": "6",
+          "bottom": "201"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6501.jpg",
+      "size": {
+        "width": "386",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "73",
+          "right": "259",
+          "top": "77",
+          "bottom": "259"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6548.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "318",
+          "top": "39",
+          "bottom": "318"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_656.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "451",
+          "top": "0",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6574.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "373",
+          "top": "18",
+          "bottom": "373"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6623.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "438",
+          "top": "59",
+          "bottom": "438"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6646.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "499",
+          "top": "37",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_667.jpg",
+      "size": {
+        "width": "301",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "96",
+          "right": "298",
+          "top": "24",
+          "bottom": "298"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6760.jpg",
+      "size": {
+        "width": "500",
+        "height": "417",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "291",
+          "top": "53",
+          "bottom": "291"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6767.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "77",
+          "right": "401",
+          "top": "9",
+          "bottom": "401"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6817.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "85",
+          "right": "499",
+          "top": "16",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_687.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "331",
+          "top": "120",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_6992.jpg",
+      "size": {
+        "width": "456",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "125",
+          "right": "321",
+          "top": "28",
+          "bottom": "321"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7014.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "486",
+          "top": "24",
+          "bottom": "486"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7025.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "131",
+          "right": "342",
+          "top": "24",
+          "bottom": "342"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7028.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "38",
+          "right": "327",
+          "top": "42",
+          "bottom": "327"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7091.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "167",
+          "top": "16",
+          "bottom": "167"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7109.jpg",
+      "size": {
+        "width": "341",
+        "height": "436",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "42",
+          "right": "337",
+          "top": "66",
+          "bottom": "337"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7117.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "446",
+          "top": "42",
+          "bottom": "446"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_717.jpg",
+      "size": {
+        "width": "500",
+        "height": "364",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "441",
+          "top": "86",
+          "bottom": "441"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7198.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "499",
+          "top": "2",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7297.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "84",
+          "right": "412",
+          "top": "31",
+          "bottom": "412"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7356.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "61",
+          "right": "499",
+          "top": "20",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7390.jpg",
+      "size": {
+        "width": "486",
+        "height": "324",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "117",
+          "right": "419",
+          "top": "55",
+          "bottom": "419"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7403.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "430",
+          "top": "19",
+          "bottom": "430"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7440.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "406",
+          "top": "60",
+          "bottom": "406"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7532.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "138",
+          "right": "499",
+          "top": "15",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7552.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "334",
+          "top": "81",
+          "bottom": "334"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7575.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "149",
+          "right": "386",
+          "top": "78",
+          "bottom": "386"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7701.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "236",
+          "right": "361",
+          "top": "76",
+          "bottom": "361"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7707.jpg",
+      "size": {
+        "width": "500",
+        "height": "399",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "119",
+          "right": "365",
+          "top": "19",
+          "bottom": "365"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7726.jpg",
+      "size": {
+        "width": "200",
+        "height": "285",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "199",
+          "top": "20",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_773.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "169",
+          "right": "341",
+          "top": "52",
+          "bottom": "341"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7788.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "483",
+          "top": "49",
+          "bottom": "483"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7820.jpg",
+      "size": {
+        "width": "500",
+        "height": "357",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "65",
+          "right": "417",
+          "top": "70",
+          "bottom": "417"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_785.jpg",
+      "size": {
+        "width": "500",
+        "height": "335",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "125",
+          "right": "430",
+          "top": "101",
+          "bottom": "430"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7902.jpg",
+      "size": {
+        "width": "275",
+        "height": "367",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "215",
+          "top": "100",
+          "bottom": "215"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7908.jpg",
+      "size": {
+        "width": "439",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "71",
+          "right": "400",
+          "top": "51",
+          "bottom": "400"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_7923.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "95",
+          "right": "499",
+          "top": "55",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_8019.jpg",
+      "size": {
+        "width": "250",
+        "height": "218",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "230",
+          "top": "9",
+          "bottom": "230"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_8047.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "16",
+          "right": "390",
+          "top": "1",
+          "bottom": "390"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_8093.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "104",
+          "right": "391",
+          "top": "143",
+          "bottom": "391"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_8106.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "381",
+          "top": "48",
+          "bottom": "381"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_815.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "225",
+          "right": "451",
+          "top": "60",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_874.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "297",
+          "top": "50",
+          "bottom": "297"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_875.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "15",
+          "right": "209",
+          "top": "28",
+          "bottom": "209"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_897.jpg",
+      "size": {
+        "width": "419",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "398",
+          "top": "55",
+          "bottom": "398"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02093754-Border_terrier/n02093754_909.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "114",
+          "right": "489",
+          "top": "62",
+          "bottom": "489"
+        }
+      ]
+    }
+  ]
+}

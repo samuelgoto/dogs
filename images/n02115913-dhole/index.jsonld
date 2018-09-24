@@ -1,0 +1,2857 @@
+{
+  "@context": "https://feeds.json-ld.io/2005/Atom",
+  "@type": "Feed",
+  "name": "Images of n02115913-dhole",
+  "entries": [
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1010.jpg",
+      "size": {
+        "width": "370",
+        "height": "235",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "362",
+          "top": "26",
+          "bottom": "362"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1047.jpg",
+      "size": {
+        "width": "500",
+        "height": "323",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "181",
+          "right": "450",
+          "top": "223",
+          "bottom": "450"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1060.jpg",
+      "size": {
+        "width": "500",
+        "height": "331",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "193",
+          "right": "375",
+          "top": "99",
+          "bottom": "375"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1066.jpg",
+      "size": {
+        "width": "460",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "195",
+          "right": "375",
+          "top": "13",
+          "bottom": "375"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1067.jpg",
+      "size": {
+        "width": "362",
+        "height": "504",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "348",
+          "top": "6",
+          "bottom": "348"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1142.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "55",
+          "right": "256",
+          "top": "22",
+          "bottom": "256"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1188.jpg",
+      "size": {
+        "width": "320",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "66",
+          "right": "277",
+          "top": "42",
+          "bottom": "277"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1213.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "179",
+          "right": "329",
+          "top": "49",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1224.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "120",
+          "right": "411",
+          "top": "132",
+          "bottom": "411"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1233.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "129",
+          "right": "309",
+          "top": "11",
+          "bottom": "309"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1244.jpg",
+      "size": {
+        "width": "381",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "315",
+          "top": "36",
+          "bottom": "315"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1273.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "382",
+          "top": "14",
+          "bottom": "382"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1288.jpg",
+      "size": {
+        "width": "460",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "60",
+          "right": "451",
+          "top": "89",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1323.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "155",
+          "right": "340",
+          "top": "28",
+          "bottom": "340"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1332.jpg",
+      "size": {
+        "width": "381",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "108",
+          "right": "272",
+          "top": "26",
+          "bottom": "272"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1334.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "141",
+          "right": "499",
+          "top": "69",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1352.jpg",
+      "size": {
+        "width": "381",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "60",
+          "right": "268",
+          "top": "79",
+          "bottom": "268"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_139.jpg",
+      "size": {
+        "width": "500",
+        "height": "372",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "75",
+          "right": "479",
+          "top": "32",
+          "bottom": "479"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1449.jpg",
+      "size": {
+        "width": "500",
+        "height": "388",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "109",
+          "right": "342",
+          "top": "71",
+          "bottom": "342"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1493.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "187",
+          "right": "392",
+          "top": "74",
+          "bottom": "392"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1522.jpg",
+      "size": {
+        "width": "381",
+        "height": "274",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "122",
+          "right": "316",
+          "top": "69",
+          "bottom": "316"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1552.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "121",
+          "right": "287",
+          "top": "127",
+          "bottom": "287"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1578.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "160",
+          "right": "267",
+          "top": "85",
+          "bottom": "267"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1622.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "43",
+          "right": "387",
+          "top": "70",
+          "bottom": "387"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1631.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "260",
+          "right": "452",
+          "top": "50",
+          "bottom": "452"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1637.jpg",
+      "size": {
+        "width": "476",
+        "height": "131",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "133",
+          "top": "13",
+          "bottom": "133"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1663.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "118",
+          "right": "412",
+          "top": "111",
+          "bottom": "412"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1677.jpg",
+      "size": {
+        "width": "500",
+        "height": "307",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "63",
+          "right": "344",
+          "top": "22",
+          "bottom": "344"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1682.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "213",
+          "right": "451",
+          "top": "112",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1688.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "342",
+          "top": "66",
+          "bottom": "342"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1742.jpg",
+      "size": {
+        "width": "381",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "69",
+          "right": "320",
+          "top": "68",
+          "bottom": "320"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1744.jpg",
+      "size": {
+        "width": "417",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "349",
+          "top": "27",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1772.jpg",
+      "size": {
+        "width": "500",
+        "height": "326",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "92",
+          "right": "365",
+          "top": "89",
+          "bottom": "365"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1796.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "313",
+          "top": "101",
+          "bottom": "313"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1830.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "417",
+          "top": "42",
+          "bottom": "417"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1897.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "76",
+          "right": "424",
+          "top": "94",
+          "bottom": "424"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1963.jpg",
+      "size": {
+        "width": "250",
+        "height": "188",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "231",
+          "top": "23",
+          "bottom": "231"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_1979.jpg",
+      "size": {
+        "width": "381",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "73",
+          "right": "285",
+          "top": "25",
+          "bottom": "285"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2005.jpg",
+      "size": {
+        "width": "290",
+        "height": "215",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "277",
+          "top": "20",
+          "bottom": "277"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2014.jpg",
+      "size": {
+        "width": "200",
+        "height": "150",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "87",
+          "right": "141",
+          "top": "46",
+          "bottom": "141"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2029.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "57",
+          "right": "254",
+          "top": "21",
+          "bottom": "254"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2044.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "157",
+          "right": "370",
+          "top": "113",
+          "bottom": "370"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2138.jpg",
+      "size": {
+        "width": "500",
+        "height": "317",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "184",
+          "top": "129",
+          "bottom": "184"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_219.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "38",
+          "right": "455",
+          "top": "56",
+          "bottom": "455"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2253.jpg",
+      "size": {
+        "width": "500",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "185",
+          "top": "159",
+          "bottom": "185"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2259.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "104",
+          "right": "312",
+          "top": "112",
+          "bottom": "312"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2264.jpg",
+      "size": {
+        "width": "235",
+        "height": "326",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "210",
+          "top": "10",
+          "bottom": "210"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2300.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "134",
+          "right": "322",
+          "top": "100",
+          "bottom": "322"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2320.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "60",
+          "right": "187",
+          "top": "35",
+          "bottom": "187"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2325.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "499",
+          "top": "46",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2338.jpg",
+      "size": {
+        "width": "460",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "339",
+          "top": "93",
+          "bottom": "339"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2365.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "292",
+          "right": "457",
+          "top": "212",
+          "bottom": "457"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2412.jpg",
+      "size": {
+        "width": "175",
+        "height": "202",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "100",
+          "top": "76",
+          "bottom": "100"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2414.jpg",
+      "size": {
+        "width": "350",
+        "height": "233",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "251",
+          "top": "11",
+          "bottom": "251"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2480.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "111",
+          "right": "338",
+          "top": "102",
+          "bottom": "338"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_25.jpg",
+      "size": {
+        "width": "220",
+        "height": "220",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "173",
+          "top": "11",
+          "bottom": "173"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_250.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "377",
+          "top": "82",
+          "bottom": "377"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2520.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "127",
+          "right": "499",
+          "top": "23",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2524.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "106",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_253.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "495",
+          "top": "25",
+          "bottom": "495"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2542.jpg",
+      "size": {
+        "width": "500",
+        "height": "263",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "472",
+          "top": "48",
+          "bottom": "472"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_257.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "108",
+          "right": "283",
+          "top": "172",
+          "bottom": "283"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2579.jpg",
+      "size": {
+        "width": "600",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "464",
+          "top": "71",
+          "bottom": "464"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_262.jpg",
+      "size": {
+        "width": "500",
+        "height": "356",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "147",
+          "right": "499",
+          "top": "24",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2657.jpg",
+      "size": {
+        "width": "460",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "424",
+          "top": "27",
+          "bottom": "424"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2841.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "276",
+          "right": "460",
+          "top": "190",
+          "bottom": "460"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_2895.jpg",
+      "size": {
+        "width": "360",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "86",
+          "right": "271",
+          "top": "160",
+          "bottom": "271"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3010.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "113",
+          "right": "499",
+          "top": "103",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3052.jpg",
+      "size": {
+        "width": "500",
+        "height": "297",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "105",
+          "right": "496",
+          "top": "26",
+          "bottom": "496"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3107.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "287",
+          "right": "375",
+          "top": "84",
+          "bottom": "375"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_311.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "185",
+          "right": "329",
+          "top": "127",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3115.jpg",
+      "size": {
+        "width": "350",
+        "height": "257",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "343",
+          "top": "57",
+          "bottom": "343"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_312.jpg",
+      "size": {
+        "width": "500",
+        "height": "453",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "61",
+          "right": "498",
+          "top": "29",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3178.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "149",
+          "right": "341",
+          "top": "170",
+          "bottom": "341"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3196.jpg",
+      "size": {
+        "width": "1492",
+        "height": "1040",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "752",
+          "right": "1070",
+          "top": "505",
+          "bottom": "1070"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3229.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "136",
+          "right": "379",
+          "top": "125",
+          "bottom": "379"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3270.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "128",
+          "right": "285",
+          "top": "128",
+          "bottom": "285"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3278.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "357",
+          "top": "74",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3313.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "206",
+          "right": "484",
+          "top": "71",
+          "bottom": "484"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3465.jpg",
+      "size": {
+        "width": "800",
+        "height": "534",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "790",
+          "top": "17",
+          "bottom": "790"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3473.jpg",
+      "size": {
+        "width": "186",
+        "height": "250",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "137",
+          "top": "51",
+          "bottom": "137"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3480.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "142",
+          "right": "339",
+          "top": "129",
+          "bottom": "339"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3527.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "353",
+          "top": "0",
+          "bottom": "353"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3529.jpg",
+      "size": {
+        "width": "800",
+        "height": "532",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "134",
+          "right": "459",
+          "top": "167",
+          "bottom": "459"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_359.jpg",
+      "size": {
+        "width": "640",
+        "height": "426",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "215",
+          "right": "422",
+          "top": "85",
+          "bottom": "422"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3601.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "194",
+          "right": "339",
+          "top": "106",
+          "bottom": "339"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3647.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "120",
+          "right": "409",
+          "top": "52",
+          "bottom": "409"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_368.jpg",
+      "size": {
+        "width": "467",
+        "height": "700",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "465",
+          "top": "212",
+          "bottom": "465"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3740.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "271",
+          "right": "470",
+          "top": "169",
+          "bottom": "470"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3743.jpg",
+      "size": {
+        "width": "199",
+        "height": "321",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "179",
+          "top": "6",
+          "bottom": "179"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3753.jpg",
+      "size": {
+        "width": "500",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "479",
+          "top": "99",
+          "bottom": "479"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_38.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "357",
+          "top": "5",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3800.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "289",
+          "top": "220",
+          "bottom": "289"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3842.jpg",
+      "size": {
+        "width": "600",
+        "height": "398",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "115",
+          "right": "495",
+          "top": "33",
+          "bottom": "495"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3850.jpg",
+      "size": {
+        "width": "180",
+        "height": "126",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "150",
+          "top": "13",
+          "bottom": "150"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3854.jpg",
+      "size": {
+        "width": "381",
+        "height": "256",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "330",
+          "top": "78",
+          "bottom": "330"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3863.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "52",
+          "right": "330",
+          "top": "122",
+          "bottom": "330"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3875.jpg",
+      "size": {
+        "width": "463",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "423",
+          "top": "13",
+          "bottom": "423"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3878.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "202",
+          "right": "437",
+          "top": "123",
+          "bottom": "437"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3902.jpg",
+      "size": {
+        "width": "271",
+        "height": "320",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "33",
+          "right": "246",
+          "top": "47",
+          "bottom": "246"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3918.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "397",
+          "top": "30",
+          "bottom": "397"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3991.jpg",
+      "size": {
+        "width": "460",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "434",
+          "top": "61",
+          "bottom": "434"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3994.jpg",
+      "size": {
+        "width": "350",
+        "height": "233",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "256",
+          "top": "49",
+          "bottom": "256"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_3998.jpg",
+      "size": {
+        "width": "400",
+        "height": "367",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "112",
+          "right": "279",
+          "top": "26",
+          "bottom": "279"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4025.jpg",
+      "size": {
+        "width": "139",
+        "height": "210",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "123",
+          "top": "9",
+          "bottom": "123"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4031.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "162",
+          "right": "359",
+          "top": "118",
+          "bottom": "359"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4032.jpg",
+      "size": {
+        "width": "500",
+        "height": "356",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "146",
+          "right": "499",
+          "top": "25",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4047.jpg",
+      "size": {
+        "width": "432",
+        "height": "325",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "99",
+          "right": "410",
+          "top": "5",
+          "bottom": "410"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4055.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "38",
+          "right": "256",
+          "top": "66",
+          "bottom": "256"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4059.jpg",
+      "size": {
+        "width": "500",
+        "height": "353",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "69",
+          "right": "455",
+          "top": "94",
+          "bottom": "455"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4082.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "217",
+          "right": "468",
+          "top": "116",
+          "bottom": "468"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4110.jpg",
+      "size": {
+        "width": "411",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "285",
+          "right": "403",
+          "top": "135",
+          "bottom": "403"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4117.jpg",
+      "size": {
+        "width": "500",
+        "height": "417",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "138",
+          "right": "489",
+          "top": "58",
+          "bottom": "489"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4119.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "57",
+          "right": "488",
+          "top": "137",
+          "bottom": "488"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4128.jpg",
+      "size": {
+        "width": "800",
+        "height": "531",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "337",
+          "right": "769",
+          "top": "144",
+          "bottom": "769"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4129.jpg",
+      "size": {
+        "width": "405",
+        "height": "283",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "368",
+          "top": "53",
+          "bottom": "368"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4144.jpg",
+      "size": {
+        "width": "800",
+        "height": "532",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "70",
+          "right": "329",
+          "top": "109",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4163.jpg",
+      "size": {
+        "width": "500",
+        "height": "283",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "167",
+          "right": "397",
+          "top": "48",
+          "bottom": "397"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4179.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "90",
+          "right": "304",
+          "top": "91",
+          "bottom": "304"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4188.jpg",
+      "size": {
+        "width": "200",
+        "height": "132",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "108",
+          "top": "49",
+          "bottom": "108"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_423.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "202",
+          "right": "417",
+          "top": "105",
+          "bottom": "417"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4266.jpg",
+      "size": {
+        "width": "300",
+        "height": "366",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "48",
+          "right": "216",
+          "top": "25",
+          "bottom": "216"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4273.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "199",
+          "right": "278",
+          "top": "83",
+          "bottom": "278"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4275.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "86",
+          "right": "472",
+          "top": "37",
+          "bottom": "472"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4308.jpg",
+      "size": {
+        "width": "640",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "176",
+          "right": "557",
+          "top": "55",
+          "bottom": "557"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4313.jpg",
+      "size": {
+        "width": "350",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "76",
+          "right": "287",
+          "top": "11",
+          "bottom": "287"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4320.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "497",
+          "top": "48",
+          "bottom": "497"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4336.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "462",
+          "top": "103",
+          "bottom": "462"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_44.jpg",
+      "size": {
+        "width": "320",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "77",
+          "right": "295",
+          "top": "16",
+          "bottom": "295"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4429.jpg",
+      "size": {
+        "width": "468",
+        "height": "313",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "76",
+          "right": "282",
+          "top": "15",
+          "bottom": "282"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_4542.jpg",
+      "size": {
+        "width": "2304",
+        "height": "1728",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "2048",
+          "top": "121",
+          "bottom": "2048"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_520.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "461",
+          "top": "85",
+          "bottom": "461"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_539.jpg",
+      "size": {
+        "width": "480",
+        "height": "640",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "70",
+          "right": "476",
+          "top": "99",
+          "bottom": "476"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_5392.jpg",
+      "size": {
+        "width": "200",
+        "height": "217",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "199",
+          "top": "26",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_5418.jpg",
+      "size": {
+        "width": "180",
+        "height": "135",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "97",
+          "right": "179",
+          "top": "23",
+          "bottom": "179"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_5469.jpg",
+      "size": {
+        "width": "300",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "70",
+          "right": "211",
+          "top": "62",
+          "bottom": "211"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_5507.jpg",
+      "size": {
+        "width": "230",
+        "height": "261",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "221",
+          "top": "6",
+          "bottom": "221"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_5593.jpg",
+      "size": {
+        "width": "180",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "138",
+          "top": "106",
+          "bottom": "138"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_564.jpg",
+      "size": {
+        "width": "500",
+        "height": "417",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "139",
+          "right": "489",
+          "top": "56",
+          "bottom": "489"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_593.jpg",
+      "size": {
+        "width": "500",
+        "height": "335",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "149",
+          "right": "499",
+          "top": "42",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_612.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "38",
+          "right": "332",
+          "top": "145",
+          "bottom": "332"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_614.jpg",
+      "size": {
+        "width": "500",
+        "height": "353",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "117",
+          "right": "443",
+          "top": "80",
+          "bottom": "443"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_676.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "335",
+          "top": "6",
+          "bottom": "335"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_678.jpg",
+      "size": {
+        "width": "350",
+        "height": "233",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "126",
+          "right": "232",
+          "top": "11",
+          "bottom": "232"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_739.jpg",
+      "size": {
+        "width": "341",
+        "height": "278",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "119",
+          "right": "271",
+          "top": "52",
+          "bottom": "271"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_750.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "467",
+          "top": "138",
+          "bottom": "467"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_90.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "5",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_907.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "196",
+          "right": "391",
+          "top": "108",
+          "bottom": "391"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_915.jpg",
+      "size": {
+        "width": "720",
+        "height": "448",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "151",
+          "right": "597",
+          "top": "82",
+          "bottom": "597"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02115913-dhole/n02115913_92.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "106",
+          "right": "351",
+          "top": "69",
+          "bottom": "351"
+        }
+      ]
+    }
+  ]
+}

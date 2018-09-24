@@ -1,0 +1,2895 @@
+{
+  "@context": "https://feeds.json-ld.io/2005/Atom",
+  "@type": "Feed",
+  "name": "Images of n02099267-flat-coated_retriever",
+  "entries": [
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1018.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "72",
+          "right": "497",
+          "top": "38",
+          "bottom": "497"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1069.jpg",
+      "size": {
+        "width": "495",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "48",
+          "right": "443",
+          "top": "0",
+          "bottom": "443"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1095.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "15",
+          "right": "436",
+          "top": "24",
+          "bottom": "436"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1118.jpg",
+      "size": {
+        "width": "330",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "328",
+          "top": "18",
+          "bottom": "328"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1142.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "416",
+          "top": "110",
+          "bottom": "416"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1184.jpg",
+      "size": {
+        "width": "500",
+        "height": "377",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "82",
+          "right": "461",
+          "top": "65",
+          "bottom": "461"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1205.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "71",
+          "right": "276",
+          "top": "4",
+          "bottom": "276"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1272.jpg",
+      "size": {
+        "width": "468",
+        "height": "625",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "364",
+          "top": "104",
+          "bottom": "364"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1274.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "151",
+          "right": "290",
+          "top": "136",
+          "bottom": "290"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1358.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "73",
+          "right": "485",
+          "top": "77",
+          "bottom": "485"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1451.jpg",
+      "size": {
+        "width": "356",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "48",
+          "right": "236",
+          "top": "215",
+          "bottom": "236"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1470.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "134",
+          "right": "349",
+          "top": "0",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1533.jpg",
+      "size": {
+        "width": "500",
+        "height": "377",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "499",
+          "top": "11",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1547.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "181",
+          "right": "429",
+          "top": "37",
+          "bottom": "429"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1573.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "173",
+          "right": "422",
+          "top": "118",
+          "bottom": "422"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1596.jpg",
+      "size": {
+        "width": "300",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "133",
+          "right": "298",
+          "top": "78",
+          "bottom": "298"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1624.jpg",
+      "size": {
+        "width": "360",
+        "height": "446",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "357",
+          "top": "48",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1639.jpg",
+      "size": {
+        "width": "500",
+        "height": "322",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "430",
+          "top": "25",
+          "bottom": "430"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1723.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "65",
+          "right": "300",
+          "top": "43",
+          "bottom": "300"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1753.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "164",
+          "right": "397",
+          "top": "24",
+          "bottom": "397"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1860.jpg",
+      "size": {
+        "width": "500",
+        "height": "378",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "205",
+          "right": "498",
+          "top": "75",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1862.jpg",
+      "size": {
+        "width": "640",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "620",
+          "top": "7",
+          "bottom": "620"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1906.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "450",
+          "top": "31",
+          "bottom": "450"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1909.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "55",
+          "right": "239",
+          "top": "24",
+          "bottom": "239"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1922.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "407",
+          "top": "20",
+          "bottom": "407"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1942.jpg",
+      "size": {
+        "width": "500",
+        "height": "402",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "488",
+          "top": "17",
+          "bottom": "488"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1943.jpg",
+      "size": {
+        "width": "250",
+        "height": "197",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "202",
+          "top": "48",
+          "bottom": "202"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1961.jpg",
+      "size": {
+        "width": "368",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "366",
+          "top": "45",
+          "bottom": "366"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_198.jpg",
+      "size": {
+        "width": "436",
+        "height": "386",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "19",
+          "right": "421",
+          "top": "24",
+          "bottom": "421"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_1989.jpg",
+      "size": {
+        "width": "500",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "233",
+          "right": "343",
+          "top": "111",
+          "bottom": "343"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2040.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "219",
+          "right": "499",
+          "top": "25",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2121.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "42",
+          "right": "470",
+          "top": "12",
+          "bottom": "470"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2127.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "71",
+          "right": "499",
+          "top": "71",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2160.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "74",
+          "right": "499",
+          "top": "1",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2259.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "499",
+          "top": "62",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2268.jpg",
+      "size": {
+        "width": "339",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "337",
+          "top": "0",
+          "bottom": "337"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2269.jpg",
+      "size": {
+        "width": "380",
+        "height": "395",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "147",
+          "right": "372",
+          "top": "88",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2284.jpg",
+      "size": {
+        "width": "250",
+        "height": "198",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "217",
+          "top": "25",
+          "bottom": "217"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2314.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "417",
+          "top": "45",
+          "bottom": "417"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2347.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "74",
+          "right": "488",
+          "top": "0",
+          "bottom": "488"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2375.jpg",
+      "size": {
+        "width": "200",
+        "height": "150",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "65",
+          "right": "141",
+          "top": "23",
+          "bottom": "141"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2379.jpg",
+      "size": {
+        "width": "500",
+        "height": "413",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "173",
+          "right": "372",
+          "top": "91",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2419.jpg",
+      "size": {
+        "width": "365",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "262",
+          "top": "42",
+          "bottom": "262"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2427.jpg",
+      "size": {
+        "width": "362",
+        "height": "258",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "134",
+          "right": "343",
+          "top": "58",
+          "bottom": "343"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2447.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "181",
+          "top": "80",
+          "bottom": "181"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2453.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "488",
+          "top": "34",
+          "bottom": "488"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2607.jpg",
+      "size": {
+        "width": "432",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "158",
+          "right": "303",
+          "top": "99",
+          "bottom": "303"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2608.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "74",
+          "right": "333",
+          "top": "45",
+          "bottom": "333"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2630.jpg",
+      "size": {
+        "width": "144",
+        "height": "242",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "125",
+          "top": "4",
+          "bottom": "125"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2786.jpg",
+      "size": {
+        "width": "250",
+        "height": "185",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "25",
+          "right": "217",
+          "top": "18",
+          "bottom": "217"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2792.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "248",
+          "right": "412",
+          "top": "189",
+          "bottom": "412"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_2987.jpg",
+      "size": {
+        "width": "500",
+        "height": "363",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "128",
+          "right": "498",
+          "top": "68",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3018.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "373",
+          "top": "168",
+          "bottom": "373"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3044.jpg",
+      "size": {
+        "width": "181",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "153",
+          "top": "9",
+          "bottom": "153"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3077.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "177",
+          "right": "386",
+          "top": "68",
+          "bottom": "386"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3087.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "373",
+          "top": "87",
+          "bottom": "373"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3092.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "302",
+          "top": "52",
+          "bottom": "302"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3097.jpg",
+      "size": {
+        "width": "340",
+        "height": "254",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "272",
+          "top": "2",
+          "bottom": "272"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3130.jpg",
+      "size": {
+        "width": "500",
+        "height": "499",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "238",
+          "right": "442",
+          "top": "40",
+          "bottom": "442"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3185.jpg",
+      "size": {
+        "width": "453",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "410",
+          "top": "44",
+          "bottom": "410"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3240.jpg",
+      "size": {
+        "width": "360",
+        "height": "267",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "14",
+          "right": "331",
+          "top": "12",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3255.jpg",
+      "size": {
+        "width": "486",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "171",
+          "right": "448",
+          "top": "103",
+          "bottom": "448"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3272.jpg",
+      "size": {
+        "width": "500",
+        "height": "398",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "56",
+          "right": "377",
+          "top": "87",
+          "bottom": "377"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3290.jpg",
+      "size": {
+        "width": "500",
+        "height": "371",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "237",
+          "right": "451",
+          "top": "110",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3335.jpg",
+      "size": {
+        "width": "403",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "66",
+          "right": "399",
+          "top": "56",
+          "bottom": "399"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3390.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "456",
+          "top": "0",
+          "bottom": "456"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3405.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "47",
+          "right": "372",
+          "top": "191",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3428.jpg",
+      "size": {
+        "width": "417",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "82",
+          "right": "415",
+          "top": "95",
+          "bottom": "415"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3431.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "229",
+          "right": "330",
+          "top": "165",
+          "bottom": "330"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3433.jpg",
+      "size": {
+        "width": "352",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "77",
+          "right": "281",
+          "top": "42",
+          "bottom": "281"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3441.jpg",
+      "size": {
+        "width": "301",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "55",
+          "right": "257",
+          "top": "14",
+          "bottom": "257"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3490.jpg",
+      "size": {
+        "width": "432",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "83",
+          "right": "305",
+          "top": "66",
+          "bottom": "305"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3493.jpg",
+      "size": {
+        "width": "500",
+        "height": "363",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "340",
+          "top": "55",
+          "bottom": "340"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3494.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "499",
+          "top": "54",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_353.jpg",
+      "size": {
+        "width": "357",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "303",
+          "top": "106",
+          "bottom": "303"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3588.jpg",
+      "size": {
+        "width": "334",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "332",
+          "top": "23",
+          "bottom": "332"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3597.jpg",
+      "size": {
+        "width": "405",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "357",
+          "top": "71",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3605.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "372",
+          "top": "151",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3609.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "396",
+          "top": "50",
+          "bottom": "396"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3611.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "63",
+          "right": "458",
+          "top": "66",
+          "bottom": "458"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3660.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "441",
+          "top": "105",
+          "bottom": "441"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_375.jpg",
+      "size": {
+        "width": "350",
+        "height": "282",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "148",
+          "right": "272",
+          "top": "47",
+          "bottom": "272"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3768.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "266",
+          "right": "450",
+          "top": "25",
+          "bottom": "450"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3787.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "184",
+          "right": "455",
+          "top": "83",
+          "bottom": "455"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3843.jpg",
+      "size": {
+        "width": "450",
+        "height": "409",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "349",
+          "top": "45",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3864.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "175",
+          "right": "386",
+          "top": "39",
+          "bottom": "386"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3868.jpg",
+      "size": {
+        "width": "500",
+        "height": "297",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "230",
+          "right": "499",
+          "top": "4",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3900.jpg",
+      "size": {
+        "width": "225",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "223",
+          "top": "15",
+          "bottom": "223"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3913.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "488",
+          "top": "62",
+          "bottom": "488"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3948.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "169",
+          "right": "431",
+          "top": "128",
+          "bottom": "431"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3957.jpg",
+      "size": {
+        "width": "500",
+        "height": "402",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "481",
+          "top": "23",
+          "bottom": "481"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3965.jpg",
+      "size": {
+        "width": "500",
+        "height": "319",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "111",
+          "right": "431",
+          "top": "45",
+          "bottom": "431"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_3973.jpg",
+      "size": {
+        "width": "500",
+        "height": "324",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "127",
+          "right": "447",
+          "top": "42",
+          "bottom": "447"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_40.jpg",
+      "size": {
+        "width": "200",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "199",
+          "top": "5",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4048.jpg",
+      "size": {
+        "width": "288",
+        "height": "435",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "245",
+          "top": "10",
+          "bottom": "245"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4098.jpg",
+      "size": {
+        "width": "407",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "47",
+          "right": "404",
+          "top": "30",
+          "bottom": "404"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4167.jpg",
+      "size": {
+        "width": "500",
+        "height": "428",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "73",
+          "right": "437",
+          "top": "22",
+          "bottom": "437"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4236.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "306",
+          "top": "1",
+          "bottom": "306"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4278.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "30",
+          "right": "415",
+          "top": "55",
+          "bottom": "415"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4303.jpg",
+      "size": {
+        "width": "500",
+        "height": "281",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "374",
+          "top": "36",
+          "bottom": "374"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4311.jpg",
+      "size": {
+        "width": "500",
+        "height": "491",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "90",
+          "right": "407",
+          "top": "109",
+          "bottom": "407"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4331.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "47",
+          "right": "277",
+          "top": "27",
+          "bottom": "277"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4359.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "163",
+          "right": "314",
+          "top": "77",
+          "bottom": "314"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_443.jpg",
+      "size": {
+        "width": "200",
+        "height": "147",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "174",
+          "top": "38",
+          "bottom": "174"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4494.jpg",
+      "size": {
+        "width": "216",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "208",
+          "top": "13",
+          "bottom": "208"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4506.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "175",
+          "right": "306",
+          "top": "112",
+          "bottom": "306"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4525.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "138",
+          "right": "490",
+          "top": "0",
+          "bottom": "490"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4530.jpg",
+      "size": {
+        "width": "335",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "332",
+          "top": "58",
+          "bottom": "332"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4546.jpg",
+      "size": {
+        "width": "383",
+        "height": "510",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "114",
+          "right": "320",
+          "top": "20",
+          "bottom": "320"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4562.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "499",
+          "top": "38",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4681.jpg",
+      "size": {
+        "width": "500",
+        "height": "471",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "428",
+          "top": "24",
+          "bottom": "428"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4812.jpg",
+      "size": {
+        "width": "332",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "129",
+          "right": "330",
+          "top": "114",
+          "bottom": "330"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_482.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "26",
+          "right": "429",
+          "top": "6",
+          "bottom": "429"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_487.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "97",
+          "right": "393",
+          "top": "0",
+          "bottom": "393"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_488.jpg",
+      "size": {
+        "width": "415",
+        "height": "361",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "257",
+          "right": "378",
+          "top": "110",
+          "bottom": "378"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4887.jpg",
+      "size": {
+        "width": "500",
+        "height": "460",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "481",
+          "top": "47",
+          "bottom": "481"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_4906.jpg",
+      "size": {
+        "width": "357",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "324",
+          "top": "200",
+          "bottom": "324"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_494.jpg",
+      "size": {
+        "width": "262",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "259",
+          "top": "17",
+          "bottom": "259"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5001.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "117",
+          "right": "498",
+          "top": "28",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5073.jpg",
+      "size": {
+        "width": "1772",
+        "height": "1181",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "205",
+          "right": "1604",
+          "top": "92",
+          "bottom": "1604"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5089.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "37",
+          "right": "276",
+          "top": "103",
+          "bottom": "276"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5155.jpg",
+      "size": {
+        "width": "500",
+        "height": "401",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "447",
+          "top": "0",
+          "bottom": "447"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5306.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "81",
+          "right": "212",
+          "top": "202",
+          "bottom": "212"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5352.jpg",
+      "size": {
+        "width": "500",
+        "height": "357",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "240",
+          "right": "399",
+          "top": "68",
+          "bottom": "399"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5415.jpg",
+      "size": {
+        "width": "850",
+        "height": "670",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "26",
+          "right": "783",
+          "top": "42",
+          "bottom": "783"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5427.jpg",
+      "size": {
+        "width": "370",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "367",
+          "top": "11",
+          "bottom": "367"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5540.jpg",
+      "size": {
+        "width": "500",
+        "height": "357",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "498",
+          "top": "13",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5549.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "498",
+          "top": "21",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5551.jpg",
+      "size": {
+        "width": "500",
+        "height": "372",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "60",
+          "right": "265",
+          "top": "22",
+          "bottom": "265"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5552.jpg",
+      "size": {
+        "width": "190",
+        "height": "193",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "189",
+          "top": "3",
+          "bottom": "189"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5587.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "423",
+          "top": "7",
+          "bottom": "423"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_566.jpg",
+      "size": {
+        "width": "500",
+        "height": "357",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "153",
+          "right": "331",
+          "top": "64",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5669.jpg",
+      "size": {
+        "width": "500",
+        "height": "293",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "217",
+          "top": "58",
+          "bottom": "217"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_5745.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "396",
+          "top": "9",
+          "bottom": "396"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_580.jpg",
+      "size": {
+        "width": "323",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "125",
+          "right": "244",
+          "top": "214",
+          "bottom": "244"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_693.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "331",
+          "top": "63",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_706.jpg",
+      "size": {
+        "width": "270",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "35",
+          "right": "265",
+          "top": "40",
+          "bottom": "265"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_720.jpg",
+      "size": {
+        "width": "274",
+        "height": "194",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "180",
+          "top": "26",
+          "bottom": "180"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_721.jpg",
+      "size": {
+        "width": "500",
+        "height": "338",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "84",
+          "right": "318",
+          "top": "81",
+          "bottom": "318"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_730.jpg",
+      "size": {
+        "width": "500",
+        "height": "386",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "499",
+          "top": "10",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_731.jpg",
+      "size": {
+        "width": "700",
+        "height": "250",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "90",
+          "right": "329",
+          "top": "2",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_808.jpg",
+      "size": {
+        "width": "500",
+        "height": "377",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "83",
+          "right": "493",
+          "top": "38",
+          "bottom": "493"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_838.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "123",
+          "right": "424",
+          "top": "52",
+          "bottom": "424"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_862.jpg",
+      "size": {
+        "width": "325",
+        "height": "243",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "324",
+          "top": "21",
+          "bottom": "324"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_882.jpg",
+      "size": {
+        "width": "500",
+        "height": "357",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "146",
+          "right": "498",
+          "top": "5",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_911.jpg",
+      "size": {
+        "width": "519",
+        "height": "700",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "499",
+          "top": "92",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_913.jpg",
+      "size": {
+        "width": "500",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "96",
+          "right": "361",
+          "top": "100",
+          "bottom": "361"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_921.jpg",
+      "size": {
+        "width": "399",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "88",
+          "right": "325",
+          "top": "40",
+          "bottom": "325"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_931.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "39",
+          "right": "396",
+          "top": "121",
+          "bottom": "396"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_957.jpg",
+      "size": {
+        "width": "480",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "77",
+          "right": "349",
+          "top": "3",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_979.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "144",
+          "right": "498",
+          "top": "38",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02099267-flat-coated_retriever/n02099267_997.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "277",
+          "top": "246",
+          "bottom": "277"
+        }
+      ]
+    }
+  ]
+}

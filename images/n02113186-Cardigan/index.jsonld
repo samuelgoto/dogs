@@ -1,0 +1,2952 @@
+{
+  "@context": "https://feeds.json-ld.io/2005/Atom",
+  "@type": "Feed",
+  "name": "Images of n02113186-Cardigan",
+  "entries": [
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10077.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "179",
+          "right": "483",
+          "top": "24",
+          "bottom": "483"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1016.jpg",
+      "size": {
+        "width": "1082",
+        "height": "742",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "291",
+          "right": "864",
+          "top": "157",
+          "bottom": "864"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1030.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "77",
+          "right": "474",
+          "top": "0",
+          "bottom": "474"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10361.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "397",
+          "right": "487",
+          "top": "112",
+          "bottom": "487"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10416.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "244",
+          "right": "410",
+          "top": "136",
+          "bottom": "410"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10431.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "66",
+          "right": "473",
+          "top": "0",
+          "bottom": "473"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10475.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "41",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10505.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "148",
+          "right": "406",
+          "top": "81",
+          "bottom": "406"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10519.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "111",
+          "right": "174",
+          "top": "88",
+          "bottom": "174"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10535.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "192",
+          "right": "265",
+          "top": "119",
+          "bottom": "265"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10816.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "400",
+          "top": "24",
+          "bottom": "400"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10891.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "101",
+          "right": "297",
+          "top": "68",
+          "bottom": "297"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10944.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "108",
+          "right": "364",
+          "top": "51",
+          "bottom": "364"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_10972.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "242",
+          "right": "323",
+          "top": "92",
+          "bottom": "323"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11014.jpg",
+      "size": {
+        "width": "336",
+        "height": "341",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "316",
+          "top": "62",
+          "bottom": "316"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11017.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "79",
+          "right": "324",
+          "top": "95",
+          "bottom": "324"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11035.jpg",
+      "size": {
+        "width": "500",
+        "height": "327",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "171",
+          "right": "384",
+          "top": "57",
+          "bottom": "384"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11037.jpg",
+      "size": {
+        "width": "600",
+        "height": "417",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "559",
+          "top": "75",
+          "bottom": "559"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11073.jpg",
+      "size": {
+        "width": "320",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "56",
+          "right": "236",
+          "top": "1",
+          "bottom": "236"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1120.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "83",
+          "right": "457",
+          "top": "26",
+          "bottom": "457"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11220.jpg",
+      "size": {
+        "width": "300",
+        "height": "460",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "286",
+          "top": "39",
+          "bottom": "286"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11222.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "136",
+          "right": "309",
+          "top": "119",
+          "bottom": "309"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11334.jpg",
+      "size": {
+        "width": "500",
+        "height": "406",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "451",
+          "top": "0",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11371.jpg",
+      "size": {
+        "width": "359",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "336",
+          "top": "5",
+          "bottom": "336"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11400.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "72",
+          "right": "485",
+          "top": "0",
+          "bottom": "485"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11446.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "125",
+          "right": "331",
+          "top": "26",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11559.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "375",
+          "top": "16",
+          "bottom": "375"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11658.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "184",
+          "right": "287",
+          "top": "92",
+          "bottom": "287"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11685.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "302",
+          "right": "472",
+          "top": "182",
+          "bottom": "472"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11704.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "71",
+          "right": "172",
+          "top": "259",
+          "bottom": "172"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11741.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "349",
+          "top": "0",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11789.jpg",
+      "size": {
+        "width": "250",
+        "height": "340",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "249",
+          "top": "16",
+          "bottom": "249"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_11947.jpg",
+      "size": {
+        "width": "400",
+        "height": "267",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "365",
+          "top": "40",
+          "bottom": "365"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12093.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "247",
+          "right": "458",
+          "top": "115",
+          "bottom": "458"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12243.jpg",
+      "size": {
+        "width": "300",
+        "height": "289",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "299",
+          "top": "14",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12316.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "187",
+          "right": "345",
+          "top": "84",
+          "bottom": "345"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12419.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "379",
+          "top": "42",
+          "bottom": "379"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12499.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "105",
+          "right": "372",
+          "top": "0",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12513.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "37",
+          "right": "344",
+          "top": "66",
+          "bottom": "344"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12729.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "168",
+          "right": "408",
+          "top": "79",
+          "bottom": "408"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_12793.jpg",
+      "size": {
+        "width": "367",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "108",
+          "right": "152",
+          "top": "274",
+          "bottom": "152"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13002.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "165",
+          "right": "321",
+          "top": "112",
+          "bottom": "321"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13102.jpg",
+      "size": {
+        "width": "500",
+        "height": "290",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "183",
+          "top": "27",
+          "bottom": "183"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13169.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "393",
+          "top": "0",
+          "bottom": "393"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13256.jpg",
+      "size": {
+        "width": "300",
+        "height": "223",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "259",
+          "top": "15",
+          "bottom": "259"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13272.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "81",
+          "right": "406",
+          "top": "59",
+          "bottom": "406"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13333.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "148",
+          "right": "382",
+          "top": "57",
+          "bottom": "382"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13335.jpg",
+      "size": {
+        "width": "500",
+        "height": "326",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "16",
+          "right": "346",
+          "top": "22",
+          "bottom": "346"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13413.jpg",
+      "size": {
+        "width": "240",
+        "height": "160",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "64",
+          "right": "128",
+          "top": "36",
+          "bottom": "128"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13424.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "166",
+          "right": "362",
+          "top": "38",
+          "bottom": "362"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13484.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "129",
+          "right": "375",
+          "top": "68",
+          "bottom": "375"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_13533.jpg",
+      "size": {
+        "width": "374",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "42",
+          "right": "256",
+          "top": "67",
+          "bottom": "256"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1447.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1529.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "124",
+          "right": "435",
+          "top": "73",
+          "bottom": "435"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1594.jpg",
+      "size": {
+        "width": "500",
+        "height": "409",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "393",
+          "top": "9",
+          "bottom": "393"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1612.jpg",
+      "size": {
+        "width": "303",
+        "height": "260",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "149",
+          "top": "80",
+          "bottom": "149"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_1695.jpg",
+      "size": {
+        "width": "448",
+        "height": "343",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "421",
+          "top": "35",
+          "bottom": "421"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2211.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "343",
+          "top": "1",
+          "bottom": "343"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_225.jpg",
+      "size": {
+        "width": "248",
+        "height": "181",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "231",
+          "top": "1",
+          "bottom": "231"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2413.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "121",
+          "right": "334",
+          "top": "109",
+          "bottom": "334"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2419.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "103",
+          "right": "498",
+          "top": "88",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2431.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "96",
+          "right": "312",
+          "top": "65",
+          "bottom": "312"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2433.jpg",
+      "size": {
+        "width": "500",
+        "height": "489",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "478",
+          "top": "1",
+          "bottom": "478"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2499.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "157",
+          "top": "36",
+          "bottom": "157"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2617.jpg",
+      "size": {
+        "width": "197",
+        "height": "289",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "33",
+          "right": "168",
+          "top": "39",
+          "bottom": "168"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2635.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "73",
+          "right": "378",
+          "top": "35",
+          "bottom": "378"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2860.jpg",
+      "size": {
+        "width": "500",
+        "height": "323",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "72",
+          "right": "355",
+          "top": "8",
+          "bottom": "355"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2911.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "82",
+          "right": "486",
+          "top": "48",
+          "bottom": "486"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2982.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "261",
+          "right": "352",
+          "top": "144",
+          "bottom": "352"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_2994.jpg",
+      "size": {
+        "width": "500",
+        "height": "427",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "28",
+          "right": "212",
+          "top": "75",
+          "bottom": "212"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3049.jpg",
+      "size": {
+        "width": "342",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "230",
+          "right": "285",
+          "top": "368",
+          "bottom": "285"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3118.jpg",
+      "size": {
+        "width": "500",
+        "height": "339",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "429",
+          "top": "34",
+          "bottom": "429"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_314.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "158",
+          "right": "388",
+          "top": "65",
+          "bottom": "388"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3169.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "130",
+          "right": "305",
+          "top": "26",
+          "bottom": "305"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3178.jpg",
+      "size": {
+        "width": "268",
+        "height": "258",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "267",
+          "top": "2",
+          "bottom": "267"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3457.jpg",
+      "size": {
+        "width": "285",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "255",
+          "top": "31",
+          "bottom": "255"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_377.jpg",
+      "size": {
+        "width": "800",
+        "height": "600",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "100",
+          "right": "667",
+          "top": "117",
+          "bottom": "667"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3832.jpg",
+      "size": {
+        "width": "500",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "357",
+          "top": "2",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_3857.jpg",
+      "size": {
+        "width": "365",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "45",
+          "right": "363",
+          "top": "48",
+          "bottom": "363"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_440.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "132",
+          "right": "345",
+          "top": "40",
+          "bottom": "345"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4422.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "149",
+          "right": "339",
+          "top": "46",
+          "bottom": "339"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4480.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "499",
+          "top": "5",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4536.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "211",
+          "right": "468",
+          "top": "33",
+          "bottom": "468"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4563.jpg",
+      "size": {
+        "width": "250",
+        "height": "219",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "249",
+          "top": "25",
+          "bottom": "249"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4589.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "48",
+          "right": "425",
+          "top": "87",
+          "bottom": "425"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4591.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "234",
+          "top": "4",
+          "bottom": "234"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4628.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "431",
+          "top": "138",
+          "bottom": "431"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4711.jpg",
+      "size": {
+        "width": "500",
+        "height": "421",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "111",
+          "right": "498",
+          "top": "0",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4760.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "220",
+          "right": "492",
+          "top": "31",
+          "bottom": "492"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_478.jpg",
+      "size": {
+        "width": "500",
+        "height": "450",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "211",
+          "right": "302",
+          "top": "99",
+          "bottom": "302"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4859.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "266",
+          "top": "9",
+          "bottom": "266"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4902.jpg",
+      "size": {
+        "width": "404",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "63",
+          "right": "378",
+          "top": "32",
+          "bottom": "378"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4924.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "121",
+          "right": "479",
+          "top": "27",
+          "bottom": "479"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_4976.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "248",
+          "right": "374",
+          "top": "101",
+          "bottom": "374"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_50.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "37",
+          "right": "331",
+          "top": "81",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_5242.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "221",
+          "right": "348",
+          "top": "103",
+          "bottom": "348"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_5340.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "319",
+          "top": "41",
+          "bottom": "319"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_5618.jpg",
+      "size": {
+        "width": "500",
+        "height": "404",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "125",
+          "right": "352",
+          "top": "120",
+          "bottom": "352"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_5819.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "118",
+          "right": "472",
+          "top": "35",
+          "bottom": "472"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_5833.jpg",
+      "size": {
+        "width": "500",
+        "height": "363",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "116",
+          "right": "488",
+          "top": "8",
+          "bottom": "488"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_5841.jpg",
+      "size": {
+        "width": "571",
+        "height": "371",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "268",
+          "right": "409",
+          "top": "74",
+          "bottom": "409"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6058.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "148",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_612.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "367",
+          "top": "40",
+          "bottom": "367"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6173.jpg",
+      "size": {
+        "width": "500",
+        "height": "433",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "56",
+          "right": "498",
+          "top": "48",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6194.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "180",
+          "right": "320",
+          "top": "135",
+          "bottom": "320"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6300.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "70",
+          "right": "274",
+          "top": "110",
+          "bottom": "274"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6408.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "265",
+          "top": "74",
+          "bottom": "265"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6415.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "126",
+          "right": "321",
+          "top": "90",
+          "bottom": "321"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6418.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "116",
+          "right": "355",
+          "top": "62",
+          "bottom": "355"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6477.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "100",
+          "right": "372",
+          "top": "77",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6499.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "255",
+          "right": "308",
+          "top": "120",
+          "bottom": "308"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6539.jpg",
+      "size": {
+        "width": "332",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "291",
+          "top": "161",
+          "bottom": "291"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6547.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "341",
+          "top": "16",
+          "bottom": "341"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6608.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "39",
+          "right": "321",
+          "top": "54",
+          "bottom": "321"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6775.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "144",
+          "right": "433",
+          "top": "15",
+          "bottom": "433"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_694.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "467",
+          "top": "0",
+          "bottom": "467"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6949.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "453",
+          "top": "73",
+          "bottom": "453"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_6992.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "138",
+          "right": "470",
+          "top": "66",
+          "bottom": "470"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7114.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "129",
+          "right": "394",
+          "top": "14",
+          "bottom": "394"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7145.jpg",
+      "size": {
+        "width": "367",
+        "height": "250",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "355",
+          "top": "18",
+          "bottom": "355"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7159.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "194",
+          "right": "359",
+          "top": "40",
+          "bottom": "359"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7215.jpg",
+      "size": {
+        "width": "290",
+        "height": "289",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "249",
+          "top": "6",
+          "bottom": "249"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7220.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "171",
+          "right": "410",
+          "top": "40",
+          "bottom": "410"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7231.jpg",
+      "size": {
+        "width": "462",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "174",
+          "top": "0",
+          "bottom": "174"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7308.jpg",
+      "size": {
+        "width": "381",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "323",
+          "top": "33",
+          "bottom": "323"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7353.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "431",
+          "top": "60",
+          "bottom": "431"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_741.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "330",
+          "top": "45",
+          "bottom": "330"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7443.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "161",
+          "right": "499",
+          "top": "51",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_748.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "120",
+          "right": "349",
+          "top": "33",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7480.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "482",
+          "top": "26",
+          "bottom": "482"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7600.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7608.jpg",
+      "size": {
+        "width": "500",
+        "height": "373",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "330",
+          "right": "481",
+          "top": "119",
+          "bottom": "481"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_7676.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "344",
+          "top": "67",
+          "bottom": "344"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_8414.jpg",
+      "size": {
+        "width": "311",
+        "height": "449",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "39",
+          "right": "300",
+          "top": "37",
+          "bottom": "300"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_8678.jpg",
+      "size": {
+        "width": "500",
+        "height": "334",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "90",
+          "right": "382",
+          "top": "10",
+          "bottom": "382"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_8794.jpg",
+      "size": {
+        "width": "1396",
+        "height": "938",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "654",
+          "right": "1253",
+          "top": "142",
+          "bottom": "1253"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_8812.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "145",
+          "right": "450",
+          "top": "67",
+          "bottom": "450"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_8846.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "474",
+          "top": "42",
+          "bottom": "474"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_8932.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "281",
+          "right": "393",
+          "top": "107",
+          "bottom": "393"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9000.jpg",
+      "size": {
+        "width": "500",
+        "height": "348",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "282",
+          "top": "55",
+          "bottom": "282"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9024.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "28",
+          "right": "455",
+          "top": "7",
+          "bottom": "455"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9063.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "429",
+          "top": "9",
+          "bottom": "429"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9116.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "92",
+          "right": "456",
+          "top": "0",
+          "bottom": "456"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9207.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "43",
+          "right": "493",
+          "top": "123",
+          "bottom": "493"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9208.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "497",
+          "top": "7",
+          "bottom": "497"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9579.jpg",
+      "size": {
+        "width": "500",
+        "height": "356",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "499",
+          "top": "2",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9615.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "250",
+          "right": "361",
+          "top": "95",
+          "bottom": "361"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9666.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "498",
+          "top": "0",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9807.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "266",
+          "top": "80",
+          "bottom": "266"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9809.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "99",
+          "right": "420",
+          "top": "47",
+          "bottom": "420"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_982.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "430",
+          "top": "0",
+          "bottom": "430"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9895.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "166",
+          "right": "340",
+          "top": "52",
+          "bottom": "340"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9902.jpg",
+      "size": {
+        "width": "500",
+        "height": "352",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "181",
+          "right": "303",
+          "top": "116",
+          "bottom": "303"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9924.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "47",
+          "right": "418",
+          "top": "24",
+          "bottom": "418"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02113186-Cardigan/n02113186_9935.jpg",
+      "size": {
+        "width": "500",
+        "height": "374",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "171",
+          "right": "317",
+          "top": "108",
+          "bottom": "317"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3028 @@
+{
+  "@context": "https://feeds.json-ld.io/2005/Atom",
+  "@type": "Feed",
+  "name": "Images of n02089078-black-and-tan_coonhound",
+  "entries": [
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1021.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "156",
+          "right": "371",
+          "top": "40",
+          "bottom": "371"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1025.jpg",
+      "size": {
+        "width": "318",
+        "height": "439",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "30",
+          "right": "268",
+          "top": "9",
+          "bottom": "268"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1026.jpg",
+      "size": {
+        "width": "384",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "367",
+          "top": "33",
+          "bottom": "367"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1064.jpg",
+      "size": {
+        "width": "300",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "299",
+          "top": "55",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_111.jpg",
+      "size": {
+        "width": "269",
+        "height": "263",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "67",
+          "right": "267",
+          "top": "90",
+          "bottom": "267"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1151.jpg",
+      "size": {
+        "width": "230",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "199",
+          "top": "53",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1174.jpg",
+      "size": {
+        "width": "375",
+        "height": "265",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "305",
+          "top": "10",
+          "bottom": "305"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1245.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "131",
+          "top": "1",
+          "bottom": "131"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1275.jpg",
+      "size": {
+        "width": "360",
+        "height": "293",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "42",
+          "right": "359",
+          "top": "0",
+          "bottom": "359"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1304.jpg",
+      "size": {
+        "width": "190",
+        "height": "247",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "189",
+          "top": "9",
+          "bottom": "189"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1366.jpg",
+      "size": {
+        "width": "275",
+        "height": "196",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "268",
+          "top": "33",
+          "bottom": "268"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_141.jpg",
+      "size": {
+        "width": "380",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "346",
+          "top": "0",
+          "bottom": "346"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1454.jpg",
+      "size": {
+        "width": "300",
+        "height": "297",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "44",
+          "right": "240",
+          "top": "54",
+          "bottom": "240"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1472.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "310",
+          "top": "50",
+          "bottom": "310"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1617.jpg",
+      "size": {
+        "width": "200",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "199",
+          "top": "30",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1629.jpg",
+      "size": {
+        "width": "300",
+        "height": "252",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "65",
+          "right": "233",
+          "top": "53",
+          "bottom": "233"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1668.jpg",
+      "size": {
+        "width": "349",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "318",
+          "top": "30",
+          "bottom": "318"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1680.jpg",
+      "size": {
+        "width": "200",
+        "height": "202",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "41",
+          "right": "162",
+          "top": "15",
+          "bottom": "162"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1681.jpg",
+      "size": {
+        "width": "360",
+        "height": "297",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "358",
+          "top": "19",
+          "bottom": "358"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1735.jpg",
+      "size": {
+        "width": "250",
+        "height": "250",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "231",
+          "top": "23",
+          "bottom": "231"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1744.jpg",
+      "size": {
+        "width": "353",
+        "height": "317",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "15",
+          "right": "210",
+          "top": "11",
+          "bottom": "210"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1758.jpg",
+      "size": {
+        "width": "360",
+        "height": "287",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "354",
+          "top": "21",
+          "bottom": "354"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_176.jpg",
+      "size": {
+        "width": "293",
+        "height": "220",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "72",
+          "right": "227",
+          "top": "17",
+          "bottom": "227"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1793.jpg",
+      "size": {
+        "width": "448",
+        "height": "336",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "216",
+          "right": "307",
+          "top": "0",
+          "bottom": "307"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1825.jpg",
+      "size": {
+        "width": "150",
+        "height": "130",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "144",
+          "top": "0",
+          "bottom": "144"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_183.jpg",
+      "size": {
+        "width": "500",
+        "height": "361",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "418",
+          "top": "23",
+          "bottom": "418"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1836.jpg",
+      "size": {
+        "width": "148",
+        "height": "205",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "138",
+          "top": "1",
+          "bottom": "138"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1842.jpg",
+      "size": {
+        "width": "275",
+        "height": "389",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "247",
+          "top": "1",
+          "bottom": "247"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_185.jpg",
+      "size": {
+        "width": "346",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "343",
+          "top": "2",
+          "bottom": "343"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1867.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "455",
+          "top": "1",
+          "bottom": "455"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_188.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "344",
+          "top": "35",
+          "bottom": "344"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_19.jpg",
+      "size": {
+        "width": "276",
+        "height": "185",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "158",
+          "top": "26",
+          "bottom": "158"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_192.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "226",
+          "top": "36",
+          "bottom": "226"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1951.jpg",
+      "size": {
+        "width": "360",
+        "height": "284",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "99",
+          "right": "297",
+          "top": "46",
+          "bottom": "297"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1962.jpg",
+      "size": {
+        "width": "394",
+        "height": "317",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "389",
+          "top": "8",
+          "bottom": "389"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_1967.jpg",
+      "size": {
+        "width": "549",
+        "height": "451",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "28",
+          "right": "511",
+          "top": "51",
+          "bottom": "511"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2021.jpg",
+      "size": {
+        "width": "529",
+        "height": "768",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "51",
+          "right": "492",
+          "top": "42",
+          "bottom": "492"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2025.jpg",
+      "size": {
+        "width": "320",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "218",
+          "top": "6",
+          "bottom": "218"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2032.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "191",
+          "top": "147",
+          "bottom": "191"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2106.jpg",
+      "size": {
+        "width": "462",
+        "height": "492",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "149",
+          "right": "453",
+          "top": "227",
+          "bottom": "453"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2108.jpg",
+      "size": {
+        "width": "360",
+        "height": "270",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "334",
+          "top": "0",
+          "bottom": "334"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2110.jpg",
+      "size": {
+        "width": "231",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "26",
+          "right": "230",
+          "top": "28",
+          "bottom": "230"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2174.jpg",
+      "size": {
+        "width": "500",
+        "height": "281",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "157",
+          "right": "450",
+          "top": "9",
+          "bottom": "450"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_222.jpg",
+      "size": {
+        "width": "263",
+        "height": "360",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "54",
+          "right": "230",
+          "top": "22",
+          "bottom": "230"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2225.jpg",
+      "size": {
+        "width": "240",
+        "height": "184",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "209",
+          "top": "7",
+          "bottom": "209"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2227.jpg",
+      "size": {
+        "width": "200",
+        "height": "179",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "176",
+          "top": "10",
+          "bottom": "176"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2232.jpg",
+      "size": {
+        "width": "200",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "127",
+          "top": "61",
+          "bottom": "127"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2270.jpg",
+      "size": {
+        "width": "769",
+        "height": "892",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "203",
+          "right": "668",
+          "top": "147",
+          "bottom": "668"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2282.jpg",
+      "size": {
+        "width": "300",
+        "height": "194",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "299",
+          "top": "9",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2294.jpg",
+      "size": {
+        "width": "500",
+        "height": "376",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "490",
+          "top": "83",
+          "bottom": "490"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2333.jpg",
+      "size": {
+        "width": "230",
+        "height": "290",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "229",
+          "top": "17",
+          "bottom": "229"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2337.jpg",
+      "size": {
+        "width": "382",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "355",
+          "top": "23",
+          "bottom": "355"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_237.jpg",
+      "size": {
+        "width": "200",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "199",
+          "top": "4",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2404.jpg",
+      "size": {
+        "width": "253",
+        "height": "265",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "188",
+          "top": "36",
+          "bottom": "188"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2417.jpg",
+      "size": {
+        "width": "350",
+        "height": "233",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "201",
+          "top": "32",
+          "bottom": "201"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_243.jpg",
+      "size": {
+        "width": "371",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "30",
+          "right": "369",
+          "top": "70",
+          "bottom": "369"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2464.jpg",
+      "size": {
+        "width": "275",
+        "height": "275",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "274",
+          "top": "0",
+          "bottom": "274"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2476.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "439",
+          "top": "0",
+          "bottom": "439"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2478.jpg",
+      "size": {
+        "width": "640",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "124",
+          "right": "590",
+          "top": "52",
+          "bottom": "590"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2498.jpg",
+      "size": {
+        "width": "500",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "438",
+          "top": "8",
+          "bottom": "438"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2542.jpg",
+      "size": {
+        "width": "500",
+        "height": "417",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "474",
+          "top": "11",
+          "bottom": "474"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_256.jpg",
+      "size": {
+        "width": "360",
+        "height": "301",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "72",
+          "right": "359",
+          "top": "55",
+          "bottom": "359"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2574.jpg",
+      "size": {
+        "width": "237",
+        "height": "194",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "224",
+          "top": "18",
+          "bottom": "224"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2596.jpg",
+      "size": {
+        "width": "300",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "299",
+          "top": "15",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2684.jpg",
+      "size": {
+        "width": "200",
+        "height": "255",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "184",
+          "top": "47",
+          "bottom": "184"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_269.jpg",
+      "size": {
+        "width": "200",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "163",
+          "top": "64",
+          "bottom": "163"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2728.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "306",
+          "top": "8",
+          "bottom": "306"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2753.jpg",
+      "size": {
+        "width": "200",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "194",
+          "top": "0",
+          "bottom": "194"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2794.jpg",
+      "size": {
+        "width": "208",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "189",
+          "top": "32",
+          "bottom": "189"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2801.jpg",
+      "size": {
+        "width": "800",
+        "height": "602",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "548",
+          "top": "78",
+          "bottom": "548"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2829.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "146",
+          "right": "442",
+          "top": "7",
+          "bottom": "442"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2841.jpg",
+      "size": {
+        "width": "360",
+        "height": "277",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "327",
+          "top": "51",
+          "bottom": "327"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2903.jpg",
+      "size": {
+        "width": "197",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "187",
+          "top": "22",
+          "bottom": "187"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2921.jpg",
+      "size": {
+        "width": "250",
+        "height": "243",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "247",
+          "top": "7",
+          "bottom": "247"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2934.jpg",
+      "size": {
+        "width": "400",
+        "height": "317",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "349",
+          "top": "0",
+          "bottom": "349"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2935.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "131",
+          "right": "430",
+          "top": "43",
+          "bottom": "430"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2957.jpg",
+      "size": {
+        "width": "583",
+        "height": "484",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "49",
+          "right": "503",
+          "top": "39",
+          "bottom": "503"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_2962.jpg",
+      "size": {
+        "width": "300",
+        "height": "233",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "256",
+          "top": "22",
+          "bottom": "256"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_302.jpg",
+      "size": {
+        "width": "250",
+        "height": "214",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "14",
+          "right": "221",
+          "top": "23",
+          "bottom": "221"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3038.jpg",
+      "size": {
+        "width": "220",
+        "height": "275",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "210",
+          "top": "22",
+          "bottom": "210"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3051.jpg",
+      "size": {
+        "width": "400",
+        "height": "326",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "379",
+          "top": "20",
+          "bottom": "379"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3078.jpg",
+      "size": {
+        "width": "250",
+        "height": "223",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "144",
+          "top": "29",
+          "bottom": "144"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3081.jpg",
+      "size": {
+        "width": "300",
+        "height": "201",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "67",
+          "right": "272",
+          "top": "21",
+          "bottom": "272"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3088.jpg",
+      "size": {
+        "width": "400",
+        "height": "340",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "391",
+          "top": "6",
+          "bottom": "391"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3134.jpg",
+      "size": {
+        "width": "200",
+        "height": "290",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "183",
+          "top": "7",
+          "bottom": "183"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_314.jpg",
+      "size": {
+        "width": "288",
+        "height": "241",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "283",
+          "top": "6",
+          "bottom": "283"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3182.jpg",
+      "size": {
+        "width": "339",
+        "height": "494",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "69",
+          "right": "251",
+          "top": "51",
+          "bottom": "251"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3183.jpg",
+      "size": {
+        "width": "500",
+        "height": "359",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "442",
+          "top": "20",
+          "bottom": "442"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3188.jpg",
+      "size": {
+        "width": "265",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "248",
+          "top": "18",
+          "bottom": "248"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3191.jpg",
+      "size": {
+        "width": "500",
+        "height": "411",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "68",
+          "right": "312",
+          "top": "26",
+          "bottom": "312"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3196.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "443",
+          "top": "0",
+          "bottom": "443"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_324.jpg",
+      "size": {
+        "width": "215",
+        "height": "199",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "214",
+          "top": "11",
+          "bottom": "214"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3340.jpg",
+      "size": {
+        "width": "271",
+        "height": "305",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "174",
+          "top": "91",
+          "bottom": "174"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3355.jpg",
+      "size": {
+        "width": "230",
+        "height": "254",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "229",
+          "top": "10",
+          "bottom": "229"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3412.jpg",
+      "size": {
+        "width": "600",
+        "height": "450",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "139",
+          "right": "505",
+          "top": "0",
+          "bottom": "505"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3419.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "153",
+          "top": "15",
+          "bottom": "153"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3440.jpg",
+      "size": {
+        "width": "219",
+        "height": "293",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "194",
+          "top": "45",
+          "bottom": "194"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3443.jpg",
+      "size": {
+        "width": "640",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "74",
+          "right": "276",
+          "top": "153",
+          "bottom": "276"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_351.jpg",
+      "size": {
+        "width": "288",
+        "height": "232",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "282",
+          "top": "13",
+          "bottom": "282"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_353.jpg",
+      "size": {
+        "width": "245",
+        "height": "417",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "26",
+          "right": "210",
+          "top": "14",
+          "bottom": "210"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3532.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "123",
+          "top": "22",
+          "bottom": "123"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3543.jpg",
+      "size": {
+        "width": "190",
+        "height": "257",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "189",
+          "top": "2",
+          "bottom": "189"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3613.jpg",
+      "size": {
+        "width": "350",
+        "height": "235",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "269",
+          "top": "42",
+          "bottom": "269"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3615.jpg",
+      "size": {
+        "width": "240",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "184",
+          "top": "6",
+          "bottom": "184"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3648.jpg",
+      "size": {
+        "width": "250",
+        "height": "340",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "249",
+          "top": "13",
+          "bottom": "249"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3652.jpg",
+      "size": {
+        "width": "640",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "128",
+          "right": "600",
+          "top": "150",
+          "bottom": "600"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3681.jpg",
+      "size": {
+        "width": "353",
+        "height": "265",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "110",
+          "right": "317",
+          "top": "60",
+          "bottom": "317"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3759.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "373",
+          "top": "86",
+          "bottom": "373"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_376.jpg",
+      "size": {
+        "width": "382",
+        "height": "425",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "380",
+          "top": "21",
+          "bottom": "380"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3760.jpg",
+      "size": {
+        "width": "339",
+        "height": "428",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "335",
+          "top": "20",
+          "bottom": "335"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3807.jpg",
+      "size": {
+        "width": "200",
+        "height": "253",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "187",
+          "top": "8",
+          "bottom": "187"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3810.jpg",
+      "size": {
+        "width": "274",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "86",
+          "right": "214",
+          "top": "56",
+          "bottom": "214"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3821.jpg",
+      "size": {
+        "width": "225",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "157",
+          "top": "8",
+          "bottom": "157"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3869.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "169",
+          "right": "420",
+          "top": "0",
+          "bottom": "420"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3893.jpg",
+      "size": {
+        "width": "330",
+        "height": "381",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "329",
+          "top": "4",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3914.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "103",
+          "right": "334",
+          "top": "82",
+          "bottom": "334"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3923.jpg",
+      "size": {
+        "width": "275",
+        "height": "237",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "250",
+          "top": "37",
+          "bottom": "250"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_393.jpg",
+      "size": {
+        "width": "426",
+        "height": "404",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "391",
+          "top": "46",
+          "bottom": "391"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_3932.jpg",
+      "size": {
+        "width": "300",
+        "height": "453",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "285",
+          "top": "64",
+          "bottom": "285"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4.jpg",
+      "size": {
+        "width": "512",
+        "height": "384",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "159",
+          "right": "364",
+          "top": "38",
+          "bottom": "364"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4024.jpg",
+      "size": {
+        "width": "375",
+        "height": "281",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "154",
+          "right": "263",
+          "top": "0",
+          "bottom": "263"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_404.jpg",
+      "size": {
+        "width": "300",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "143",
+          "right": "299",
+          "top": "17",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4065.jpg",
+      "size": {
+        "width": "350",
+        "height": "354",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "146",
+          "right": "287",
+          "top": "94",
+          "bottom": "287"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4098.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "93",
+          "right": "373",
+          "top": "20",
+          "bottom": "373"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4140.jpg",
+      "size": {
+        "width": "382",
+        "height": "498",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "348",
+          "top": "23",
+          "bottom": "348"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4186.jpg",
+      "size": {
+        "width": "360",
+        "height": "211",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "16",
+          "right": "358",
+          "top": "0",
+          "bottom": "358"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4312.jpg",
+      "size": {
+        "width": "300",
+        "height": "226",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "27",
+          "right": "273",
+          "top": "11",
+          "bottom": "273"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4331.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "144",
+          "right": "302",
+          "top": "20",
+          "bottom": "302"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4362.jpg",
+      "size": {
+        "width": "300",
+        "height": "226",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "58",
+          "right": "266",
+          "top": "47",
+          "bottom": "266"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4422.jpg",
+      "size": {
+        "width": "208",
+        "height": "144",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "187",
+          "top": "23",
+          "bottom": "187"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4441.jpg",
+      "size": {
+        "width": "288",
+        "height": "192",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "55",
+          "right": "234",
+          "top": "12",
+          "bottom": "234"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_445.jpg",
+      "size": {
+        "width": "178",
+        "height": "366",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "166",
+          "top": "44",
+          "bottom": "166"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4466.jpg",
+      "size": {
+        "width": "100",
+        "height": "115",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "99",
+          "top": "9",
+          "bottom": "99"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4497.jpg",
+      "size": {
+        "width": "286",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "267",
+          "top": "25",
+          "bottom": "267"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_45.jpg",
+      "size": {
+        "width": "585",
+        "height": "400",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "348",
+          "top": "70",
+          "bottom": "348"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4508.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "325",
+          "top": "5",
+          "bottom": "325"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_4544.jpg",
+      "size": {
+        "width": "426",
+        "height": "414",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "306",
+          "top": "50",
+          "bottom": "306"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_456.jpg",
+      "size": {
+        "width": "400",
+        "height": "337",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "388",
+          "top": "68",
+          "bottom": "388"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_461.jpg",
+      "size": {
+        "width": "300",
+        "height": "272",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "68",
+          "right": "273",
+          "top": "13",
+          "bottom": "273"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_464.jpg",
+      "size": {
+        "width": "500",
+        "height": "281",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "2",
+          "right": "455",
+          "top": "21",
+          "bottom": "455"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_465.jpg",
+      "size": {
+        "width": "400",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "392",
+          "top": "5",
+          "bottom": "392"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_482.jpg",
+      "size": {
+        "width": "343",
+        "height": "296",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "304",
+          "top": "54",
+          "bottom": "304"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_502.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "37",
+          "right": "317",
+          "top": "75",
+          "bottom": "317"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_52.jpg",
+      "size": {
+        "width": "250",
+        "height": "223",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "246",
+          "top": "10",
+          "bottom": "246"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_641.jpg",
+      "size": {
+        "width": "349",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "16",
+          "right": "347",
+          "top": "14",
+          "bottom": "347"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_663.jpg",
+      "size": {
+        "width": "300",
+        "height": "226",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "76",
+          "right": "297",
+          "top": "52",
+          "bottom": "297"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_682.jpg",
+      "size": {
+        "width": "280",
+        "height": "214",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "277",
+          "top": "1",
+          "bottom": "277"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_695.jpg",
+      "size": {
+        "width": "255",
+        "height": "255",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "38",
+          "right": "201",
+          "top": "6",
+          "bottom": "201"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_715.jpg",
+      "size": {
+        "width": "512",
+        "height": "384",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "138",
+          "right": "401",
+          "top": "37",
+          "bottom": "401"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_727.jpg",
+      "size": {
+        "width": "500",
+        "height": "357",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "479",
+          "top": "26",
+          "bottom": "479"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_779.jpg",
+      "size": {
+        "width": "367",
+        "height": "424",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "37",
+          "right": "365",
+          "top": "27",
+          "bottom": "365"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_782.jpg",
+      "size": {
+        "width": "500",
+        "height": "281",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "372",
+          "top": "45",
+          "bottom": "372"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_80.jpg",
+      "size": {
+        "width": "250",
+        "height": "264",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "48",
+          "right": "211",
+          "top": "40",
+          "bottom": "211"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_825.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "311",
+          "top": "30",
+          "bottom": "311"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_877.jpg",
+      "size": {
+        "width": "500",
+        "height": "414",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "50",
+          "right": "459",
+          "top": "17",
+          "bottom": "459"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_901.jpg",
+      "size": {
+        "width": "288",
+        "height": "236",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "283",
+          "top": "3",
+          "bottom": "283"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_933.jpg",
+      "size": {
+        "width": "300",
+        "height": "257",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "49",
+          "right": "299",
+          "top": "66",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_944.jpg",
+      "size": {
+        "width": "384",
+        "height": "340",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "381",
+          "top": "6",
+          "bottom": "381"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02089078-black-and-tan_coonhound/n02089078_965.jpg",
+      "size": {
+        "width": "375",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "63",
+          "right": "227",
+          "top": "2",
+          "bottom": "227"
+        }
+      ]
+    }
+  ]
+}

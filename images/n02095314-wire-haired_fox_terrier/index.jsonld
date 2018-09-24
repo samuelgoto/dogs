@@ -1,0 +1,2990 @@
+{
+  "@context": "https://feeds.json-ld.io/2005/Atom",
+  "@type": "Feed",
+  "name": "Images of n02095314-wire-haired_fox_terrier",
+  "entries": [
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1033.jpg",
+      "size": {
+        "width": "200",
+        "height": "179",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "185",
+          "top": "13",
+          "bottom": "185"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1043.jpg",
+      "size": {
+        "width": "280",
+        "height": "237",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "240",
+          "top": "13",
+          "bottom": "240"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_105.jpg",
+      "size": {
+        "width": "300",
+        "height": "237",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "289",
+          "top": "11",
+          "bottom": "289"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1054.jpg",
+      "size": {
+        "width": "335",
+        "height": "320",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "55",
+          "right": "239",
+          "top": "44",
+          "bottom": "239"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_108.jpg",
+      "size": {
+        "width": "288",
+        "height": "257",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "45",
+          "right": "276",
+          "top": "30",
+          "bottom": "276"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1080.jpg",
+      "size": {
+        "width": "280",
+        "height": "237",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "229",
+          "top": "34",
+          "bottom": "229"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1100.jpg",
+      "size": {
+        "width": "180",
+        "height": "209",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "168",
+          "top": "10",
+          "bottom": "168"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1104.jpg",
+      "size": {
+        "width": "333",
+        "height": "281",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "60",
+          "right": "325",
+          "top": "56",
+          "bottom": "325"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1116.jpg",
+      "size": {
+        "width": "335",
+        "height": "273",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "316",
+          "top": "10",
+          "bottom": "316"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1177.jpg",
+      "size": {
+        "width": "148",
+        "height": "208",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "124",
+          "top": "5",
+          "bottom": "124"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1212.jpg",
+      "size": {
+        "width": "179",
+        "height": "246",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "177",
+          "top": "7",
+          "bottom": "177"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1268.jpg",
+      "size": {
+        "width": "250",
+        "height": "350",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "221",
+          "top": "63",
+          "bottom": "221"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1278.jpg",
+      "size": {
+        "width": "400",
+        "height": "322",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "382",
+          "top": "13",
+          "bottom": "382"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1282.jpg",
+      "size": {
+        "width": "300",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "285",
+          "top": "3",
+          "bottom": "285"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_138.jpg",
+      "size": {
+        "width": "500",
+        "height": "494",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "51",
+          "right": "417",
+          "top": "2",
+          "bottom": "417"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1395.jpg",
+      "size": {
+        "width": "500",
+        "height": "354",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "498",
+          "top": "8",
+          "bottom": "498"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1407.jpg",
+      "size": {
+        "width": "349",
+        "height": "289",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "340",
+          "top": "35",
+          "bottom": "340"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1505.jpg",
+      "size": {
+        "width": "250",
+        "height": "340",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "248",
+          "top": "14",
+          "bottom": "248"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1533.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "359",
+          "top": "0",
+          "bottom": "359"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1536.jpg",
+      "size": {
+        "width": "220",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "210",
+          "top": "13",
+          "bottom": "210"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_157.jpg",
+      "size": {
+        "width": "400",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "25",
+          "right": "342",
+          "top": "7",
+          "bottom": "342"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1577.jpg",
+      "size": {
+        "width": "563",
+        "height": "989",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "59",
+          "right": "535",
+          "top": "14",
+          "bottom": "535"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1582.jpg",
+      "size": {
+        "width": "640",
+        "height": "480",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "144",
+          "right": "451",
+          "top": "73",
+          "bottom": "451"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1583.jpg",
+      "size": {
+        "width": "350",
+        "height": "232",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "140",
+          "right": "328",
+          "top": "4",
+          "bottom": "328"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1660.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "331",
+          "top": "13",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1665.jpg",
+      "size": {
+        "width": "295",
+        "height": "230",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "14",
+          "right": "286",
+          "top": "13",
+          "bottom": "286"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1672.jpg",
+      "size": {
+        "width": "190",
+        "height": "144",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "187",
+          "top": "3",
+          "bottom": "187"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1704.jpg",
+      "size": {
+        "width": "317",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "309",
+          "top": "22",
+          "bottom": "309"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1705.jpg",
+      "size": {
+        "width": "150",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "137",
+          "top": "1",
+          "bottom": "137"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1717.jpg",
+      "size": {
+        "width": "247",
+        "height": "181",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "55",
+          "right": "178",
+          "top": "20",
+          "bottom": "178"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1754.jpg",
+      "size": {
+        "width": "360",
+        "height": "335",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "310",
+          "top": "37",
+          "bottom": "310"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1772.jpg",
+      "size": {
+        "width": "318",
+        "height": "296",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "14",
+          "right": "292",
+          "top": "25",
+          "bottom": "292"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1780.jpg",
+      "size": {
+        "width": "177",
+        "height": "166",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "16",
+          "right": "129",
+          "top": "20",
+          "bottom": "129"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1782.jpg",
+      "size": {
+        "width": "500",
+        "height": "337",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "186",
+          "right": "298",
+          "top": "140",
+          "bottom": "298"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1789.jpg",
+      "size": {
+        "width": "200",
+        "height": "159",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "14",
+          "right": "195",
+          "top": "7",
+          "bottom": "195"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1814.jpg",
+      "size": {
+        "width": "216",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "3",
+          "right": "214",
+          "top": "6",
+          "bottom": "214"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1820.jpg",
+      "size": {
+        "width": "246",
+        "height": "250",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "184",
+          "top": "27",
+          "bottom": "184"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1829.jpg",
+      "size": {
+        "width": "450",
+        "height": "376",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "92",
+          "right": "411",
+          "top": "38",
+          "bottom": "411"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1835.jpg",
+      "size": {
+        "width": "350",
+        "height": "257",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "331",
+          "top": "24",
+          "bottom": "331"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1866.jpg",
+      "size": {
+        "width": "200",
+        "height": "159",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "198",
+          "top": "2",
+          "bottom": "198"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_188.jpg",
+      "size": {
+        "width": "240",
+        "height": "325",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "231",
+          "top": "14",
+          "bottom": "231"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1884.jpg",
+      "size": {
+        "width": "200",
+        "height": "212",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "190",
+          "top": "7",
+          "bottom": "190"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1894.jpg",
+      "size": {
+        "width": "165",
+        "height": "168",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "15",
+          "right": "125",
+          "top": "17",
+          "bottom": "125"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1917.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "137",
+          "right": "393",
+          "top": "1",
+          "bottom": "393"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1945.jpg",
+      "size": {
+        "width": "250",
+        "height": "361",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "200",
+          "top": "6",
+          "bottom": "200"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1969.jpg",
+      "size": {
+        "width": "200",
+        "height": "170",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "28",
+          "right": "148",
+          "top": "20",
+          "bottom": "148"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1974.jpg",
+      "size": {
+        "width": "375",
+        "height": "353",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "81",
+          "right": "329",
+          "top": "99",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1976.jpg",
+      "size": {
+        "width": "218",
+        "height": "214",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "52",
+          "right": "165",
+          "top": "10",
+          "bottom": "165"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_1997.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "432",
+          "top": "1",
+          "bottom": "432"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "499",
+          "top": "0",
+          "bottom": "499"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2038.jpg",
+      "size": {
+        "width": "340",
+        "height": "316",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "307",
+          "top": "1",
+          "bottom": "307"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2059.jpg",
+      "size": {
+        "width": "223",
+        "height": "195",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "214",
+          "top": "1",
+          "bottom": "214"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2130.jpg",
+      "size": {
+        "width": "350",
+        "height": "532",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "33",
+          "right": "311",
+          "top": "30",
+          "bottom": "311"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2139.jpg",
+      "size": {
+        "width": "400",
+        "height": "266",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "185",
+          "top": "88",
+          "bottom": "185"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2162.jpg",
+      "size": {
+        "width": "190",
+        "height": "290",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "186",
+          "top": "0",
+          "bottom": "186"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2196.jpg",
+      "size": {
+        "width": "294",
+        "height": "216",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "162",
+          "top": "38",
+          "bottom": "162"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2198.jpg",
+      "size": {
+        "width": "400",
+        "height": "255",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "188",
+          "right": "369",
+          "top": "20",
+          "bottom": "369"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2205.jpg",
+      "size": {
+        "width": "300",
+        "height": "269",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "285",
+          "top": "33",
+          "bottom": "285"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2230.jpg",
+      "size": {
+        "width": "300",
+        "height": "485",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "263",
+          "top": "20",
+          "bottom": "263"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2247.jpg",
+      "size": {
+        "width": "276",
+        "height": "268",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "33",
+          "right": "138",
+          "top": "43",
+          "bottom": "138"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2256.jpg",
+      "size": {
+        "width": "172",
+        "height": "158",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "79",
+          "right": "163",
+          "top": "1",
+          "bottom": "163"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_227.jpg",
+      "size": {
+        "width": "373",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "15",
+          "right": "347",
+          "top": "8",
+          "bottom": "347"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2308.jpg",
+      "size": {
+        "width": "320",
+        "height": "278",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "57",
+          "right": "253",
+          "top": "11",
+          "bottom": "253"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2310.jpg",
+      "size": {
+        "width": "300",
+        "height": "345",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "25",
+          "right": "276",
+          "top": "33",
+          "bottom": "276"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2314.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "151",
+          "right": "287",
+          "top": "159",
+          "bottom": "287"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2338.jpg",
+      "size": {
+        "width": "340",
+        "height": "343",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "289",
+          "top": "13",
+          "bottom": "289"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2354.jpg",
+      "size": {
+        "width": "400",
+        "height": "325",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "53",
+          "right": "389",
+          "top": "21",
+          "bottom": "389"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2372.jpg",
+      "size": {
+        "width": "560",
+        "height": "532",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "111",
+          "right": "525",
+          "top": "11",
+          "bottom": "525"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2421.jpg",
+      "size": {
+        "width": "230",
+        "height": "340",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "217",
+          "top": "33",
+          "bottom": "217"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2424.jpg",
+      "size": {
+        "width": "300",
+        "height": "293",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "276",
+          "top": "93",
+          "bottom": "276"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2460.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "130",
+          "right": "361",
+          "top": "2",
+          "bottom": "361"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2472.jpg",
+      "size": {
+        "width": "300",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "98",
+          "right": "299",
+          "top": "1",
+          "bottom": "299"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2519.jpg",
+      "size": {
+        "width": "275",
+        "height": "231",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "270",
+          "top": "4",
+          "bottom": "270"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_252.jpg",
+      "size": {
+        "width": "320",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "33",
+          "right": "319",
+          "top": "3",
+          "bottom": "319"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2564.jpg",
+      "size": {
+        "width": "208",
+        "height": "230",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "35",
+          "right": "146",
+          "top": "0",
+          "bottom": "146"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2609.jpg",
+      "size": {
+        "width": "190",
+        "height": "165",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "6",
+          "right": "189",
+          "top": "1",
+          "bottom": "189"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_261.jpg",
+      "size": {
+        "width": "400",
+        "height": "416",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "56",
+          "right": "325",
+          "top": "147",
+          "bottom": "325"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2664.jpg",
+      "size": {
+        "width": "374",
+        "height": "212",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "373",
+          "top": "9",
+          "bottom": "373"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2683.jpg",
+      "size": {
+        "width": "333",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "36",
+          "right": "305",
+          "top": "90",
+          "bottom": "305"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2687.jpg",
+      "size": {
+        "width": "318",
+        "height": "397",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "282",
+          "top": "22",
+          "bottom": "282"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2699.jpg",
+      "size": {
+        "width": "275",
+        "height": "306",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "264",
+          "top": "2",
+          "bottom": "264"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2742.jpg",
+      "size": {
+        "width": "335",
+        "height": "277",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "11",
+          "right": "310",
+          "top": "10",
+          "bottom": "310"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2754.jpg",
+      "size": {
+        "width": "200",
+        "height": "145",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "192",
+          "top": "10",
+          "bottom": "192"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2803.jpg",
+      "size": {
+        "width": "300",
+        "height": "280",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "283",
+          "top": "22",
+          "bottom": "283"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2827.jpg",
+      "size": {
+        "width": "500",
+        "height": "343",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "141",
+          "right": "497",
+          "top": "30",
+          "bottom": "497"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2841.jpg",
+      "size": {
+        "width": "250",
+        "height": "272",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "233",
+          "top": "18",
+          "bottom": "233"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2863.jpg",
+      "size": {
+        "width": "146",
+        "height": "190",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "128",
+          "top": "3",
+          "bottom": "128"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2864.jpg",
+      "size": {
+        "width": "200",
+        "height": "170",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "172",
+          "top": "0",
+          "bottom": "172"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2876.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "132",
+          "right": "368",
+          "top": "92",
+          "bottom": "368"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_289.jpg",
+      "size": {
+        "width": "200",
+        "height": "185",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "163",
+          "top": "23",
+          "bottom": "163"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2890.jpg",
+      "size": {
+        "width": "413",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "60",
+          "right": "256",
+          "top": "35",
+          "bottom": "256"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2904.jpg",
+      "size": {
+        "width": "250",
+        "height": "309",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "238",
+          "top": "1",
+          "bottom": "238"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_293.jpg",
+      "size": {
+        "width": "350",
+        "height": "320",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "31",
+          "right": "313",
+          "top": "6",
+          "bottom": "313"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2932.jpg",
+      "size": {
+        "width": "200",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "163",
+          "top": "18",
+          "bottom": "163"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_2964.jpg",
+      "size": {
+        "width": "357",
+        "height": "305",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "329",
+          "top": "9",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3006.jpg",
+      "size": {
+        "width": "184",
+        "height": "219",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "56",
+          "right": "155",
+          "top": "73",
+          "bottom": "155"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3039.jpg",
+      "size": {
+        "width": "446",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "428",
+          "top": "36",
+          "bottom": "428"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3052.jpg",
+      "size": {
+        "width": "200",
+        "height": "133",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "156",
+          "top": "7",
+          "bottom": "156"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3054.jpg",
+      "size": {
+        "width": "190",
+        "height": "141",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "188",
+          "top": "1",
+          "bottom": "188"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3084.jpg",
+      "size": {
+        "width": "300",
+        "height": "239",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "12",
+          "right": "287",
+          "top": "11",
+          "bottom": "287"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3091.jpg",
+      "size": {
+        "width": "200",
+        "height": "167",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "164",
+          "top": "15",
+          "bottom": "164"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3153.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "156",
+          "right": "476",
+          "top": "38",
+          "bottom": "476"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3166.jpg",
+      "size": {
+        "width": "350",
+        "height": "297",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "40",
+          "right": "340",
+          "top": "28",
+          "bottom": "340"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_318.jpg",
+      "size": {
+        "width": "350",
+        "height": "332",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "332",
+          "top": "6",
+          "bottom": "332"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3185.jpg",
+      "size": {
+        "width": "420",
+        "height": "425",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "13",
+          "right": "402",
+          "top": "20",
+          "bottom": "402"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3189.jpg",
+      "size": {
+        "width": "136",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "127",
+          "top": "7",
+          "bottom": "127"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3217.jpg",
+      "size": {
+        "width": "287",
+        "height": "220",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "17",
+          "right": "272",
+          "top": "38",
+          "bottom": "272"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3227.jpg",
+      "size": {
+        "width": "136",
+        "height": "180",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "127",
+          "top": "7",
+          "bottom": "127"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3240.jpg",
+      "size": {
+        "width": "400",
+        "height": "341",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "388",
+          "top": "9",
+          "bottom": "388"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3242.jpg",
+      "size": {
+        "width": "200",
+        "height": "155",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "5",
+          "right": "193",
+          "top": "7",
+          "bottom": "193"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3246.jpg",
+      "size": {
+        "width": "200",
+        "height": "164",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "191",
+          "top": "15",
+          "bottom": "191"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3295.jpg",
+      "size": {
+        "width": "555",
+        "height": "440",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "100",
+          "right": "307",
+          "top": "83",
+          "bottom": "307"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3299.jpg",
+      "size": {
+        "width": "515",
+        "height": "455",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "481",
+          "top": "12",
+          "bottom": "481"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3316.jpg",
+      "size": {
+        "width": "456",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "32",
+          "right": "409",
+          "top": "58",
+          "bottom": "409"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3321.jpg",
+      "size": {
+        "width": "206",
+        "height": "200",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "7",
+          "right": "188",
+          "top": "0",
+          "bottom": "188"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3343.jpg",
+      "size": {
+        "width": "180",
+        "height": "198",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "14",
+          "right": "170",
+          "top": "4",
+          "bottom": "170"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3364.jpg",
+      "size": {
+        "width": "573",
+        "height": "507",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "29",
+          "right": "502",
+          "top": "34",
+          "bottom": "502"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3372.jpg",
+      "size": {
+        "width": "427",
+        "height": "465",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "111",
+          "right": "329",
+          "top": "53",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3395.jpg",
+      "size": {
+        "width": "640",
+        "height": "575",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "107",
+          "right": "606",
+          "top": "53",
+          "bottom": "606"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3451.jpg",
+      "size": {
+        "width": "500",
+        "height": "396",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "19",
+          "right": "423",
+          "top": "62",
+          "bottom": "423"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3472.jpg",
+      "size": {
+        "width": "250",
+        "height": "339",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "249",
+          "top": "18",
+          "bottom": "249"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3483.jpg",
+      "size": {
+        "width": "180",
+        "height": "254",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "174",
+          "top": "43",
+          "bottom": "174"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3495.jpg",
+      "size": {
+        "width": "400",
+        "height": "362",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "351",
+          "top": "14",
+          "bottom": "351"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3509.jpg",
+      "size": {
+        "width": "250",
+        "height": "209",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "28",
+          "right": "240",
+          "top": "17",
+          "bottom": "240"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3512.jpg",
+      "size": {
+        "width": "400",
+        "height": "311",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "20",
+          "right": "379",
+          "top": "3",
+          "bottom": "379"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_3527.jpg",
+      "size": {
+        "width": "200",
+        "height": "133",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "199",
+          "top": "12",
+          "bottom": "199"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_367.jpg",
+      "size": {
+        "width": "489",
+        "height": "396",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "4",
+          "right": "476",
+          "top": "9",
+          "bottom": "476"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_397.jpg",
+      "size": {
+        "width": "237",
+        "height": "415",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "9",
+          "right": "220",
+          "top": "12",
+          "bottom": "220"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_398.jpg",
+      "size": {
+        "width": "292",
+        "height": "202",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "41",
+          "right": "155",
+          "top": "0",
+          "bottom": "155"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_401.jpg",
+      "size": {
+        "width": "270",
+        "height": "360",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "25",
+          "right": "219",
+          "top": "4",
+          "bottom": "219"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_448.jpg",
+      "size": {
+        "width": "180",
+        "height": "135",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "35",
+          "right": "137",
+          "top": "24",
+          "bottom": "137"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_464.jpg",
+      "size": {
+        "width": "250",
+        "height": "204",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "27",
+          "right": "239",
+          "top": "13",
+          "bottom": "239"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_481.jpg",
+      "size": {
+        "width": "400",
+        "height": "290",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "18",
+          "right": "336",
+          "top": "10",
+          "bottom": "336"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_493.jpg",
+      "size": {
+        "width": "380",
+        "height": "285",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "87",
+          "right": "314",
+          "top": "2",
+          "bottom": "314"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_504.jpg",
+      "size": {
+        "width": "383",
+        "height": "500",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "23",
+          "right": "362",
+          "top": "17",
+          "bottom": "362"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_547.jpg",
+      "size": {
+        "width": "250",
+        "height": "225",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "30",
+          "right": "228",
+          "top": "12",
+          "bottom": "228"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_550.jpg",
+      "size": {
+        "width": "163",
+        "height": "190",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "1",
+          "right": "157",
+          "top": "4",
+          "bottom": "157"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_591.jpg",
+      "size": {
+        "width": "442",
+        "height": "582",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "256",
+          "right": "399",
+          "top": "297",
+          "bottom": "399"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_594.jpg",
+      "size": {
+        "width": "399",
+        "height": "369",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "46",
+          "right": "398",
+          "top": "27",
+          "bottom": "398"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_613.jpg",
+      "size": {
+        "width": "436",
+        "height": "368",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "78",
+          "right": "389",
+          "top": "53",
+          "bottom": "389"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_651.jpg",
+      "size": {
+        "width": "537",
+        "height": "412",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "34",
+          "right": "535",
+          "top": "6",
+          "bottom": "535"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_662.jpg",
+      "size": {
+        "width": "206",
+        "height": "227",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "10",
+          "right": "202",
+          "top": "2",
+          "bottom": "202"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_663.jpg",
+      "size": {
+        "width": "248",
+        "height": "300",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "39",
+          "right": "183",
+          "top": "27",
+          "bottom": "183"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_669.jpg",
+      "size": {
+        "width": "201",
+        "height": "288",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "0",
+          "right": "183",
+          "top": "38",
+          "bottom": "183"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_691.jpg",
+      "size": {
+        "width": "280",
+        "height": "263",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "22",
+          "right": "261",
+          "top": "5",
+          "bottom": "261"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_725.jpg",
+      "size": {
+        "width": "300",
+        "height": "250",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "8",
+          "right": "288",
+          "top": "0",
+          "bottom": "288"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_740.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "119",
+          "right": "330",
+          "top": "0",
+          "bottom": "330"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_777.jpg",
+      "size": {
+        "width": "500",
+        "height": "333",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "48",
+          "right": "235",
+          "top": "27",
+          "bottom": "235"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_792.jpg",
+      "size": {
+        "width": "315",
+        "height": "240",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "95",
+          "right": "205",
+          "top": "37",
+          "bottom": "205"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_80.jpg",
+      "size": {
+        "width": "340",
+        "height": "220",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "113",
+          "right": "329",
+          "top": "14",
+          "bottom": "329"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_807.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "62",
+          "right": "389",
+          "top": "126",
+          "bottom": "389"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_928.jpg",
+      "size": {
+        "width": "400",
+        "height": "199",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "204",
+          "right": "399",
+          "top": "28",
+          "bottom": "399"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_942.jpg",
+      "size": {
+        "width": "576",
+        "height": "432",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "16",
+          "right": "279",
+          "top": "104",
+          "bottom": "279"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_956.jpg",
+      "size": {
+        "width": "479",
+        "height": "720",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "21",
+          "right": "460",
+          "top": "30",
+          "bottom": "460"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_963.jpg",
+      "size": {
+        "width": "298",
+        "height": "202",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "54",
+          "right": "216",
+          "top": "43",
+          "bottom": "216"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_969.jpg",
+      "size": {
+        "width": "500",
+        "height": "375",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "134",
+          "right": "357",
+          "top": "31",
+          "bottom": "357"
+        }
+      ]
+    },
+    {
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Image",
+      "url": "images/n02095314-wire-haired_fox_terrier/n02095314_996.jpg",
+      "size": {
+        "width": "400",
+        "height": "304",
+        "depth": "3"
+      },
+      "boxes": [
+        {
+          "@type": "Box",
+          "left": "24",
+          "right": "399",
+          "top": "25",
+          "bottom": "399"
+        }
+      ]
+    }
+  ]
+}
