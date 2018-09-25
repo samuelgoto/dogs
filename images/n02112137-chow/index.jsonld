@@ -1,10 +1,10 @@
 {
-  "@context": "https://feeds.json-ld.io/2005/Atom",
-  "@type": "Feed",
-  "name": "Images of n02112137-chow",
-  "entries": [
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "n02112137-chow",
+  "name": "n02112137-chow",
+  "images": [
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1005.jpg",
       "size": {
@@ -23,7 +23,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10134.jpg",
       "size": {
@@ -42,7 +41,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1015.jpg",
       "size": {
@@ -61,7 +59,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10176.jpg",
       "size": {
@@ -80,7 +77,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10430.jpg",
       "size": {
@@ -99,7 +95,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10457.jpg",
       "size": {
@@ -118,7 +113,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10605.jpg",
       "size": {
@@ -137,7 +131,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10654.jpg",
       "size": {
@@ -156,7 +149,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10677.jpg",
       "size": {
@@ -175,7 +167,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10731.jpg",
       "size": {
@@ -194,7 +185,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10762.jpg",
       "size": {
@@ -213,7 +203,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10792.jpg",
       "size": {
@@ -232,7 +221,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_10815.jpg",
       "size": {
@@ -251,7 +239,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_112.jpg",
       "size": {
@@ -270,7 +257,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11261.jpg",
       "size": {
@@ -289,7 +275,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11273.jpg",
       "size": {
@@ -308,7 +293,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11472.jpg",
       "size": {
@@ -327,7 +311,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11536.jpg",
       "size": {
@@ -346,7 +329,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11549.jpg",
       "size": {
@@ -365,7 +347,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11550.jpg",
       "size": {
@@ -384,7 +365,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11732.jpg",
       "size": {
@@ -403,7 +383,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11830.jpg",
       "size": {
@@ -422,7 +401,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11858.jpg",
       "size": {
@@ -441,7 +419,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11927.jpg",
       "size": {
@@ -460,7 +437,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_11938.jpg",
       "size": {
@@ -479,7 +455,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1251.jpg",
       "size": {
@@ -498,7 +473,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12579.jpg",
       "size": {
@@ -517,7 +491,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12594.jpg",
       "size": {
@@ -536,7 +509,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_126.jpg",
       "size": {
@@ -555,7 +527,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12685.jpg",
       "size": {
@@ -574,7 +545,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12741.jpg",
       "size": {
@@ -593,7 +563,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12766.jpg",
       "size": {
@@ -612,7 +581,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12792.jpg",
       "size": {
@@ -631,7 +599,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_12819.jpg",
       "size": {
@@ -650,7 +617,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_13075.jpg",
       "size": {
@@ -669,7 +635,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_13232.jpg",
       "size": {
@@ -688,7 +653,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_13330.jpg",
       "size": {
@@ -707,7 +671,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_13415.jpg",
       "size": {
@@ -726,7 +689,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_13499.jpg",
       "size": {
@@ -745,7 +707,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_13649.jpg",
       "size": {
@@ -764,7 +725,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1374.jpg",
       "size": {
@@ -783,7 +743,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_14004.jpg",
       "size": {
@@ -802,7 +761,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1401.jpg",
       "size": {
@@ -821,7 +779,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_14255.jpg",
       "size": {
@@ -840,7 +797,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_14369.jpg",
       "size": {
@@ -859,7 +815,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_14448.jpg",
       "size": {
@@ -878,7 +833,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_14751.jpg",
       "size": {
@@ -897,7 +851,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_14881.jpg",
       "size": {
@@ -916,7 +869,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_15277.jpg",
       "size": {
@@ -935,7 +887,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_15770.jpg",
       "size": {
@@ -954,7 +905,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_15792.jpg",
       "size": {
@@ -973,7 +923,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1589.jpg",
       "size": {
@@ -992,7 +941,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_15929.jpg",
       "size": {
@@ -1011,7 +959,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_161.jpg",
       "size": {
@@ -1030,7 +977,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16109.jpg",
       "size": {
@@ -1049,7 +995,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1614.jpg",
       "size": {
@@ -1068,7 +1013,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16162.jpg",
       "size": {
@@ -1087,7 +1031,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16270.jpg",
       "size": {
@@ -1106,7 +1049,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16354.jpg",
       "size": {
@@ -1125,7 +1067,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16388.jpg",
       "size": {
@@ -1144,7 +1085,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16520.jpg",
       "size": {
@@ -1163,7 +1103,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16533.jpg",
       "size": {
@@ -1182,7 +1121,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16665.jpg",
       "size": {
@@ -1201,7 +1139,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16777.jpg",
       "size": {
@@ -1220,7 +1157,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16815.jpg",
       "size": {
@@ -1239,7 +1175,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16817.jpg",
       "size": {
@@ -1258,7 +1193,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_16830.jpg",
       "size": {
@@ -1277,7 +1211,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1687.jpg",
       "size": {
@@ -1296,7 +1229,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1704.jpg",
       "size": {
@@ -1315,7 +1247,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1733.jpg",
       "size": {
@@ -1334,7 +1265,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_17437.jpg",
       "size": {
@@ -1353,7 +1283,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_17733.jpg",
       "size": {
@@ -1372,7 +1301,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1795.jpg",
       "size": {
@@ -1391,7 +1319,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_18174.jpg",
       "size": {
@@ -1410,7 +1337,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1830.jpg",
       "size": {
@@ -1429,7 +1355,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_1976.jpg",
       "size": {
@@ -1448,7 +1373,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2020.jpg",
       "size": {
@@ -1467,7 +1391,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2028.jpg",
       "size": {
@@ -1486,7 +1409,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2058.jpg",
       "size": {
@@ -1505,7 +1427,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2106.jpg",
       "size": {
@@ -1524,7 +1445,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2133.jpg",
       "size": {
@@ -1543,7 +1463,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2181.jpg",
       "size": {
@@ -1562,7 +1481,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2220.jpg",
       "size": {
@@ -1581,7 +1499,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2231.jpg",
       "size": {
@@ -1600,7 +1517,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2250.jpg",
       "size": {
@@ -1619,7 +1535,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2290.jpg",
       "size": {
@@ -1638,7 +1553,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2319.jpg",
       "size": {
@@ -1657,7 +1571,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2376.jpg",
       "size": {
@@ -1676,7 +1589,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2411.jpg",
       "size": {
@@ -1695,7 +1607,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2453.jpg",
       "size": {
@@ -1714,7 +1625,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2475.jpg",
       "size": {
@@ -1733,7 +1643,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2521.jpg",
       "size": {
@@ -1752,7 +1661,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2619.jpg",
       "size": {
@@ -1771,7 +1679,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2664.jpg",
       "size": {
@@ -1790,7 +1697,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2724.jpg",
       "size": {
@@ -1809,7 +1715,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2739.jpg",
       "size": {
@@ -1828,7 +1733,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2745.jpg",
       "size": {
@@ -1847,7 +1751,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2757.jpg",
       "size": {
@@ -1866,7 +1769,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2791.jpg",
       "size": {
@@ -1885,7 +1787,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2809.jpg",
       "size": {
@@ -1904,7 +1805,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2825.jpg",
       "size": {
@@ -1923,7 +1823,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2845.jpg",
       "size": {
@@ -1942,7 +1841,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2850.jpg",
       "size": {
@@ -1961,7 +1859,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2947.jpg",
       "size": {
@@ -1980,7 +1877,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_2998.jpg",
       "size": {
@@ -1999,7 +1895,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3032.jpg",
       "size": {
@@ -2018,7 +1913,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3237.jpg",
       "size": {
@@ -2037,7 +1931,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3337.jpg",
       "size": {
@@ -2056,7 +1949,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3439.jpg",
       "size": {
@@ -2075,7 +1967,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3467.jpg",
       "size": {
@@ -2094,7 +1985,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_347.jpg",
       "size": {
@@ -2113,7 +2003,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3484.jpg",
       "size": {
@@ -2132,7 +2021,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3523.jpg",
       "size": {
@@ -2151,7 +2039,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3570.jpg",
       "size": {
@@ -2170,7 +2057,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_3706.jpg",
       "size": {
@@ -2189,7 +2075,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_4434.jpg",
       "size": {
@@ -2208,7 +2093,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_4447.jpg",
       "size": {
@@ -2227,7 +2111,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_4650.jpg",
       "size": {
@@ -2246,7 +2129,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_4760.jpg",
       "size": {
@@ -2265,7 +2147,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_4956.jpg",
       "size": {
@@ -2284,7 +2165,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5022.jpg",
       "size": {
@@ -2303,7 +2183,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5089.jpg",
       "size": {
@@ -2322,7 +2201,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5114.jpg",
       "size": {
@@ -2341,7 +2219,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_517.jpg",
       "size": {
@@ -2360,7 +2237,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5240.jpg",
       "size": {
@@ -2379,7 +2255,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_528.jpg",
       "size": {
@@ -2398,7 +2273,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5420.jpg",
       "size": {
@@ -2417,7 +2291,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5548.jpg",
       "size": {
@@ -2436,7 +2309,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5601.jpg",
       "size": {
@@ -2455,7 +2327,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5664.jpg",
       "size": {
@@ -2474,7 +2345,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5742.jpg",
       "size": {
@@ -2493,7 +2363,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5945.jpg",
       "size": {
@@ -2512,7 +2381,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_5966.jpg",
       "size": {
@@ -2531,7 +2399,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6016.jpg",
       "size": {
@@ -2550,7 +2417,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6108.jpg",
       "size": {
@@ -2569,7 +2435,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6160.jpg",
       "size": {
@@ -2588,7 +2453,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6164.jpg",
       "size": {
@@ -2607,7 +2471,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6190.jpg",
       "size": {
@@ -2626,7 +2489,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6213.jpg",
       "size": {
@@ -2645,7 +2507,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6282.jpg",
       "size": {
@@ -2664,7 +2525,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6314.jpg",
       "size": {
@@ -2683,7 +2543,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6334.jpg",
       "size": {
@@ -2702,7 +2561,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6350.jpg",
       "size": {
@@ -2721,7 +2579,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6458.jpg",
       "size": {
@@ -2740,7 +2597,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6506.jpg",
       "size": {
@@ -2759,7 +2615,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6627.jpg",
       "size": {
@@ -2778,7 +2633,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6709.jpg",
       "size": {
@@ -2797,7 +2651,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6808.jpg",
       "size": {
@@ -2816,7 +2669,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6857.jpg",
       "size": {
@@ -2835,7 +2687,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6898.jpg",
       "size": {
@@ -2854,7 +2705,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_6964.jpg",
       "size": {
@@ -2873,7 +2723,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7109.jpg",
       "size": {
@@ -2892,7 +2741,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7302.jpg",
       "size": {
@@ -2911,7 +2759,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7340.jpg",
       "size": {
@@ -2930,7 +2777,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7428.jpg",
       "size": {
@@ -2949,7 +2795,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7522.jpg",
       "size": {
@@ -2968,7 +2813,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7594.jpg",
       "size": {
@@ -2987,7 +2831,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7616.jpg",
       "size": {
@@ -3006,7 +2849,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7645.jpg",
       "size": {
@@ -3025,7 +2867,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7668.jpg",
       "size": {
@@ -3044,7 +2885,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7706.jpg",
       "size": {
@@ -3063,7 +2903,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7751.jpg",
       "size": {
@@ -3082,7 +2921,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7798.jpg",
       "size": {
@@ -3101,7 +2939,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7988.jpg",
       "size": {
@@ -3120,7 +2957,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_7991.jpg",
       "size": {
@@ -3139,7 +2975,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8083.jpg",
       "size": {
@@ -3158,7 +2993,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8161.jpg",
       "size": {
@@ -3177,7 +3011,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8195.jpg",
       "size": {
@@ -3196,7 +3029,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8212.jpg",
       "size": {
@@ -3215,7 +3047,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8407.jpg",
       "size": {
@@ -3234,7 +3065,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8410.jpg",
       "size": {
@@ -3253,7 +3083,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8492.jpg",
       "size": {
@@ -3272,7 +3101,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8504.jpg",
       "size": {
@@ -3291,7 +3119,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8595.jpg",
       "size": {
@@ -3310,7 +3137,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8637.jpg",
       "size": {
@@ -3329,7 +3155,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8759.jpg",
       "size": {
@@ -3348,7 +3173,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8769.jpg",
       "size": {
@@ -3367,7 +3191,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8825.jpg",
       "size": {
@@ -3386,7 +3209,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8862.jpg",
       "size": {
@@ -3405,7 +3227,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8983.jpg",
       "size": {
@@ -3424,7 +3245,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_8986.jpg",
       "size": {
@@ -3443,7 +3263,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9074.jpg",
       "size": {
@@ -3462,7 +3281,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9082.jpg",
       "size": {
@@ -3481,7 +3299,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9131.jpg",
       "size": {
@@ -3500,7 +3317,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9146.jpg",
       "size": {
@@ -3519,7 +3335,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9156.jpg",
       "size": {
@@ -3538,7 +3353,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9159.jpg",
       "size": {
@@ -3557,7 +3371,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9212.jpg",
       "size": {
@@ -3576,7 +3389,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9280.jpg",
       "size": {
@@ -3595,7 +3407,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9405.jpg",
       "size": {
@@ -3614,7 +3425,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9415.jpg",
       "size": {
@@ -3633,7 +3443,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9591.jpg",
       "size": {
@@ -3652,7 +3461,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9598.jpg",
       "size": {
@@ -3671,7 +3479,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9708.jpg",
       "size": {
@@ -3690,7 +3497,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9761.jpg",
       "size": {
@@ -3709,7 +3515,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02112137-chow/n02112137_9866.jpg",
       "size": {

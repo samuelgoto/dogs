@@ -1,10 +1,10 @@
 {
-  "@context": "https://feeds.json-ld.io/2005/Atom",
-  "@type": "Feed",
-  "name": "Images of n02113624-toy_poodle",
-  "entries": [
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "n02113624-toy_poodle",
+  "name": "n02113624-toy_poodle",
+  "images": [
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1008.jpg",
       "size": {
@@ -23,7 +23,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_10203.jpg",
       "size": {
@@ -42,7 +41,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1023.jpg",
       "size": {
@@ -61,7 +59,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1050.jpg",
       "size": {
@@ -80,7 +77,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1063.jpg",
       "size": {
@@ -99,7 +95,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1077.jpg",
       "size": {
@@ -118,7 +113,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1178.jpg",
       "size": {
@@ -137,7 +131,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1220.jpg",
       "size": {
@@ -156,7 +149,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1293.jpg",
       "size": {
@@ -175,7 +167,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1302.jpg",
       "size": {
@@ -194,7 +185,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1461.jpg",
       "size": {
@@ -213,7 +203,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1559.jpg",
       "size": {
@@ -232,7 +221,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1576.jpg",
       "size": {
@@ -251,7 +239,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1582.jpg",
       "size": {
@@ -270,7 +257,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1596.jpg",
       "size": {
@@ -289,7 +275,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1606.jpg",
       "size": {
@@ -308,7 +293,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1639.jpg",
       "size": {
@@ -327,7 +311,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_166.jpg",
       "size": {
@@ -346,7 +329,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1756.jpg",
       "size": {
@@ -365,7 +347,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1785.jpg",
       "size": {
@@ -384,7 +365,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1801.jpg",
       "size": {
@@ -403,7 +383,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1804.jpg",
       "size": {
@@ -422,7 +401,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1832.jpg",
       "size": {
@@ -441,7 +419,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1844.jpg",
       "size": {
@@ -460,7 +437,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1879.jpg",
       "size": {
@@ -479,7 +455,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_189.jpg",
       "size": {
@@ -498,7 +473,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_1929.jpg",
       "size": {
@@ -517,7 +491,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2019.jpg",
       "size": {
@@ -536,7 +509,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_213.jpg",
       "size": {
@@ -555,7 +527,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2223.jpg",
       "size": {
@@ -574,7 +545,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2224.jpg",
       "size": {
@@ -593,7 +563,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_223.jpg",
       "size": {
@@ -612,7 +581,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2240.jpg",
       "size": {
@@ -631,7 +599,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2242.jpg",
       "size": {
@@ -650,7 +617,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2244.jpg",
       "size": {
@@ -669,7 +635,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2258.jpg",
       "size": {
@@ -688,7 +653,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2270.jpg",
       "size": {
@@ -707,7 +671,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2305.jpg",
       "size": {
@@ -726,7 +689,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2308.jpg",
       "size": {
@@ -745,7 +707,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2311.jpg",
       "size": {
@@ -764,7 +725,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_239.jpg",
       "size": {
@@ -783,7 +743,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2427.jpg",
       "size": {
@@ -802,7 +761,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2508.jpg",
       "size": {
@@ -821,7 +779,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2521.jpg",
       "size": {
@@ -840,7 +797,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_253.jpg",
       "size": {
@@ -859,7 +815,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2595.jpg",
       "size": {
@@ -878,7 +833,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2609.jpg",
       "size": {
@@ -897,7 +851,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2639.jpg",
       "size": {
@@ -916,7 +869,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_265.jpg",
       "size": {
@@ -935,7 +887,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2727.jpg",
       "size": {
@@ -954,7 +905,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_274.jpg",
       "size": {
@@ -973,7 +923,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2784.jpg",
       "size": {
@@ -992,7 +941,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2785.jpg",
       "size": {
@@ -1011,7 +959,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2816.jpg",
       "size": {
@@ -1030,7 +977,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_288.jpg",
       "size": {
@@ -1049,7 +995,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2883.jpg",
       "size": {
@@ -1068,7 +1013,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2905.jpg",
       "size": {
@@ -1087,7 +1031,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2908.jpg",
       "size": {
@@ -1106,7 +1049,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_2934.jpg",
       "size": {
@@ -1125,7 +1067,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_300.jpg",
       "size": {
@@ -1144,7 +1085,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3061.jpg",
       "size": {
@@ -1163,7 +1103,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3093.jpg",
       "size": {
@@ -1182,7 +1121,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3103.jpg",
       "size": {
@@ -1201,7 +1139,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3159.jpg",
       "size": {
@@ -1220,7 +1157,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3165.jpg",
       "size": {
@@ -1239,7 +1175,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_320.jpg",
       "size": {
@@ -1258,7 +1193,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3297.jpg",
       "size": {
@@ -1277,7 +1211,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_333.jpg",
       "size": {
@@ -1296,7 +1229,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3341.jpg",
       "size": {
@@ -1315,7 +1247,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3344.jpg",
       "size": {
@@ -1334,7 +1265,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3460.jpg",
       "size": {
@@ -1353,7 +1283,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3462.jpg",
       "size": {
@@ -1372,7 +1301,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_35.jpg",
       "size": {
@@ -1391,7 +1319,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3517.jpg",
       "size": {
@@ -1410,7 +1337,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3624.jpg",
       "size": {
@@ -1429,7 +1355,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3639.jpg",
       "size": {
@@ -1448,7 +1373,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_367.jpg",
       "size": {
@@ -1467,7 +1391,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3691.jpg",
       "size": {
@@ -1486,7 +1409,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3714.jpg",
       "size": {
@@ -1505,7 +1427,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3796.jpg",
       "size": {
@@ -1524,7 +1445,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3808.jpg",
       "size": {
@@ -1543,7 +1463,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3864.jpg",
       "size": {
@@ -1562,7 +1481,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3887.jpg",
       "size": {
@@ -1581,7 +1499,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_3960.jpg",
       "size": {
@@ -1600,7 +1517,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_4045.jpg",
       "size": {
@@ -1619,7 +1535,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_4087.jpg",
       "size": {
@@ -1638,7 +1553,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_4112.jpg",
       "size": {
@@ -1657,7 +1571,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_4221.jpg",
       "size": {
@@ -1676,7 +1589,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_429.jpg",
       "size": {
@@ -1695,7 +1607,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_4349.jpg",
       "size": {
@@ -1714,7 +1625,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_454.jpg",
       "size": {
@@ -1733,7 +1643,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_4589.jpg",
       "size": {
@@ -1752,7 +1661,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_479.jpg",
       "size": {
@@ -1771,7 +1679,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5278.jpg",
       "size": {
@@ -1790,7 +1697,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_528.jpg",
       "size": {
@@ -1809,7 +1715,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_530.jpg",
       "size": {
@@ -1828,7 +1733,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5367.jpg",
       "size": {
@@ -1847,7 +1751,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5386.jpg",
       "size": {
@@ -1866,7 +1769,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5442.jpg",
       "size": {
@@ -1885,7 +1787,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5459.jpg",
       "size": {
@@ -1904,7 +1805,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5523.jpg",
       "size": {
@@ -1923,7 +1823,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5584.jpg",
       "size": {
@@ -1942,7 +1841,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5659.jpg",
       "size": {
@@ -1961,7 +1859,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_5723.jpg",
       "size": {
@@ -1980,7 +1877,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6060.jpg",
       "size": {
@@ -1999,7 +1895,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_619.jpg",
       "size": {
@@ -2018,7 +1913,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6230.jpg",
       "size": {
@@ -2037,7 +1931,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6248.jpg",
       "size": {
@@ -2056,7 +1949,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_629.jpg",
       "size": {
@@ -2075,7 +1967,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6456.jpg",
       "size": {
@@ -2094,7 +1985,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6587.jpg",
       "size": {
@@ -2113,7 +2003,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_665.jpg",
       "size": {
@@ -2132,7 +2021,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6652.jpg",
       "size": {
@@ -2151,7 +2039,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6683.jpg",
       "size": {
@@ -2170,7 +2057,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6684.jpg",
       "size": {
@@ -2189,7 +2075,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_681.jpg",
       "size": {
@@ -2208,7 +2093,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6813.jpg",
       "size": {
@@ -2227,7 +2111,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6868.jpg",
       "size": {
@@ -2246,7 +2129,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_6921.jpg",
       "size": {
@@ -2265,7 +2147,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_70.jpg",
       "size": {
@@ -2284,7 +2165,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7102.jpg",
       "size": {
@@ -2303,7 +2183,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_720.jpg",
       "size": {
@@ -2322,7 +2201,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7448.jpg",
       "size": {
@@ -2341,7 +2219,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7504.jpg",
       "size": {
@@ -2360,7 +2237,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_764.jpg",
       "size": {
@@ -2379,7 +2255,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7888.jpg",
       "size": {
@@ -2398,7 +2273,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7964.jpg",
       "size": {
@@ -2417,7 +2291,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7986.jpg",
       "size": {
@@ -2436,7 +2309,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7996.jpg",
       "size": {
@@ -2455,7 +2327,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_7997.jpg",
       "size": {
@@ -2474,7 +2345,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8304.jpg",
       "size": {
@@ -2493,7 +2363,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_836.jpg",
       "size": {
@@ -2512,7 +2381,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8444.jpg",
       "size": {
@@ -2531,7 +2399,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_876.jpg",
       "size": {
@@ -2550,7 +2417,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8880.jpg",
       "size": {
@@ -2569,7 +2435,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8890.jpg",
       "size": {
@@ -2588,7 +2453,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8936.jpg",
       "size": {
@@ -2607,7 +2471,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8940.jpg",
       "size": {
@@ -2626,7 +2489,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8943.jpg",
       "size": {
@@ -2645,7 +2507,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8951.jpg",
       "size": {
@@ -2664,7 +2525,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_8963.jpg",
       "size": {
@@ -2683,7 +2543,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_9105.jpg",
       "size": {
@@ -2702,7 +2561,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_9199.jpg",
       "size": {
@@ -2721,7 +2579,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_9229.jpg",
       "size": {
@@ -2740,7 +2597,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_925.jpg",
       "size": {
@@ -2759,7 +2615,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_942.jpg",
       "size": {
@@ -2778,7 +2633,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_952.jpg",
       "size": {
@@ -2797,7 +2651,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_9550.jpg",
       "size": {
@@ -2816,7 +2669,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_9574.jpg",
       "size": {
@@ -2835,7 +2687,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_9828.jpg",
       "size": {
@@ -2854,7 +2705,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02113624-toy_poodle/n02113624_983.jpg",
       "size": {

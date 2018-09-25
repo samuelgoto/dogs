@@ -14,18 +14,20 @@ async function main() {
  for (let dir of dirs) {
   // console.log(dir);
   let entry = {
+   "@context": "https://code.sgo.to/datasets",
    "@type": "Class",
    "@id": `${dir}`,
    "name": `${dir}`,
-   "images": `images/${dir}/index.jsonld`
+   "images": []
+   // "images": `images/${dir}/index.jsonld`
   };
 
-  let feed = {
-   "@context": "https://feeds.json-ld.io/2005/Atom",
-   "@type": "Feed",
-   "name": `Images of ${dir}`,
-   "entries": []
-  };
+  // let feed = {
+  // "@context": "https://feeds.json-ld.io/2005/Atom",
+  // "@type": "Feed",
+  // "name": `Images of ${dir}`,
+  // "entries": []
+  //};
 
   for (let file of fs.readdirSync(`images/${dir}/`)) {
    if (file == "index.jsonld") {
@@ -34,11 +36,13 @@ async function main() {
 
    // console.log(file);
    let image = {
-    "@context": "https://code.sgo.to/datasets",
     "@type": "Image",
     "url": `images/${dir}/${file}`
    };
-   feed.entries.push(image);
+
+   entry.images.push(image);
+
+   // feed.entries.push(image);
    
    // entry.examples.push(`images/${dir}/${file}`);
 
@@ -72,16 +76,19 @@ async function main() {
     }
    }
 
-   // console.log(JSON.stringify(feed, undefined, 2));
+   // console.log(JSON.stringify(entry, undefined, 2));
    
    // break;
   }
-  fs.writeFileSync(`images/${dir}/index.jsonld`, JSON.stringify(feed, undefined, 2));
-  dataset.classes.push(entry);
+  fs.writeFileSync(`images/${dir}/index.jsonld`, JSON.stringify(entry, undefined, 2));
+
+  dataset.classes.push(`images/${dir}/index.jsonld`);
+
+  // dataset.classes.push(entry);
   // break;
  }
  fs.writeFileSync("index.jsonld", JSON.stringify(dataset, undefined, 2));
- // console.log();
+ // console.log(JSON.stringify(dataset, undefined, 2));
 }
 
 main();

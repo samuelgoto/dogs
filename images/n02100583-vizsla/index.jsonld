@@ -1,10 +1,10 @@
 {
-  "@context": "https://feeds.json-ld.io/2005/Atom",
-  "@type": "Feed",
-  "name": "Images of n02100583-vizsla",
-  "entries": [
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "n02100583-vizsla",
+  "name": "n02100583-vizsla",
+  "images": [
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10249.jpg",
       "size": {
@@ -23,7 +23,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10358.jpg",
       "size": {
@@ -42,7 +41,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10367.jpg",
       "size": {
@@ -61,7 +59,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10388.jpg",
       "size": {
@@ -80,7 +77,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10425.jpg",
       "size": {
@@ -99,7 +95,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10433.jpg",
       "size": {
@@ -118,7 +113,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10698.jpg",
       "size": {
@@ -137,7 +131,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10721.jpg",
       "size": {
@@ -156,7 +149,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10787.jpg",
       "size": {
@@ -175,7 +167,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10834.jpg",
       "size": {
@@ -194,7 +185,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10844.jpg",
       "size": {
@@ -213,7 +203,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_10960.jpg",
       "size": {
@@ -232,7 +221,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11072.jpg",
       "size": {
@@ -251,7 +239,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11119.jpg",
       "size": {
@@ -270,7 +257,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11143.jpg",
       "size": {
@@ -289,7 +275,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11163.jpg",
       "size": {
@@ -308,7 +293,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11231.jpg",
       "size": {
@@ -327,7 +311,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11289.jpg",
       "size": {
@@ -346,7 +329,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11450.jpg",
       "size": {
@@ -365,7 +347,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11473.jpg",
       "size": {
@@ -384,7 +365,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11553.jpg",
       "size": {
@@ -403,7 +383,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11665.jpg",
       "size": {
@@ -422,7 +401,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11701.jpg",
       "size": {
@@ -441,7 +419,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11710.jpg",
       "size": {
@@ -460,7 +437,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11752.jpg",
       "size": {
@@ -479,7 +455,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11785.jpg",
       "size": {
@@ -498,7 +473,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_11888.jpg",
       "size": {
@@ -517,7 +491,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12.jpg",
       "size": {
@@ -536,7 +509,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12047.jpg",
       "size": {
@@ -555,7 +527,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12090.jpg",
       "size": {
@@ -574,7 +545,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12097.jpg",
       "size": {
@@ -593,7 +563,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12122.jpg",
       "size": {
@@ -612,7 +581,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1214.jpg",
       "size": {
@@ -631,7 +599,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12216.jpg",
       "size": {
@@ -650,7 +617,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12240.jpg",
       "size": {
@@ -669,7 +635,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12253.jpg",
       "size": {
@@ -688,7 +653,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12308.jpg",
       "size": {
@@ -707,7 +671,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12358.jpg",
       "size": {
@@ -726,7 +689,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12394.jpg",
       "size": {
@@ -745,7 +707,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12413.jpg",
       "size": {
@@ -764,7 +725,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12466.jpg",
       "size": {
@@ -783,7 +743,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12468.jpg",
       "size": {
@@ -802,7 +761,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_125.jpg",
       "size": {
@@ -821,7 +779,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12601.jpg",
       "size": {
@@ -840,7 +797,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12614.jpg",
       "size": {
@@ -859,7 +815,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12639.jpg",
       "size": {
@@ -878,7 +833,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12660.jpg",
       "size": {
@@ -897,7 +851,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12663.jpg",
       "size": {
@@ -916,7 +869,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12676.jpg",
       "size": {
@@ -935,7 +887,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12784.jpg",
       "size": {
@@ -954,7 +905,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12793.jpg",
       "size": {
@@ -973,7 +923,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12880.jpg",
       "size": {
@@ -992,7 +941,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_12904.jpg",
       "size": {
@@ -1011,7 +959,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13007.jpg",
       "size": {
@@ -1030,7 +977,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13008.jpg",
       "size": {
@@ -1049,7 +995,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13035.jpg",
       "size": {
@@ -1068,7 +1013,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1318.jpg",
       "size": {
@@ -1087,7 +1031,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13189.jpg",
       "size": {
@@ -1106,7 +1049,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13292.jpg",
       "size": {
@@ -1125,7 +1067,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13297.jpg",
       "size": {
@@ -1144,7 +1085,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13353.jpg",
       "size": {
@@ -1163,7 +1103,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13524.jpg",
       "size": {
@@ -1182,7 +1121,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13642.jpg",
       "size": {
@@ -1201,7 +1139,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13656.jpg",
       "size": {
@@ -1220,7 +1157,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_13798.jpg",
       "size": {
@@ -1239,7 +1175,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14017.jpg",
       "size": {
@@ -1258,7 +1193,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14018.jpg",
       "size": {
@@ -1277,7 +1211,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14082.jpg",
       "size": {
@@ -1296,7 +1229,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14166.jpg",
       "size": {
@@ -1315,7 +1247,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14231.jpg",
       "size": {
@@ -1334,7 +1265,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14263.jpg",
       "size": {
@@ -1353,7 +1283,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_14267.jpg",
       "size": {
@@ -1372,7 +1301,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1451.jpg",
       "size": {
@@ -1391,7 +1319,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1475.jpg",
       "size": {
@@ -1410,7 +1337,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1560.jpg",
       "size": {
@@ -1429,7 +1355,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1600.jpg",
       "size": {
@@ -1448,7 +1373,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_18.jpg",
       "size": {
@@ -1467,7 +1391,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1908.jpg",
       "size": {
@@ -1486,7 +1409,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_1969.jpg",
       "size": {
@@ -1505,7 +1427,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2086.jpg",
       "size": {
@@ -1524,7 +1445,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2119.jpg",
       "size": {
@@ -1543,7 +1463,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_216.jpg",
       "size": {
@@ -1562,7 +1481,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_220.jpg",
       "size": {
@@ -1581,7 +1499,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2251.jpg",
       "size": {
@@ -1600,7 +1517,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2265.jpg",
       "size": {
@@ -1619,7 +1535,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2465.jpg",
       "size": {
@@ -1638,7 +1553,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_264.jpg",
       "size": {
@@ -1657,7 +1571,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2681.jpg",
       "size": {
@@ -1676,7 +1589,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2707.jpg",
       "size": {
@@ -1695,7 +1607,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2736.jpg",
       "size": {
@@ -1714,7 +1625,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2744.jpg",
       "size": {
@@ -1733,7 +1643,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2797.jpg",
       "size": {
@@ -1752,7 +1661,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2824.jpg",
       "size": {
@@ -1771,7 +1679,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2885.jpg",
       "size": {
@@ -1790,7 +1697,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_2985.jpg",
       "size": {
@@ -1809,7 +1715,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3008.jpg",
       "size": {
@@ -1828,7 +1733,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3021.jpg",
       "size": {
@@ -1847,7 +1751,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3027.jpg",
       "size": {
@@ -1866,7 +1769,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3132.jpg",
       "size": {
@@ -1885,7 +1787,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3263.jpg",
       "size": {
@@ -1904,7 +1805,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3274.jpg",
       "size": {
@@ -1923,7 +1823,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3309.jpg",
       "size": {
@@ -1942,7 +1841,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3383.jpg",
       "size": {
@@ -1961,7 +1859,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3413.jpg",
       "size": {
@@ -1980,7 +1877,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3713.jpg",
       "size": {
@@ -1999,7 +1895,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3748.jpg",
       "size": {
@@ -2018,7 +1913,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3944.jpg",
       "size": {
@@ -2037,7 +1931,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_3987.jpg",
       "size": {
@@ -2056,7 +1949,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_4228.jpg",
       "size": {
@@ -2075,7 +1967,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_4439.jpg",
       "size": {
@@ -2094,7 +1985,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_4473.jpg",
       "size": {
@@ -2113,7 +2003,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_453.jpg",
       "size": {
@@ -2132,7 +2021,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_4670.jpg",
       "size": {
@@ -2151,7 +2039,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_473.jpg",
       "size": {
@@ -2170,7 +2057,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_5028.jpg",
       "size": {
@@ -2189,7 +2075,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_516.jpg",
       "size": {
@@ -2208,7 +2093,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_543.jpg",
       "size": {
@@ -2227,7 +2111,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_5785.jpg",
       "size": {
@@ -2246,7 +2129,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_5792.jpg",
       "size": {
@@ -2265,7 +2147,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_5829.jpg",
       "size": {
@@ -2284,7 +2165,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_5921.jpg",
       "size": {
@@ -2303,7 +2183,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6000.jpg",
       "size": {
@@ -2322,7 +2201,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6003.jpg",
       "size": {
@@ -2341,7 +2219,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6040.jpg",
       "size": {
@@ -2360,7 +2237,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6155.jpg",
       "size": {
@@ -2379,7 +2255,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6266.jpg",
       "size": {
@@ -2398,7 +2273,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6521.jpg",
       "size": {
@@ -2417,7 +2291,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_66.jpg",
       "size": {
@@ -2436,7 +2309,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6740.jpg",
       "size": {
@@ -2455,7 +2327,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_6994.jpg",
       "size": {
@@ -2474,7 +2345,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_702.jpg",
       "size": {
@@ -2493,7 +2363,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_7122.jpg",
       "size": {
@@ -2512,7 +2381,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_7239.jpg",
       "size": {
@@ -2531,7 +2399,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_7467.jpg",
       "size": {
@@ -2550,7 +2417,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_7522.jpg",
       "size": {
@@ -2569,7 +2435,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_7904.jpg",
       "size": {
@@ -2588,7 +2453,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_81.jpg",
       "size": {
@@ -2607,7 +2471,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_830.jpg",
       "size": {
@@ -2626,7 +2489,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_854.jpg",
       "size": {
@@ -2645,7 +2507,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_899.jpg",
       "size": {
@@ -2664,7 +2525,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9112.jpg",
       "size": {
@@ -2683,7 +2543,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_917.jpg",
       "size": {
@@ -2702,7 +2561,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9435.jpg",
       "size": {
@@ -2721,7 +2579,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9522.jpg",
       "size": {
@@ -2740,7 +2597,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9794.jpg",
       "size": {
@@ -2759,7 +2615,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9799.jpg",
       "size": {
@@ -2778,7 +2633,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9844.jpg",
       "size": {
@@ -2797,7 +2651,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9884.jpg",
       "size": {
@@ -2816,7 +2669,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9902.jpg",
       "size": {
@@ -2835,7 +2687,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9922.jpg",
       "size": {
@@ -2854,7 +2705,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9933.jpg",
       "size": {
@@ -2873,7 +2723,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9956.jpg",
       "size": {
@@ -2892,7 +2741,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9960.jpg",
       "size": {
@@ -2911,7 +2759,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02100583-vizsla/n02100583_9969.jpg",
       "size": {

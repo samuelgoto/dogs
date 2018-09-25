@@ -1,10 +1,10 @@
 {
-  "@context": "https://feeds.json-ld.io/2005/Atom",
-  "@type": "Feed",
-  "name": "Images of n02104029-kuvasz",
-  "entries": [
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "n02104029-kuvasz",
+  "name": "n02104029-kuvasz",
+  "images": [
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1075.jpg",
       "size": {
@@ -23,7 +23,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_110.jpg",
       "size": {
@@ -42,7 +41,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1107.jpg",
       "size": {
@@ -61,7 +59,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1138.jpg",
       "size": {
@@ -80,7 +77,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1150.jpg",
       "size": {
@@ -99,7 +95,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1206.jpg",
       "size": {
@@ -118,7 +113,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1214.jpg",
       "size": {
@@ -137,7 +131,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1218.jpg",
       "size": {
@@ -156,7 +149,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1268.jpg",
       "size": {
@@ -175,7 +167,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1278.jpg",
       "size": {
@@ -194,7 +185,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1287.jpg",
       "size": {
@@ -213,7 +203,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1289.jpg",
       "size": {
@@ -232,7 +221,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1313.jpg",
       "size": {
@@ -251,7 +239,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1324.jpg",
       "size": {
@@ -270,7 +257,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_133.jpg",
       "size": {
@@ -289,7 +275,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1369.jpg",
       "size": {
@@ -308,7 +293,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1370.jpg",
       "size": {
@@ -327,7 +311,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1375.jpg",
       "size": {
@@ -346,7 +329,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1396.jpg",
       "size": {
@@ -365,7 +347,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1400.jpg",
       "size": {
@@ -384,7 +365,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1423.jpg",
       "size": {
@@ -403,7 +383,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1435.jpg",
       "size": {
@@ -422,7 +401,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1484.jpg",
       "size": {
@@ -441,7 +419,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1492.jpg",
       "size": {
@@ -460,7 +437,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1510.jpg",
       "size": {
@@ -479,7 +455,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_157.jpg",
       "size": {
@@ -498,7 +473,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1599.jpg",
       "size": {
@@ -517,7 +491,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1612.jpg",
       "size": {
@@ -536,7 +509,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1646.jpg",
       "size": {
@@ -555,7 +527,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_170.jpg",
       "size": {
@@ -574,7 +545,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1709.jpg",
       "size": {
@@ -593,7 +563,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1713.jpg",
       "size": {
@@ -612,7 +581,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1757.jpg",
       "size": {
@@ -631,7 +599,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1779.jpg",
       "size": {
@@ -650,7 +617,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1781.jpg",
       "size": {
@@ -669,7 +635,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1791.jpg",
       "size": {
@@ -688,7 +653,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1794.jpg",
       "size": {
@@ -707,7 +671,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1816.jpg",
       "size": {
@@ -726,7 +689,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_185.jpg",
       "size": {
@@ -745,7 +707,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_1988.jpg",
       "size": {
@@ -764,7 +725,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2071.jpg",
       "size": {
@@ -783,7 +743,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2087.jpg",
       "size": {
@@ -802,7 +761,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2150.jpg",
       "size": {
@@ -821,7 +779,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2246.jpg",
       "size": {
@@ -840,7 +797,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2323.jpg",
       "size": {
@@ -859,7 +815,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2328.jpg",
       "size": {
@@ -878,7 +833,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_235.jpg",
       "size": {
@@ -897,7 +851,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2417.jpg",
       "size": {
@@ -916,7 +869,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2424.jpg",
       "size": {
@@ -935,7 +887,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2467.jpg",
       "size": {
@@ -954,7 +905,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_247.jpg",
       "size": {
@@ -973,7 +923,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2500.jpg",
       "size": {
@@ -992,7 +941,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2501.jpg",
       "size": {
@@ -1011,7 +959,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2504.jpg",
       "size": {
@@ -1030,7 +977,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2540.jpg",
       "size": {
@@ -1049,7 +995,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2582.jpg",
       "size": {
@@ -1068,7 +1013,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_262.jpg",
       "size": {
@@ -1087,7 +1031,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2656.jpg",
       "size": {
@@ -1106,7 +1049,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2659.jpg",
       "size": {
@@ -1125,7 +1067,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2769.jpg",
       "size": {
@@ -1144,7 +1085,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2861.jpg",
       "size": {
@@ -1163,7 +1103,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2931.jpg",
       "size": {
@@ -1182,7 +1121,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2964.jpg",
       "size": {
@@ -1201,7 +1139,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_2992.jpg",
       "size": {
@@ -1220,7 +1157,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_31.jpg",
       "size": {
@@ -1239,7 +1175,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3166.jpg",
       "size": {
@@ -1258,7 +1193,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3207.jpg",
       "size": {
@@ -1277,7 +1211,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3217.jpg",
       "size": {
@@ -1296,7 +1229,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3353.jpg",
       "size": {
@@ -1315,7 +1247,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3378.jpg",
       "size": {
@@ -1334,7 +1265,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3397.jpg",
       "size": {
@@ -1353,7 +1283,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3427.jpg",
       "size": {
@@ -1372,7 +1301,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3491.jpg",
       "size": {
@@ -1391,7 +1319,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3493.jpg",
       "size": {
@@ -1410,7 +1337,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3505.jpg",
       "size": {
@@ -1429,7 +1355,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3526.jpg",
       "size": {
@@ -1448,7 +1373,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3564.jpg",
       "size": {
@@ -1467,7 +1391,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3570.jpg",
       "size": {
@@ -1486,7 +1409,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3578.jpg",
       "size": {
@@ -1505,7 +1427,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_371.jpg",
       "size": {
@@ -1524,7 +1445,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3734.jpg",
       "size": {
@@ -1543,7 +1463,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3756.jpg",
       "size": {
@@ -1562,7 +1481,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3758.jpg",
       "size": {
@@ -1581,7 +1499,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3766.jpg",
       "size": {
@@ -1600,7 +1517,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3769.jpg",
       "size": {
@@ -1619,7 +1535,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3787.jpg",
       "size": {
@@ -1638,7 +1553,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3900.jpg",
       "size": {
@@ -1657,7 +1571,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3942.jpg",
       "size": {
@@ -1676,7 +1589,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_3991.jpg",
       "size": {
@@ -1695,7 +1607,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4002.jpg",
       "size": {
@@ -1714,7 +1625,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4059.jpg",
       "size": {
@@ -1733,7 +1643,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4079.jpg",
       "size": {
@@ -1752,7 +1661,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_409.jpg",
       "size": {
@@ -1771,7 +1679,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4091.jpg",
       "size": {
@@ -1790,7 +1697,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4104.jpg",
       "size": {
@@ -1809,7 +1715,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_413.jpg",
       "size": {
@@ -1828,7 +1733,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4131.jpg",
       "size": {
@@ -1847,7 +1751,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4223.jpg",
       "size": {
@@ -1866,7 +1769,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4261.jpg",
       "size": {
@@ -1885,7 +1787,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4277.jpg",
       "size": {
@@ -1904,7 +1805,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4317.jpg",
       "size": {
@@ -1923,7 +1823,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4340.jpg",
       "size": {
@@ -1942,7 +1841,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4366.jpg",
       "size": {
@@ -1961,7 +1859,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4392.jpg",
       "size": {
@@ -1980,7 +1877,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4415.jpg",
       "size": {
@@ -1999,7 +1895,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4431.jpg",
       "size": {
@@ -2018,7 +1913,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4450.jpg",
       "size": {
@@ -2037,7 +1931,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4456.jpg",
       "size": {
@@ -2056,7 +1949,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4463.jpg",
       "size": {
@@ -2075,7 +1967,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4466.jpg",
       "size": {
@@ -2094,7 +1985,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4473.jpg",
       "size": {
@@ -2113,7 +2003,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4492.jpg",
       "size": {
@@ -2132,7 +2021,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4494.jpg",
       "size": {
@@ -2151,7 +2039,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4513.jpg",
       "size": {
@@ -2170,7 +2057,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4534.jpg",
       "size": {
@@ -2189,7 +2075,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_455.jpg",
       "size": {
@@ -2208,7 +2093,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4557.jpg",
       "size": {
@@ -2227,7 +2111,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4571.jpg",
       "size": {
@@ -2246,7 +2129,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4581.jpg",
       "size": {
@@ -2265,7 +2147,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4585.jpg",
       "size": {
@@ -2284,7 +2165,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4660.jpg",
       "size": {
@@ -2303,7 +2183,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4666.jpg",
       "size": {
@@ -2322,7 +2201,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4667.jpg",
       "size": {
@@ -2341,7 +2219,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4672.jpg",
       "size": {
@@ -2360,7 +2237,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4679.jpg",
       "size": {
@@ -2379,7 +2255,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4696.jpg",
       "size": {
@@ -2398,7 +2273,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4704.jpg",
       "size": {
@@ -2417,7 +2291,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4709.jpg",
       "size": {
@@ -2436,7 +2309,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4746.jpg",
       "size": {
@@ -2455,7 +2327,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4777.jpg",
       "size": {
@@ -2474,7 +2345,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4789.jpg",
       "size": {
@@ -2493,7 +2363,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4791.jpg",
       "size": {
@@ -2512,7 +2381,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4800.jpg",
       "size": {
@@ -2531,7 +2399,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4814.jpg",
       "size": {
@@ -2550,7 +2417,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_4815.jpg",
       "size": {
@@ -2569,7 +2435,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_525.jpg",
       "size": {
@@ -2588,7 +2453,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_593.jpg",
       "size": {
@@ -2607,7 +2471,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_63.jpg",
       "size": {
@@ -2626,7 +2489,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_662.jpg",
       "size": {
@@ -2645,7 +2507,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_685.jpg",
       "size": {
@@ -2664,7 +2525,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_690.jpg",
       "size": {
@@ -2683,7 +2543,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_766.jpg",
       "size": {
@@ -2702,7 +2561,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_792.jpg",
       "size": {
@@ -2721,7 +2579,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_852.jpg",
       "size": {
@@ -2740,7 +2597,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_897.jpg",
       "size": {
@@ -2759,7 +2615,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_898.jpg",
       "size": {
@@ -2778,7 +2633,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_903.jpg",
       "size": {
@@ -2797,7 +2651,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_951.jpg",
       "size": {
@@ -2816,7 +2669,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_986.jpg",
       "size": {
@@ -2835,7 +2687,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02104029-kuvasz/n02104029_992.jpg",
       "size": {

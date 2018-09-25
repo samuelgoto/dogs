@@ -1,10 +1,10 @@
 {
-  "@context": "https://feeds.json-ld.io/2005/Atom",
-  "@type": "Feed",
-  "name": "Images of n02096051-Airedale",
-  "entries": [
+  "@context": "https://code.sgo.to/datasets",
+  "@type": "Class",
+  "@id": "n02096051-Airedale",
+  "name": "n02096051-Airedale",
+  "images": [
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1017.jpg",
       "size": {
@@ -23,7 +23,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1110.jpg",
       "size": {
@@ -42,7 +41,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1111.jpg",
       "size": {
@@ -61,7 +59,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1121.jpg",
       "size": {
@@ -80,7 +77,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1134.jpg",
       "size": {
@@ -99,7 +95,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_119.jpg",
       "size": {
@@ -118,7 +113,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1206.jpg",
       "size": {
@@ -137,7 +131,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1235.jpg",
       "size": {
@@ -156,7 +149,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1244.jpg",
       "size": {
@@ -175,7 +167,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1277.jpg",
       "size": {
@@ -194,7 +185,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_129.jpg",
       "size": {
@@ -213,7 +203,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_138.jpg",
       "size": {
@@ -232,7 +221,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1430.jpg",
       "size": {
@@ -251,7 +239,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1469.jpg",
       "size": {
@@ -270,7 +257,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1483.jpg",
       "size": {
@@ -289,7 +275,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1558.jpg",
       "size": {
@@ -308,7 +293,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_161.jpg",
       "size": {
@@ -327,7 +311,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1625.jpg",
       "size": {
@@ -346,7 +329,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1669.jpg",
       "size": {
@@ -365,7 +347,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_171.jpg",
       "size": {
@@ -384,7 +365,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1723.jpg",
       "size": {
@@ -403,7 +383,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1736.jpg",
       "size": {
@@ -422,7 +401,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1740.jpg",
       "size": {
@@ -441,7 +419,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1761.jpg",
       "size": {
@@ -460,7 +437,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1799.jpg",
       "size": {
@@ -479,7 +455,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_183.jpg",
       "size": {
@@ -498,7 +473,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1854.jpg",
       "size": {
@@ -517,7 +491,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1861.jpg",
       "size": {
@@ -536,7 +509,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1912.jpg",
       "size": {
@@ -555,7 +527,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_1941.jpg",
       "size": {
@@ -574,7 +545,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2002.jpg",
       "size": {
@@ -593,7 +563,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2045.jpg",
       "size": {
@@ -612,7 +581,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2170.jpg",
       "size": {
@@ -631,7 +599,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2204.jpg",
       "size": {
@@ -650,7 +617,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_225.jpg",
       "size": {
@@ -669,7 +635,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2256.jpg",
       "size": {
@@ -688,7 +653,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2265.jpg",
       "size": {
@@ -707,7 +671,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2314.jpg",
       "size": {
@@ -726,7 +689,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2333.jpg",
       "size": {
@@ -745,7 +707,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2353.jpg",
       "size": {
@@ -764,7 +725,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2380.jpg",
       "size": {
@@ -783,7 +743,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2432.jpg",
       "size": {
@@ -802,7 +761,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2473.jpg",
       "size": {
@@ -821,7 +779,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_249.jpg",
       "size": {
@@ -840,7 +797,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2517.jpg",
       "size": {
@@ -859,7 +815,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2550.jpg",
       "size": {
@@ -878,7 +833,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2556.jpg",
       "size": {
@@ -897,7 +851,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2583.jpg",
       "size": {
@@ -916,7 +869,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2633.jpg",
       "size": {
@@ -935,7 +887,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2717.jpg",
       "size": {
@@ -954,7 +905,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2774.jpg",
       "size": {
@@ -973,7 +923,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2883.jpg",
       "size": {
@@ -992,7 +941,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2890.jpg",
       "size": {
@@ -1011,7 +959,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2903.jpg",
       "size": {
@@ -1030,7 +977,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2939.jpg",
       "size": {
@@ -1049,7 +995,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2946.jpg",
       "size": {
@@ -1068,7 +1013,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_2954.jpg",
       "size": {
@@ -1087,7 +1031,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3030.jpg",
       "size": {
@@ -1106,7 +1049,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3045.jpg",
       "size": {
@@ -1125,7 +1067,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3051.jpg",
       "size": {
@@ -1144,7 +1085,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3069.jpg",
       "size": {
@@ -1163,7 +1103,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3088.jpg",
       "size": {
@@ -1182,7 +1121,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3105.jpg",
       "size": {
@@ -1201,7 +1139,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_319.jpg",
       "size": {
@@ -1220,7 +1157,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3194.jpg",
       "size": {
@@ -1239,7 +1175,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3253.jpg",
       "size": {
@@ -1258,7 +1193,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3287.jpg",
       "size": {
@@ -1277,7 +1211,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3317.jpg",
       "size": {
@@ -1296,7 +1229,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3338.jpg",
       "size": {
@@ -1315,7 +1247,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3443.jpg",
       "size": {
@@ -1334,7 +1265,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3472.jpg",
       "size": {
@@ -1353,7 +1283,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3500.jpg",
       "size": {
@@ -1372,7 +1301,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3523.jpg",
       "size": {
@@ -1391,7 +1319,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3538.jpg",
       "size": {
@@ -1410,7 +1337,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3619.jpg",
       "size": {
@@ -1429,7 +1355,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3660.jpg",
       "size": {
@@ -1448,7 +1373,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3665.jpg",
       "size": {
@@ -1467,7 +1391,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3700.jpg",
       "size": {
@@ -1486,7 +1409,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3750.jpg",
       "size": {
@@ -1505,7 +1427,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3796.jpg",
       "size": {
@@ -1524,7 +1445,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3823.jpg",
       "size": {
@@ -1543,7 +1463,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3863.jpg",
       "size": {
@@ -1562,7 +1481,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3879.jpg",
       "size": {
@@ -1581,7 +1499,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3955.jpg",
       "size": {
@@ -1600,7 +1517,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_3981.jpg",
       "size": {
@@ -1619,7 +1535,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4153.jpg",
       "size": {
@@ -1638,7 +1553,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4196.jpg",
       "size": {
@@ -1657,7 +1571,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4220.jpg",
       "size": {
@@ -1676,7 +1589,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_424.jpg",
       "size": {
@@ -1695,7 +1607,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4322.jpg",
       "size": {
@@ -1714,7 +1625,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_441.jpg",
       "size": {
@@ -1733,7 +1643,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4514.jpg",
       "size": {
@@ -1752,7 +1661,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4516.jpg",
       "size": {
@@ -1771,7 +1679,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4531.jpg",
       "size": {
@@ -1790,7 +1697,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4660.jpg",
       "size": {
@@ -1809,7 +1715,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4676.jpg",
       "size": {
@@ -1828,7 +1733,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4860.jpg",
       "size": {
@@ -1847,7 +1751,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4868.jpg",
       "size": {
@@ -1866,7 +1769,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4902.jpg",
       "size": {
@@ -1885,7 +1787,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_4991.jpg",
       "size": {
@@ -1904,7 +1805,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5018.jpg",
       "size": {
@@ -1923,7 +1823,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5048.jpg",
       "size": {
@@ -1942,7 +1841,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5060.jpg",
       "size": {
@@ -1961,7 +1859,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5064.jpg",
       "size": {
@@ -1980,7 +1877,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5067.jpg",
       "size": {
@@ -1999,7 +1895,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_517.jpg",
       "size": {
@@ -2018,7 +1913,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5212.jpg",
       "size": {
@@ -2037,7 +1931,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5234.jpg",
       "size": {
@@ -2056,7 +1949,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5241.jpg",
       "size": {
@@ -2075,7 +1967,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5267.jpg",
       "size": {
@@ -2094,7 +1985,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5285.jpg",
       "size": {
@@ -2113,7 +2003,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5356.jpg",
       "size": {
@@ -2132,7 +2021,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5389.jpg",
       "size": {
@@ -2151,7 +2039,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5432.jpg",
       "size": {
@@ -2170,7 +2057,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5467.jpg",
       "size": {
@@ -2189,7 +2075,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5712.jpg",
       "size": {
@@ -2208,7 +2093,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5776.jpg",
       "size": {
@@ -2227,7 +2111,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_584.jpg",
       "size": {
@@ -2246,7 +2129,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5867.jpg",
       "size": {
@@ -2265,7 +2147,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5884.jpg",
       "size": {
@@ -2284,7 +2165,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5945.jpg",
       "size": {
@@ -2303,7 +2183,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5952.jpg",
       "size": {
@@ -2322,7 +2201,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_5992.jpg",
       "size": {
@@ -2341,7 +2219,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6151.jpg",
       "size": {
@@ -2360,7 +2237,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6300.jpg",
       "size": {
@@ -2379,7 +2255,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6315.jpg",
       "size": {
@@ -2398,7 +2273,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6332.jpg",
       "size": {
@@ -2417,7 +2291,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6334.jpg",
       "size": {
@@ -2436,7 +2309,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6335.jpg",
       "size": {
@@ -2455,7 +2327,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6410.jpg",
       "size": {
@@ -2474,7 +2345,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6473.jpg",
       "size": {
@@ -2493,7 +2363,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6502.jpg",
       "size": {
@@ -2512,7 +2381,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6536.jpg",
       "size": {
@@ -2531,7 +2399,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6570.jpg",
       "size": {
@@ -2550,7 +2417,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6657.jpg",
       "size": {
@@ -2569,7 +2435,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_668.jpg",
       "size": {
@@ -2588,7 +2453,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6693.jpg",
       "size": {
@@ -2607,7 +2471,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6733.jpg",
       "size": {
@@ -2626,7 +2489,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6747.jpg",
       "size": {
@@ -2645,7 +2507,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6755.jpg",
       "size": {
@@ -2664,7 +2525,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6799.jpg",
       "size": {
@@ -2683,7 +2543,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6812.jpg",
       "size": {
@@ -2702,7 +2561,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6855.jpg",
       "size": {
@@ -2721,7 +2579,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6873.jpg",
       "size": {
@@ -2740,7 +2597,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6895.jpg",
       "size": {
@@ -2759,7 +2615,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6932.jpg",
       "size": {
@@ -2778,7 +2633,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6933.jpg",
       "size": {
@@ -2797,7 +2651,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_6972.jpg",
       "size": {
@@ -2816,7 +2669,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7.jpg",
       "size": {
@@ -2835,7 +2687,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7077.jpg",
       "size": {
@@ -2854,7 +2705,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7118.jpg",
       "size": {
@@ -2873,7 +2723,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7132.jpg",
       "size": {
@@ -2892,7 +2741,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7140.jpg",
       "size": {
@@ -2911,7 +2759,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_738.jpg",
       "size": {
@@ -2930,7 +2777,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7394.jpg",
       "size": {
@@ -2949,7 +2795,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7463.jpg",
       "size": {
@@ -2968,7 +2813,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7516.jpg",
       "size": {
@@ -2987,7 +2831,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7580.jpg",
       "size": {
@@ -3006,7 +2849,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7602.jpg",
       "size": {
@@ -3025,7 +2867,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7647.jpg",
       "size": {
@@ -3044,7 +2885,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7677.jpg",
       "size": {
@@ -3063,7 +2903,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7762.jpg",
       "size": {
@@ -3082,7 +2921,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7772.jpg",
       "size": {
@@ -3101,7 +2939,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7790.jpg",
       "size": {
@@ -3120,7 +2957,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_7847.jpg",
       "size": {
@@ -3139,7 +2975,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8019.jpg",
       "size": {
@@ -3158,7 +2993,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8096.jpg",
       "size": {
@@ -3177,7 +3011,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8103.jpg",
       "size": {
@@ -3196,7 +3029,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_812.jpg",
       "size": {
@@ -3215,7 +3047,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8132.jpg",
       "size": {
@@ -3234,7 +3065,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8149.jpg",
       "size": {
@@ -3253,7 +3083,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8227.jpg",
       "size": {
@@ -3272,7 +3101,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8270.jpg",
       "size": {
@@ -3291,7 +3119,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8385.jpg",
       "size": {
@@ -3310,7 +3137,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8392.jpg",
       "size": {
@@ -3329,7 +3155,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_841.jpg",
       "size": {
@@ -3348,7 +3173,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8431.jpg",
       "size": {
@@ -3367,7 +3191,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8553.jpg",
       "size": {
@@ -3386,7 +3209,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8613.jpg",
       "size": {
@@ -3405,7 +3227,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8790.jpg",
       "size": {
@@ -3424,7 +3245,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8826.jpg",
       "size": {
@@ -3443,7 +3263,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8880.jpg",
       "size": {
@@ -3462,7 +3281,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8892.jpg",
       "size": {
@@ -3481,7 +3299,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8937.jpg",
       "size": {
@@ -3500,7 +3317,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_8989.jpg",
       "size": {
@@ -3519,7 +3335,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9038.jpg",
       "size": {
@@ -3538,7 +3353,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_910.jpg",
       "size": {
@@ -3557,7 +3371,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9135.jpg",
       "size": {
@@ -3576,7 +3389,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_93.jpg",
       "size": {
@@ -3595,7 +3407,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9319.jpg",
       "size": {
@@ -3614,7 +3425,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9327.jpg",
       "size": {
@@ -3633,7 +3443,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9329.jpg",
       "size": {
@@ -3652,7 +3461,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9359.jpg",
       "size": {
@@ -3671,7 +3479,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9388.jpg",
       "size": {
@@ -3690,7 +3497,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9391.jpg",
       "size": {
@@ -3709,7 +3515,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9427.jpg",
       "size": {
@@ -3728,7 +3533,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9440.jpg",
       "size": {
@@ -3747,7 +3551,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_950.jpg",
       "size": {
@@ -3766,7 +3569,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9581.jpg",
       "size": {
@@ -3785,7 +3587,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9617.jpg",
       "size": {
@@ -3804,7 +3605,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_9631.jpg",
       "size": {
@@ -3823,7 +3623,6 @@
       ]
     },
     {
-      "@context": "https://code.sgo.to/datasets",
       "@type": "Image",
       "url": "images/n02096051-Airedale/n02096051_982.jpg",
       "size": {

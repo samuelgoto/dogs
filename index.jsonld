@@ -3,725 +3,125 @@
   "@type": "Dataset",
   "name": "The stanford dog breed dataset",
   "classes": [
-    {
-      "@type": "Class",
-      "@id": "n02085620-Chihuahua",
-      "name": "n02085620-Chihuahua",
-      "images": "images/n02085620-Chihuahua/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02085782-Japanese_spaniel",
-      "name": "n02085782-Japanese_spaniel",
-      "images": "images/n02085782-Japanese_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02085936-Maltese_dog",
-      "name": "n02085936-Maltese_dog",
-      "images": "images/n02085936-Maltese_dog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02086079-Pekinese",
-      "name": "n02086079-Pekinese",
-      "images": "images/n02086079-Pekinese/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02086240-Shih-Tzu",
-      "name": "n02086240-Shih-Tzu",
-      "images": "images/n02086240-Shih-Tzu/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02086646-Blenheim_spaniel",
-      "name": "n02086646-Blenheim_spaniel",
-      "images": "images/n02086646-Blenheim_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02086910-papillon",
-      "name": "n02086910-papillon",
-      "images": "images/n02086910-papillon/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02087046-toy_terrier",
-      "name": "n02087046-toy_terrier",
-      "images": "images/n02087046-toy_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02087394-Rhodesian_ridgeback",
-      "name": "n02087394-Rhodesian_ridgeback",
-      "images": "images/n02087394-Rhodesian_ridgeback/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02088094-Afghan_hound",
-      "name": "n02088094-Afghan_hound",
-      "images": "images/n02088094-Afghan_hound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02088238-basset",
-      "name": "n02088238-basset",
-      "images": "images/n02088238-basset/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02088364-beagle",
-      "name": "n02088364-beagle",
-      "images": "images/n02088364-beagle/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02088466-bloodhound",
-      "name": "n02088466-bloodhound",
-      "images": "images/n02088466-bloodhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02088632-bluetick",
-      "name": "n02088632-bluetick",
-      "images": "images/n02088632-bluetick/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02089078-black-and-tan_coonhound",
-      "name": "n02089078-black-and-tan_coonhound",
-      "images": "images/n02089078-black-and-tan_coonhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02089867-Walker_hound",
-      "name": "n02089867-Walker_hound",
-      "images": "images/n02089867-Walker_hound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02089973-English_foxhound",
-      "name": "n02089973-English_foxhound",
-      "images": "images/n02089973-English_foxhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02090379-redbone",
-      "name": "n02090379-redbone",
-      "images": "images/n02090379-redbone/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02090622-borzoi",
-      "name": "n02090622-borzoi",
-      "images": "images/n02090622-borzoi/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02090721-Irish_wolfhound",
-      "name": "n02090721-Irish_wolfhound",
-      "images": "images/n02090721-Irish_wolfhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02091032-Italian_greyhound",
-      "name": "n02091032-Italian_greyhound",
-      "images": "images/n02091032-Italian_greyhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02091134-whippet",
-      "name": "n02091134-whippet",
-      "images": "images/n02091134-whippet/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02091244-Ibizan_hound",
-      "name": "n02091244-Ibizan_hound",
-      "images": "images/n02091244-Ibizan_hound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02091467-Norwegian_elkhound",
-      "name": "n02091467-Norwegian_elkhound",
-      "images": "images/n02091467-Norwegian_elkhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02091635-otterhound",
-      "name": "n02091635-otterhound",
-      "images": "images/n02091635-otterhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02091831-Saluki",
-      "name": "n02091831-Saluki",
-      "images": "images/n02091831-Saluki/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02092002-Scottish_deerhound",
-      "name": "n02092002-Scottish_deerhound",
-      "images": "images/n02092002-Scottish_deerhound/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02092339-Weimaraner",
-      "name": "n02092339-Weimaraner",
-      "images": "images/n02092339-Weimaraner/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02093256-Staffordshire_bullterrier",
-      "name": "n02093256-Staffordshire_bullterrier",
-      "images": "images/n02093256-Staffordshire_bullterrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02093428-American_Staffordshire_terrier",
-      "name": "n02093428-American_Staffordshire_terrier",
-      "images": "images/n02093428-American_Staffordshire_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02093647-Bedlington_terrier",
-      "name": "n02093647-Bedlington_terrier",
-      "images": "images/n02093647-Bedlington_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02093754-Border_terrier",
-      "name": "n02093754-Border_terrier",
-      "images": "images/n02093754-Border_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02093859-Kerry_blue_terrier",
-      "name": "n02093859-Kerry_blue_terrier",
-      "images": "images/n02093859-Kerry_blue_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02093991-Irish_terrier",
-      "name": "n02093991-Irish_terrier",
-      "images": "images/n02093991-Irish_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02094114-Norfolk_terrier",
-      "name": "n02094114-Norfolk_terrier",
-      "images": "images/n02094114-Norfolk_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02094258-Norwich_terrier",
-      "name": "n02094258-Norwich_terrier",
-      "images": "images/n02094258-Norwich_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02094433-Yorkshire_terrier",
-      "name": "n02094433-Yorkshire_terrier",
-      "images": "images/n02094433-Yorkshire_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02095314-wire-haired_fox_terrier",
-      "name": "n02095314-wire-haired_fox_terrier",
-      "images": "images/n02095314-wire-haired_fox_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02095570-Lakeland_terrier",
-      "name": "n02095570-Lakeland_terrier",
-      "images": "images/n02095570-Lakeland_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02095889-Sealyham_terrier",
-      "name": "n02095889-Sealyham_terrier",
-      "images": "images/n02095889-Sealyham_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02096051-Airedale",
-      "name": "n02096051-Airedale",
-      "images": "images/n02096051-Airedale/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02096177-cairn",
-      "name": "n02096177-cairn",
-      "images": "images/n02096177-cairn/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02096294-Australian_terrier",
-      "name": "n02096294-Australian_terrier",
-      "images": "images/n02096294-Australian_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02096437-Dandie_Dinmont",
-      "name": "n02096437-Dandie_Dinmont",
-      "images": "images/n02096437-Dandie_Dinmont/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02096585-Boston_bull",
-      "name": "n02096585-Boston_bull",
-      "images": "images/n02096585-Boston_bull/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02097047-miniature_schnauzer",
-      "name": "n02097047-miniature_schnauzer",
-      "images": "images/n02097047-miniature_schnauzer/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02097130-giant_schnauzer",
-      "name": "n02097130-giant_schnauzer",
-      "images": "images/n02097130-giant_schnauzer/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02097209-standard_schnauzer",
-      "name": "n02097209-standard_schnauzer",
-      "images": "images/n02097209-standard_schnauzer/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02097298-Scotch_terrier",
-      "name": "n02097298-Scotch_terrier",
-      "images": "images/n02097298-Scotch_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02097474-Tibetan_terrier",
-      "name": "n02097474-Tibetan_terrier",
-      "images": "images/n02097474-Tibetan_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02097658-silky_terrier",
-      "name": "n02097658-silky_terrier",
-      "images": "images/n02097658-silky_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02098105-soft-coated_wheaten_terrier",
-      "name": "n02098105-soft-coated_wheaten_terrier",
-      "images": "images/n02098105-soft-coated_wheaten_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02098286-West_Highland_white_terrier",
-      "name": "n02098286-West_Highland_white_terrier",
-      "images": "images/n02098286-West_Highland_white_terrier/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02098413-Lhasa",
-      "name": "n02098413-Lhasa",
-      "images": "images/n02098413-Lhasa/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02099267-flat-coated_retriever",
-      "name": "n02099267-flat-coated_retriever",
-      "images": "images/n02099267-flat-coated_retriever/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02099429-curly-coated_retriever",
-      "name": "n02099429-curly-coated_retriever",
-      "images": "images/n02099429-curly-coated_retriever/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02099601-golden_retriever",
-      "name": "n02099601-golden_retriever",
-      "images": "images/n02099601-golden_retriever/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02099712-Labrador_retriever",
-      "name": "n02099712-Labrador_retriever",
-      "images": "images/n02099712-Labrador_retriever/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02099849-Chesapeake_Bay_retriever",
-      "name": "n02099849-Chesapeake_Bay_retriever",
-      "images": "images/n02099849-Chesapeake_Bay_retriever/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02100236-German_short-haired_pointer",
-      "name": "n02100236-German_short-haired_pointer",
-      "images": "images/n02100236-German_short-haired_pointer/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02100583-vizsla",
-      "name": "n02100583-vizsla",
-      "images": "images/n02100583-vizsla/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02100735-English_setter",
-      "name": "n02100735-English_setter",
-      "images": "images/n02100735-English_setter/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02100877-Irish_setter",
-      "name": "n02100877-Irish_setter",
-      "images": "images/n02100877-Irish_setter/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02101006-Gordon_setter",
-      "name": "n02101006-Gordon_setter",
-      "images": "images/n02101006-Gordon_setter/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02101388-Brittany_spaniel",
-      "name": "n02101388-Brittany_spaniel",
-      "images": "images/n02101388-Brittany_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02101556-clumber",
-      "name": "n02101556-clumber",
-      "images": "images/n02101556-clumber/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02102040-English_springer",
-      "name": "n02102040-English_springer",
-      "images": "images/n02102040-English_springer/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02102177-Welsh_springer_spaniel",
-      "name": "n02102177-Welsh_springer_spaniel",
-      "images": "images/n02102177-Welsh_springer_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02102318-cocker_spaniel",
-      "name": "n02102318-cocker_spaniel",
-      "images": "images/n02102318-cocker_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02102480-Sussex_spaniel",
-      "name": "n02102480-Sussex_spaniel",
-      "images": "images/n02102480-Sussex_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02102973-Irish_water_spaniel",
-      "name": "n02102973-Irish_water_spaniel",
-      "images": "images/n02102973-Irish_water_spaniel/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02104029-kuvasz",
-      "name": "n02104029-kuvasz",
-      "images": "images/n02104029-kuvasz/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02104365-schipperke",
-      "name": "n02104365-schipperke",
-      "images": "images/n02104365-schipperke/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105056-groenendael",
-      "name": "n02105056-groenendael",
-      "images": "images/n02105056-groenendael/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105162-malinois",
-      "name": "n02105162-malinois",
-      "images": "images/n02105162-malinois/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105251-briard",
-      "name": "n02105251-briard",
-      "images": "images/n02105251-briard/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105412-kelpie",
-      "name": "n02105412-kelpie",
-      "images": "images/n02105412-kelpie/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105505-komondor",
-      "name": "n02105505-komondor",
-      "images": "images/n02105505-komondor/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105641-Old_English_sheepdog",
-      "name": "n02105641-Old_English_sheepdog",
-      "images": "images/n02105641-Old_English_sheepdog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02105855-Shetland_sheepdog",
-      "name": "n02105855-Shetland_sheepdog",
-      "images": "images/n02105855-Shetland_sheepdog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02106030-collie",
-      "name": "n02106030-collie",
-      "images": "images/n02106030-collie/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02106166-Border_collie",
-      "name": "n02106166-Border_collie",
-      "images": "images/n02106166-Border_collie/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02106382-Bouvier_des_Flandres",
-      "name": "n02106382-Bouvier_des_Flandres",
-      "images": "images/n02106382-Bouvier_des_Flandres/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02106550-Rottweiler",
-      "name": "n02106550-Rottweiler",
-      "images": "images/n02106550-Rottweiler/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02106662-German_shepherd",
-      "name": "n02106662-German_shepherd",
-      "images": "images/n02106662-German_shepherd/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02107142-Doberman",
-      "name": "n02107142-Doberman",
-      "images": "images/n02107142-Doberman/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02107312-miniature_pinscher",
-      "name": "n02107312-miniature_pinscher",
-      "images": "images/n02107312-miniature_pinscher/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02107574-Greater_Swiss_Mountain_dog",
-      "name": "n02107574-Greater_Swiss_Mountain_dog",
-      "images": "images/n02107574-Greater_Swiss_Mountain_dog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02107683-Bernese_mountain_dog",
-      "name": "n02107683-Bernese_mountain_dog",
-      "images": "images/n02107683-Bernese_mountain_dog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02107908-Appenzeller",
-      "name": "n02107908-Appenzeller",
-      "images": "images/n02107908-Appenzeller/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02108000-EntleBucher",
-      "name": "n02108000-EntleBucher",
-      "images": "images/n02108000-EntleBucher/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02108089-boxer",
-      "name": "n02108089-boxer",
-      "images": "images/n02108089-boxer/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02108422-bull_mastiff",
-      "name": "n02108422-bull_mastiff",
-      "images": "images/n02108422-bull_mastiff/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02108551-Tibetan_mastiff",
-      "name": "n02108551-Tibetan_mastiff",
-      "images": "images/n02108551-Tibetan_mastiff/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02108915-French_bulldog",
-      "name": "n02108915-French_bulldog",
-      "images": "images/n02108915-French_bulldog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02109047-Great_Dane",
-      "name": "n02109047-Great_Dane",
-      "images": "images/n02109047-Great_Dane/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02109525-Saint_Bernard",
-      "name": "n02109525-Saint_Bernard",
-      "images": "images/n02109525-Saint_Bernard/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02109961-Eskimo_dog",
-      "name": "n02109961-Eskimo_dog",
-      "images": "images/n02109961-Eskimo_dog/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02110063-malamute",
-      "name": "n02110063-malamute",
-      "images": "images/n02110063-malamute/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02110185-Siberian_husky",
-      "name": "n02110185-Siberian_husky",
-      "images": "images/n02110185-Siberian_husky/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02110627-affenpinscher",
-      "name": "n02110627-affenpinscher",
-      "images": "images/n02110627-affenpinscher/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02110806-basenji",
-      "name": "n02110806-basenji",
-      "images": "images/n02110806-basenji/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02110958-pug",
-      "name": "n02110958-pug",
-      "images": "images/n02110958-pug/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02111129-Leonberg",
-      "name": "n02111129-Leonberg",
-      "images": "images/n02111129-Leonberg/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02111277-Newfoundland",
-      "name": "n02111277-Newfoundland",
-      "images": "images/n02111277-Newfoundland/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02111500-Great_Pyrenees",
-      "name": "n02111500-Great_Pyrenees",
-      "images": "images/n02111500-Great_Pyrenees/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02111889-Samoyed",
-      "name": "n02111889-Samoyed",
-      "images": "images/n02111889-Samoyed/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02112018-Pomeranian",
-      "name": "n02112018-Pomeranian",
-      "images": "images/n02112018-Pomeranian/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02112137-chow",
-      "name": "n02112137-chow",
-      "images": "images/n02112137-chow/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02112350-keeshond",
-      "name": "n02112350-keeshond",
-      "images": "images/n02112350-keeshond/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02112706-Brabancon_griffon",
-      "name": "n02112706-Brabancon_griffon",
-      "images": "images/n02112706-Brabancon_griffon/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02113023-Pembroke",
-      "name": "n02113023-Pembroke",
-      "images": "images/n02113023-Pembroke/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02113186-Cardigan",
-      "name": "n02113186-Cardigan",
-      "images": "images/n02113186-Cardigan/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02113624-toy_poodle",
-      "name": "n02113624-toy_poodle",
-      "images": "images/n02113624-toy_poodle/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02113712-miniature_poodle",
-      "name": "n02113712-miniature_poodle",
-      "images": "images/n02113712-miniature_poodle/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02113799-standard_poodle",
-      "name": "n02113799-standard_poodle",
-      "images": "images/n02113799-standard_poodle/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02113978-Mexican_hairless",
-      "name": "n02113978-Mexican_hairless",
-      "images": "images/n02113978-Mexican_hairless/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02115641-dingo",
-      "name": "n02115641-dingo",
-      "images": "images/n02115641-dingo/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02115913-dhole",
-      "name": "n02115913-dhole",
-      "images": "images/n02115913-dhole/index.jsonld"
-    },
-    {
-      "@type": "Class",
-      "@id": "n02116738-African_hunting_dog",
-      "name": "n02116738-African_hunting_dog",
-      "images": "images/n02116738-African_hunting_dog/index.jsonld"
-    }
+    "images/n02085620-Chihuahua/index.jsonld",
+    "images/n02085782-Japanese_spaniel/index.jsonld",
+    "images/n02085936-Maltese_dog/index.jsonld",
+    "images/n02086079-Pekinese/index.jsonld",
+    "images/n02086240-Shih-Tzu/index.jsonld",
+    "images/n02086646-Blenheim_spaniel/index.jsonld",
+    "images/n02086910-papillon/index.jsonld",
+    "images/n02087046-toy_terrier/index.jsonld",
+    "images/n02087394-Rhodesian_ridgeback/index.jsonld",
+    "images/n02088094-Afghan_hound/index.jsonld",
+    "images/n02088238-basset/index.jsonld",
+    "images/n02088364-beagle/index.jsonld",
+    "images/n02088466-bloodhound/index.jsonld",
+    "images/n02088632-bluetick/index.jsonld",
+    "images/n02089078-black-and-tan_coonhound/index.jsonld",
+    "images/n02089867-Walker_hound/index.jsonld",
+    "images/n02089973-English_foxhound/index.jsonld",
+    "images/n02090379-redbone/index.jsonld",
+    "images/n02090622-borzoi/index.jsonld",
+    "images/n02090721-Irish_wolfhound/index.jsonld",
+    "images/n02091032-Italian_greyhound/index.jsonld",
+    "images/n02091134-whippet/index.jsonld",
+    "images/n02091244-Ibizan_hound/index.jsonld",
+    "images/n02091467-Norwegian_elkhound/index.jsonld",
+    "images/n02091635-otterhound/index.jsonld",
+    "images/n02091831-Saluki/index.jsonld",
+    "images/n02092002-Scottish_deerhound/index.jsonld",
+    "images/n02092339-Weimaraner/index.jsonld",
+    "images/n02093256-Staffordshire_bullterrier/index.jsonld",
+    "images/n02093428-American_Staffordshire_terrier/index.jsonld",
+    "images/n02093647-Bedlington_terrier/index.jsonld",
+    "images/n02093754-Border_terrier/index.jsonld",
+    "images/n02093859-Kerry_blue_terrier/index.jsonld",
+    "images/n02093991-Irish_terrier/index.jsonld",
+    "images/n02094114-Norfolk_terrier/index.jsonld",
+    "images/n02094258-Norwich_terrier/index.jsonld",
+    "images/n02094433-Yorkshire_terrier/index.jsonld",
+    "images/n02095314-wire-haired_fox_terrier/index.jsonld",
+    "images/n02095570-Lakeland_terrier/index.jsonld",
+    "images/n02095889-Sealyham_terrier/index.jsonld",
+    "images/n02096051-Airedale/index.jsonld",
+    "images/n02096177-cairn/index.jsonld",
+    "images/n02096294-Australian_terrier/index.jsonld",
+    "images/n02096437-Dandie_Dinmont/index.jsonld",
+    "images/n02096585-Boston_bull/index.jsonld",
+    "images/n02097047-miniature_schnauzer/index.jsonld",
+    "images/n02097130-giant_schnauzer/index.jsonld",
+    "images/n02097209-standard_schnauzer/index.jsonld",
+    "images/n02097298-Scotch_terrier/index.jsonld",
+    "images/n02097474-Tibetan_terrier/index.jsonld",
+    "images/n02097658-silky_terrier/index.jsonld",
+    "images/n02098105-soft-coated_wheaten_terrier/index.jsonld",
+    "images/n02098286-West_Highland_white_terrier/index.jsonld",
+    "images/n02098413-Lhasa/index.jsonld",
+    "images/n02099267-flat-coated_retriever/index.jsonld",
+    "images/n02099429-curly-coated_retriever/index.jsonld",
+    "images/n02099601-golden_retriever/index.jsonld",
+    "images/n02099712-Labrador_retriever/index.jsonld",
+    "images/n02099849-Chesapeake_Bay_retriever/index.jsonld",
+    "images/n02100236-German_short-haired_pointer/index.jsonld",
+    "images/n02100583-vizsla/index.jsonld",
+    "images/n02100735-English_setter/index.jsonld",
+    "images/n02100877-Irish_setter/index.jsonld",
+    "images/n02101006-Gordon_setter/index.jsonld",
+    "images/n02101388-Brittany_spaniel/index.jsonld",
+    "images/n02101556-clumber/index.jsonld",
+    "images/n02102040-English_springer/index.jsonld",
+    "images/n02102177-Welsh_springer_spaniel/index.jsonld",
+    "images/n02102318-cocker_spaniel/index.jsonld",
+    "images/n02102480-Sussex_spaniel/index.jsonld",
+    "images/n02102973-Irish_water_spaniel/index.jsonld",
+    "images/n02104029-kuvasz/index.jsonld",
+    "images/n02104365-schipperke/index.jsonld",
+    "images/n02105056-groenendael/index.jsonld",
+    "images/n02105162-malinois/index.jsonld",
+    "images/n02105251-briard/index.jsonld",
+    "images/n02105412-kelpie/index.jsonld",
+    "images/n02105505-komondor/index.jsonld",
+    "images/n02105641-Old_English_sheepdog/index.jsonld",
+    "images/n02105855-Shetland_sheepdog/index.jsonld",
+    "images/n02106030-collie/index.jsonld",
+    "images/n02106166-Border_collie/index.jsonld",
+    "images/n02106382-Bouvier_des_Flandres/index.jsonld",
+    "images/n02106550-Rottweiler/index.jsonld",
+    "images/n02106662-German_shepherd/index.jsonld",
+    "images/n02107142-Doberman/index.jsonld",
+    "images/n02107312-miniature_pinscher/index.jsonld",
+    "images/n02107574-Greater_Swiss_Mountain_dog/index.jsonld",
+    "images/n02107683-Bernese_mountain_dog/index.jsonld",
+    "images/n02107908-Appenzeller/index.jsonld",
+    "images/n02108000-EntleBucher/index.jsonld",
+    "images/n02108089-boxer/index.jsonld",
+    "images/n02108422-bull_mastiff/index.jsonld",
+    "images/n02108551-Tibetan_mastiff/index.jsonld",
+    "images/n02108915-French_bulldog/index.jsonld",
+    "images/n02109047-Great_Dane/index.jsonld",
+    "images/n02109525-Saint_Bernard/index.jsonld",
+    "images/n02109961-Eskimo_dog/index.jsonld",
+    "images/n02110063-malamute/index.jsonld",
+    "images/n02110185-Siberian_husky/index.jsonld",
+    "images/n02110627-affenpinscher/index.jsonld",
+    "images/n02110806-basenji/index.jsonld",
+    "images/n02110958-pug/index.jsonld",
+    "images/n02111129-Leonberg/index.jsonld",
+    "images/n02111277-Newfoundland/index.jsonld",
+    "images/n02111500-Great_Pyrenees/index.jsonld",
+    "images/n02111889-Samoyed/index.jsonld",
+    "images/n02112018-Pomeranian/index.jsonld",
+    "images/n02112137-chow/index.jsonld",
+    "images/n02112350-keeshond/index.jsonld",
+    "images/n02112706-Brabancon_griffon/index.jsonld",
+    "images/n02113023-Pembroke/index.jsonld",
+    "images/n02113186-Cardigan/index.jsonld",
+    "images/n02113624-toy_poodle/index.jsonld",
+    "images/n02113712-miniature_poodle/index.jsonld",
+    "images/n02113799-standard_poodle/index.jsonld",
+    "images/n02113978-Mexican_hairless/index.jsonld",
+    "images/n02115641-dingo/index.jsonld",
+    "images/n02115913-dhole/index.jsonld",
+    "images/n02116738-African_hunting_dog/index.jsonld"
   ]
 }
