@@ -122,14 +122,16 @@
                       </TableRow>
                     </TableHead>
                     <TableBody>
-                      <TableRow>
-                        <TableCell>Poodle</TableCell>
-                        <TableCell>10</TableCell>                      
-                      </TableRow>
-                      <TableRow>
-                        <TableCell>Schinauzer</TableCell>
-                        <TableCell>20</TableCell>                      
-                      </TableRow>
+                      {
+                      this.props.dataset.classes.map(clazz => {
+                        return (
+                          <TableRow>
+                            <TableCell>{clazz.name}</TableCell>
+                            <TableCell>{clazz.images ? clazz.images.length : 0}</TableCell>                      
+                          </TableRow>
+                        )
+                      })
+                      }
                     </TableBody>
                     <TableFooter>
                       <TableRow>
@@ -148,10 +150,21 @@
 
                 <br />
  
+                <Typography className={classes.heading}>{this.props.dataset.classes[0].name}</Typography>
+
+                <br />
+                <br />
+
                 <GridList cellHeight={160} className={classes.gridList} cols={3}>
-                  <GridListTile key="hello">
-                    <img src="https://material-ui.com/static/images/grid-list/honey.jpg" alt="foobar" />
-                  </GridListTile>
+                  {
+                    this.props.dataset.classes[0].images.map(image => {
+                      return (
+                        <GridListTile key="hello">
+                          <img src={image} />
+                        </GridListTile>
+                      )
+                    })
+                  }
                 </GridList>
 
               </main>
@@ -177,43 +190,7 @@
           );
         }
       }
-
-      class Navigator extends React.Component { 
-        render() { 
-          return (
-            <div className="shopping-list">
-              <ul>
-                {this.props.classes.map(clazz => <li>{clazz}</li>)}
-              </ul>
-            </div>
-            );
-        } 
-      }
-      
-      // Create a function to wrap up your component
-      class Dataset2 extends React.Component { 
-        // Use the render function to return JSX component      
-        render() {
-          // alert(this.props.dataset.classes);
-          return (
-            <div>
-              <table border="1">
-                <tr><td colspan="2">{this.props.dataset.name}</td></tr>
-                <tr><td colspan="2">{this.props.dataset.description}</td></tr>
-                <tr><td colspan="2">{this.props.dataset.license}</td></tr>
-                <tr><td colspan="2">{JSON.stringify(this.props.dataset.author)}</td></tr>
-                <tr><td colspan="2">{JSON.stringify(this.props.dataset.citation)}</td></tr>
-                <tr><td>Release</td><td>{this.props.dataset.release}</td></tr>
-                <tr><td>Created</td><td>{this.props.dataset.dateCreated}</td></tr>
-                <tr><td>Published</td><td>{this.props.dataset.datePublished}</td></tr>
-                <tr><td>Modified</td><td>{this.props.dataset.dateModified}</td></tr>
-              </table>
-              <Navigator classes={this.props.dataset.classes} />
-            </div>
-          );
-        }
-      }
-      
+            
       let dataset = {
         "@context": "https://code.sgo.to/datasets",
         "@type": "Dataset",
@@ -241,7 +218,22 @@
         "dateCreated": "2018/10/03",
         "datePublished": "2018/10/03",
         "dateModified": "2018/10/03",
-        "classes": ["foo", "bar"]
+        "classes": [{
+            "@type": "Class",
+            "name": "Honey",
+            "images": [
+               "https://material-ui.com/static/images/grid-list/honey.jpg",
+               "https://material-ui.com/static/images/grid-list/vegetables.jpg",
+               "https://material-ui.com/static/images/grid-list/plant.jpg"
+            ]
+          }, {
+            "@type": "Class",
+            "name": "Mushrooms",
+            "images": [
+               "https://material-ui.com/static/images/grid-list/mushroom.jpg"
+            ]
+          }
+        ]
       };
 
       // Use the ReactDOM.render to show your component on the browser
