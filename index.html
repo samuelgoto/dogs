@@ -11,7 +11,7 @@
     <script src="https://unpkg.com/@material-ui/core/umd/material-ui.development.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">  </head>
-  <body style="margin: 0px;">
+  <body style="margin: 0px; background-color: #fafafa;">
     <div id="root"></div>
 
     <script type="text/babel" data-plugins="transform-decorators-legacy">
@@ -48,7 +48,9 @@
         ListItem,
         ListItemText,
         Divider,
-        Toolbar
+        Toolbar,
+        GridList,
+        GridListTile
       } = window['material-ui'];
 
       // alert(ExpandMore);
@@ -101,42 +103,16 @@
           const {classes} = this.props;
           return (
             <div className={classes.root}>
-
-              <AppBar position="absolute" className={classes.appBar}>
-                <Toolbar>
-                  <Typography variant="title" color="inherit" noWrap>
-                    Dataset
-                  </Typography>
-                </Toolbar>
-              </AppBar>
-
-              <Drawer
-                 variant="permanent"
-                 classes={{
-                   paper: classes.drawerPaper,
-                 }}
-                 >
-                <div className={classes.toolbar} />
-                <List>
-                  <ListItem button>
-                    <ListItemText primary="Summary" />
-                  </ListItem>
-                  <ListItem button>
-                    <ListItemText primary="Images" />
-                  </ListItem>
-                </List>
-                <Divider />
-                <List></List>
-              </Drawer>
-
               <main className={classes.content}>
-                <div className={classes.toolbar} />
                 <Row name="name" value={this.props.dataset.name} description="hello world" />
                 <Row name="description" value={this.props.dataset.description} description="" />
                 <Row name="release date" value={this.props.dataset.dateReleased} description="hello world" />
                 <Row name="creation date" value={this.props.dataset.dateCreated} description="hello world" />
                 <Row name="published date" value={this.props.dataset.datePublished} description="hello world" />
                 <Row name="modified date" value={this.props.dataset.dateModified} description="hello world" />
+
+                <br />
+
                 <Paper>
                   <Table>
                     <TableHead>
@@ -159,15 +135,25 @@
                       <TableRow>
                         <TablePagination
                            colSpan={2}
-                           count={2}
+                           count={1}
                            rowsPerPage={2}
-                           page={1}
+                           page={0}
+                           rowsPerPageOptions={10}
                            onChangePage={this.handleChangePage}
                            />
                       </TableRow>
                     </TableFooter>
                   </Table>
                 </Paper>
+
+                <br />
+ 
+                <GridList cellHeight={160} className={classes.gridList} cols={3}>
+                  <GridListTile key="hello">
+                    <img src="https://material-ui.com/static/images/grid-list/honey.jpg" alt="foobar" />
+                  </GridListTile>
+                </GridList>
+
               </main>
             </div>
           );
