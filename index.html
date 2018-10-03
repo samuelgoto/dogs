@@ -91,6 +91,12 @@
           fontSize: theme.typography.pxToRem(15),
           color: theme.palette.text.secondary,
         },
+        row: {
+          "[selected]": {
+            backgroundColor: theme.palette.background.default,
+          },
+          cursor: "pointer"
+        }
       });
 
       @withStyles(styles)
@@ -104,12 +110,20 @@
           return (
             <div className={classes.root}>
               <main className={classes.content}>
-                <Row name="name" value={this.props.dataset.name} description="hello world" />
-                <Row name="description" value={this.props.dataset.description} description="" />
+
+                <br />
+                <Typography className={classes.heading}>{this.props.dataset.name}</Typography>
+                <br />
+                <Typography className={classes.heading}>{this.props.dataset.description}</Typography>
+
+                <br />
+                <br />
+
                 <Row name="release date" value={this.props.dataset.dateReleased} description="hello world" />
                 <Row name="creation date" value={this.props.dataset.dateCreated} description="hello world" />
                 <Row name="published date" value={this.props.dataset.datePublished} description="hello world" />
                 <Row name="modified date" value={this.props.dataset.dateModified} description="hello world" />
+
                 <br />
                 <Browser dataset={this.props.dataset} />
               </main>
@@ -118,9 +132,18 @@
         }
       }
 
-
       @withStyles(styles)
       class Browser extends React.Component {
+        constructor(props) {
+          super();
+          this.state = {selected: 0};
+        }
+
+        handleClick(e, id) {
+          // alert(id);
+          this.setState({selected: id});
+        }
+
         render() {
           const {classes} = this.props;
           return (
@@ -135,9 +158,12 @@
                     </TableHead>
                     <TableBody>
                       {
-                      this.props.dataset.classes.map(clazz => {
+                      this.props.dataset.classes.map((clazz, id) => {
                         return (
-                          <TableRow>
+                          <TableRow 
+                             className={classes.row} 
+                             onClick={event => this.handleClick(event, id)}
+                             selected={this.state.selected == id}>
                             <TableCell>{clazz.name}</TableCell>
                             <TableCell>{clazz.images ? clazz.images.length : 0}</TableCell>                      
                           </TableRow>
@@ -162,14 +188,14 @@
 
                 <br />
  
-                <Typography className={classes.heading}>{this.props.dataset.classes[0].name}</Typography>
+                <Typography className={classes.heading}>{this.props.dataset.classes[this.state.selected].name}</Typography>
 
                 <br />
                 <br />
 
                 <GridList cellHeight={160} className={classes.gridList} cols={3}>
                   {
-                    this.props.dataset.classes[0].images.map(image => {
+                    this.props.dataset.classes[this.state.selected].images.map(image => {
                       return (
                         <GridListTile key="hello">
                           <img src={image} />
