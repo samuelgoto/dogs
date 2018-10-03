@@ -13,16 +13,13 @@
     <div id="root"></div>
 
     <script type="text/babel">
-      class ShoppingList extends React.Component { 
-        // Use the render function to return JSX component      
+      class Navigator extends React.Component { 
         render() { 
+          // alert(this.props.classes);
           return (
             <div className="shopping-list">
-              <h1>Shopping List for {this.props.name}</h1>
               <ul>
-                <li>Instagram</li>
-                <li>WhatsApp</li>
-                <li>Oculus</li>
+                {this.props.classes.map(clazz => <li>{clazz}</li>)}
               </ul>
             </div>
             );
@@ -30,18 +27,27 @@
       }
       
       // Create a function to wrap up your component
-      function App(){
-        return (
-          <div>
-            <ShoppingList name="@luispagarcia on Dev.to!"/>
-          </div>
-        )
+      class Dataset extends React.Component { 
+        // Use the render function to return JSX component      
+        render() {
+          // alert(this.props.dataset.classes);
+          return (
+            <div>
+              <h1>{this.props.dataset.name}</h1>
+              <Navigator classes={this.props.dataset.classes} />
+            </div>
+          );
+        }
       }
       
+      let dataset = {
+        name: "Dog breeds",
+        classes: ["foo", "bar"]
+      };
 
       // Use the ReactDOM.render to show your component on the browser
       const root = document.getElementById("root")
-      ReactDOM.render(<App />, root);
+      ReactDOM.render(<Dataset dataset={dataset} />, root);
     </script>
   </body>
 </html>
