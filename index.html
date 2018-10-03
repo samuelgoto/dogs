@@ -84,7 +84,7 @@
         toolbar: theme.mixins.toolbar,
         heading: {
           fontSize: theme.typography.pxToRem(15),
-          flexBasis: '33.33%',
+          flexBasis: "10%",
           flexShrink: 0,
         },
         secondaryHeading: {
@@ -110,9 +110,21 @@
                 <Row name="creation date" value={this.props.dataset.dateCreated} description="hello world" />
                 <Row name="published date" value={this.props.dataset.datePublished} description="hello world" />
                 <Row name="modified date" value={this.props.dataset.dateModified} description="hello world" />
-
                 <br />
+                <Browser dataset={this.props.dataset} />
+              </main>
+            </div>
+          );
+        }
+      }
 
+
+      @withStyles(styles)
+      class Browser extends React.Component {
+        render() {
+          const {classes} = this.props;
+          return (
+            <div>
                 <Paper>
                   <Table>
                     <TableHead>
@@ -166,8 +178,6 @@
                     })
                   }
                 </GridList>
-
-              </main>
             </div>
           );
         }
