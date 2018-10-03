@@ -31,11 +31,20 @@
         withStyles,
         ExpansionPanel,
         ExpansionPanelSummary,
-        ExpansionPanelDetails
+        ExpansionPanelDetails,
+        Paper,
+        Table,
+        TableBody,
+        TableCell,
+        TableHead,
+        TableFooter,
+        TablePagination,
+        TableRow
       } = window['material-ui'];
 
       // alert(ExpandMore);
       // alert(withStyles);
+      // alert(Table);
 
       const styles = theme => ({
         root: {
@@ -54,6 +63,10 @@
 
       @withStyles(styles)
       class Dataset extends React.Component {
+        handleChangePage(event, page) {
+          alert(page);
+        };
+
         render() {
           const {classes} = this.props;
           return (
@@ -64,6 +77,37 @@
               <Row name="creation date" value={this.props.dataset.dateCreated} description="hello world" />
               <Row name="published date" value={this.props.dataset.datePublished} description="hello world" />
               <Row name="modified date" value={this.props.dataset.dateModified} description="hello world" />
+              <Paper>
+                <Table>
+                  <TableHead>
+                    <TableRow>
+                      <TableCell>Class</TableCell>
+                      <TableCell>Number of images</TableCell>
+                    </TableRow>
+                  </TableHead>
+                  <TableBody>
+                    <TableRow>
+                      <TableCell>Poodle</TableCell>
+                      <TableCell>10</TableCell>                      
+                    </TableRow>
+                    <TableRow>
+                      <TableCell>Schinauzer</TableCell>
+                      <TableCell>20</TableCell>                      
+                    </TableRow>
+                  </TableBody>
+                  <TableFooter>
+                    <TableRow>
+                      <TablePagination
+                         colSpan={2}
+                         count={2}
+                         rowsPerPage={2}
+                         page={1}
+                         onChangePage={this.handleChangePage}
+                         />
+                    </TableRow>
+                  </TableFooter>
+                </Table>
+              </Paper>
             </div>
           );
         }
