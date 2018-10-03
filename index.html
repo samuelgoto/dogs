@@ -5,17 +5,90 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Dogs</title>
-    <script type="application/javascript" src="https://unpkg.com/react@16.0.0/umd/react.production.min.js"></script>
-    <script type="application/javascript" src="https://unpkg.com/react-dom@16.0.0/umd/react-dom.production.min.js"></script>
+    <script type="application/javascript" src="https://unpkg.com/react@16.3.0/umd/react.production.min.js"></script>
+    <script type="application/javascript" src="https://unpkg.com/react-dom@16.3.0/umd/react-dom.production.min.js"></script>
     <script type="application/javascript" src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
-  </head>
+    <script src="https://unpkg.com/@material-ui/core/umd/material-ui.development.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">  </head>
   <body>
     <div id="root"></div>
 
-    <script type="text/babel">
+    <script type="text/babel" data-plugins="transform-decorators-legacy">
+      const {
+        Button,
+        colors,
+        createMuiTheme,
+        CssBaseline,
+        Dialog,
+        DialogActions,
+        DialogContent,
+        DialogContentText,
+        DialogTitle,
+        Icon,
+        MuiThemeProvider,
+        Typography,
+        withStyles,
+        ExpansionPanel,
+        ExpansionPanelSummary,
+        ExpansionPanelDetails
+      } = window['material-ui'];
+
+      // alert(ExpandMore);
+      // alert(withStyles);
+
+      const styles = theme => ({
+        root: {
+          width: '100%',
+        },
+        heading: {
+          fontSize: theme.typography.pxToRem(15),
+          flexBasis: '33.33%',
+          flexShrink: 0,
+        },
+        secondaryHeading: {
+          fontSize: theme.typography.pxToRem(15),
+          color: theme.palette.text.secondary,
+        },
+      });
+
+      @withStyles(styles)
+      class Dataset extends React.Component {
+        render() {
+          const {classes} = this.props;
+          return (
+            <div>
+              <Row name="name" value={this.props.dataset.name} description="hello world" />
+              <Row name="description" value={this.props.dataset.description} description="" />
+              <Row name="release date" value={this.props.dataset.dateReleased} description="hello world" />
+              <Row name="creation date" value={this.props.dataset.dateCreated} description="hello world" />
+              <Row name="published date" value={this.props.dataset.datePublished} description="hello world" />
+              <Row name="modified date" value={this.props.dataset.dateModified} description="hello world" />
+            </div>
+          );
+        }
+      }
+
+      @withStyles(styles)
+      class Row extends React.Component {
+        render() {
+          const {classes} = this.props;
+          return (
+             <ExpansionPanel>
+               <ExpansionPanelSummary>
+                 <Typography className={classes.heading}>{this.props.name}</Typography>
+                 <Typography className={classes.secondaryHeading}>{this.props.value}</Typography>
+               </ExpansionPanelSummary>
+               <ExpansionPanelDetails>
+                 <Typography>{this.props.description}</Typography>
+               </ExpansionPanelDetails>
+             </ExpansionPanel>
+          );
+        }
+      }
+
       class Navigator extends React.Component { 
         render() { 
-          // alert(this.props.classes);
           return (
             <div className="shopping-list">
               <ul>
@@ -27,13 +100,23 @@
       }
       
       // Create a function to wrap up your component
-      class Dataset extends React.Component { 
+      class Dataset2 extends React.Component { 
         // Use the render function to return JSX component      
         render() {
           // alert(this.props.dataset.classes);
           return (
             <div>
-              <h1>{this.props.dataset.name}</h1>
+              <table border="1">
+                <tr><td colspan="2">{this.props.dataset.name}</td></tr>
+                <tr><td colspan="2">{this.props.dataset.description}</td></tr>
+                <tr><td colspan="2">{this.props.dataset.license}</td></tr>
+                <tr><td colspan="2">{JSON.stringify(this.props.dataset.author)}</td></tr>
+                <tr><td colspan="2">{JSON.stringify(this.props.dataset.citation)}</td></tr>
+                <tr><td>Release</td><td>{this.props.dataset.release}</td></tr>
+                <tr><td>Created</td><td>{this.props.dataset.dateCreated}</td></tr>
+                <tr><td>Published</td><td>{this.props.dataset.datePublished}</td></tr>
+                <tr><td>Modified</td><td>{this.props.dataset.dateModified}</td></tr>
+              </table>
               <Navigator classes={this.props.dataset.classes} />
             </div>
           );
@@ -41,8 +124,33 @@
       }
       
       let dataset = {
-        name: "Dog breeds",
-        classes: ["foo", "bar"]
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Dataset",
+        "url": "http://vision.stanford.edu/aditya86/ImageNetDogs/",
+        "author": ["Aditya Khosla", "Nityananda Jayadevaprakash", "Bangpeng Yao", "Li Fei-Fei"],
+        "name": "Dog breeds",
+        "description": "This is a JSON-LD port of Stanford's ImageNetDogs dataset. It contains 120 dog breeds, ~150 images per class. Total images: 20,580.",
+        "citation": [{
+          "inproceedings": "KhoslaYaoJayadevaprakashFeiFei_FGVC2011",
+          "author": "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
+          "title": "Novel Dataset for Fine-Grained Image Categorization",
+          "booktitle": "First Workshop on Fine-Grained Visual Categorization, IEEE Conference on Computer Vision and Pattern Recognition",
+          "year": "2011",
+          "month": "June",
+          "address": "Colorado Springs, CO"
+        }, {
+          "inproceedings": "imagenet_cvpr09",
+          "author": ["Deng", "J. and Dong", "W. and Socher", "R. and Li", "L.-J. and Li", "K. and Fei-Fei, L"],
+          "title": "ImageNet: A Large-Scale Hierarchical Image Database",
+          "booktitle": "CVPR09",
+          "year": "2009",
+          "bibsource": "http://www.image-net.org/papers/imagenet_cvpr09.bib"
+        }],
+        "release": "0.0.1",
+        "dateCreated": "2018/10/03",
+        "datePublished": "2018/10/03",
+        "dateModified": "2018/10/03",
+        "classes": ["foo", "bar"]
       };
 
       // Use the ReactDOM.render to show your component on the browser
