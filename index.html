@@ -188,6 +188,7 @@
           const PAGE_SIZE = 5;
           let page = list.slice(offset * PAGE_SIZE, (offset + 1) * PAGE_SIZE);
           let total = list.length / PAGE_SIZE;
+          let selected = this.state.selected;
 
           return (
             <div>
@@ -205,7 +206,8 @@
                         return (
                           <TableRow 
                              className={classes.row}
-                             onClick={event => this.handleClick(event, offset + id)}>
+                             onClick={event => this.handleClick(event, offset + id)}
+                             selected={(offset + id) == selected}>
                             <TableCell>{clazz.status == "loaded" ? clazz.value.name : "loading"}</TableCell>
                             <TableCell>{clazz.status == "loaded" ? (clazz.value.images || []).length : "loading"}</TableCell>
                           </TableRow>
@@ -229,7 +231,7 @@
                 </Paper>
 
                 <br /> 
-                <Gallery clazz={list[this.state.selected]} />
+                <Gallery clazz={list[selected]} />
                 <br />
 
             </div>
