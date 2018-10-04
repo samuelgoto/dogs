@@ -372,18 +372,18 @@ async function load(file) {
  }
 }
 
-async function main(file, el) {
- let {dataset, error} = await load(file);
- render(dataset, error, el);
-}
-
-
-window.onload = function() {
+async function main() {
  let selector = document.querySelector("script[type='application/ld+json']");
  if (!selector) {
   console.log("no JSON-LD file found in this page");
   return;
  }
- // console.log(selector.src);
- main(selector.src, selector);
+
+ let file = selector.src;
+ let el = selector;
+
+ let {dataset, error} = await load(file);
+ render(dataset, error, el);
 }
+
+main();
