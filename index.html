@@ -53,6 +53,7 @@
         SwipeableDrawer
       } = window['material-ui'];
 
+
       const drawerWidth = 240;
 
       const styles = theme => ({
@@ -121,16 +122,16 @@
             <div className={classes.root}>
               <main className={classes.content}>
                 <center>
-                  <Button variant="contained" color="primary" className={classes.button}>Images</Button>
-                  <Button variant="contained" className={classes.button} 
+                  <Button variant="outlined" color="primary" className={classes.button}>Images</Button>
+                  <Button variant="outlined" className={classes.button} 
                     onClick={this.toggleDrawer.bind(this, "summary", true)}>
                     Details
                   </Button>
-                  <Button variant="contained" className={classes.button}
+                  <Button variant="outlined" className={classes.button}
                     onClick={this.toggleDrawer.bind(this, "code", true)}>
                     Code
                   </Button>
-                  <Button variant="contained" className={classes.button} disabled>
+                  <Button variant="outlined" className={classes.button} disabled>
                     Download
                   </Button>
                 </center>
@@ -153,7 +154,6 @@
                   onClose={this.toggleDrawer.bind(this, "code", false)}
                   onOpen={this.toggleDrawer.bind(this, "code", true)}
                   >
-                  TODO(goto): add the JSON-LD snippet here.
                 </SwipeableDrawer>
 
                 <br />
