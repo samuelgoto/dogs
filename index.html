@@ -52,9 +52,6 @@
         GridListTile
       } = window['material-ui'];
 
-      // alert(ExpandMore);
-      // alert(withStyles);
-      // alert(Table);
       const drawerWidth = 240;
 
       const styles = theme => ({
@@ -100,10 +97,6 @@
 
       @withStyles(styles)
       class Dataset extends React.Component {
-        handleChangePage(event, page) {
-          // alert(page);
-        };
-
         render() {
           const {classes} = this.props;
           const dataset = this.props.dataset;
@@ -139,7 +132,8 @@
         constructor(props) {
           super();
           this.state = {
-            selected: 0
+            selected: 0,
+            page: 0
           };
 
           // alert(props.dataset.classes);
@@ -178,6 +172,11 @@
           }
         }
 
+        handleChangePage(event, page) {
+          // alert(page);
+          this.setState({page: page});
+        };
+
         handleClick(e, id) {
           this.setState({selected: id});
         }
@@ -185,6 +184,10 @@
         render() {
           const {classes} = this.props;
           const list = this.state.classes;
+          let offset = this.state.page;
+          const PAGE_SIZE = 1;
+          let page = list.slice(offset * PAGE_SIZE, (offset + 1) * PAGE_SIZE);
+          let total = list.length / PAGE_SIZE;
 
           return (
             <div>
@@ -198,11 +201,11 @@
                     </TableHead>
                     <TableBody>
                       {
-                      list.map((clazz, id) => {
+                      page.map((clazz, id) => {
                         return (
                           <TableRow 
                              className={classes.row}
-                             onClick={event => this.handleClick(event, id)}>
+                             onClick={event => this.handleClick(event, offset + id)}>
                             <TableCell>{clazz.status == "loaded" ? clazz.value.name : "loading"}</TableCell>
                             <TableCell>{clazz.status == "loaded" ? (clazz.value.images || []).length : "loading"}</TableCell>
                           </TableRow>
@@ -214,11 +217,11 @@
                       <TableRow>
                         <TablePagination
                            colSpan={2}
-                           count={1}
-                           rowsPerPage={2}
-                           page={0}
-                           rowsPerPageOptions={10}
-                           onChangePage={this.handleChangePage}
+                           count={total}
+                           rowsPerPage={PAGE_SIZE}
+                           page={offset}
+                           rowsPerPageOptions={PAGE_SIZE}
+                           onChangePage={this.handleChangePage.bind(this)}
                            />
                       </TableRow>
                     </TableFooter>
