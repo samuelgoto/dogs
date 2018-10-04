@@ -49,18 +49,17 @@
         Divider,
         Toolbar,
         GridList,
-        GridListTile
+        GridListTile,
+        SwipeableDrawer
       } = window['material-ui'];
 
       const drawerWidth = 240;
 
       const styles = theme => ({
         root: {
-          flexGrow: 1,
           zIndex: 1,
-          overflow: 'hidden',
-          position: 'relative',
-          display: 'flex',
+          overflow: "hidden",
+          position: "relative",
         },
         appBar: {
           zIndex: theme.zIndex.drawer + 1,
@@ -97,6 +96,19 @@
 
       @withStyles(styles)
       class Dataset extends React.Component {
+
+        constructor() {
+          super();
+          this.state = {"summary": false, "code": false};
+        }
+
+        toggleDrawer(side, open) {
+          // console.log("toggling");
+          this.setState({
+            [side]: open,
+          });
+        }
+
         render() {
           const {classes} = this.props;
           const dataset = this.props.dataset;
@@ -105,20 +117,39 @@
           return (
             <div className={classes.root}>
               <main className={classes.content}>
+                <center>
+                  <Button>Images</Button>
+                  <Button onClick={this.toggleDrawer.bind(this, "summary", true)}>Summary</Button>
+                  <Button onClick={this.toggleDrawer.bind(this, "code", true)}>Code</Button>
+                </center>
+
+                <SwipeableDrawer 
+                  anchor="top"
+                  open={this.state.summary}
+                  onClose={this.toggleDrawer.bind(this, "summary", false)}
+                  onOpen={this.toggleDrawer.bind(this, "summary", true)}
+                  >
+                  <Row name="release date" value={dataset.dateReleased} description="hello world" />
+                  <Row name="creation date" value={dataset.dateCreated} description="hello world" />
+                  <Row name="published date" value={dataset.datePublished} description="hello world" />
+                  <Row name="modified date" value={dataset.dateModified} description="hello world" />
+                </SwipeableDrawer>
+
+                <SwipeableDrawer 
+                  anchor="top"
+                  open={this.state.code}
+                  onClose={this.toggleDrawer.bind(this, "code", false)}
+                  onOpen={this.toggleDrawer.bind(this, "code", true)}
+                  >
+                  TODO(goto): add the JSON-LD snippet here.
+                </SwipeableDrawer>
 
                 <br />
                 <Typography className={classes.heading}>{dataset.name}</Typography>
                 <br />
                 <Typography className={classes.heading}>{dataset.description}</Typography>
-
                 <br />
                 <br />
-
-                <Row name="release date" value={dataset.dateReleased} description="hello world" />
-                <Row name="creation date" value={dataset.dateCreated} description="hello world" />
-                <Row name="published date" value={dataset.datePublished} description="hello world" />
-                <Row name="modified date" value={dataset.dateModified} description="hello world" />
-
                 <br />
                 <Browser dataset={this.props.dataset} />
               </main>
