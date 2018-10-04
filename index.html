@@ -148,6 +148,7 @@
                   onClose={this.toggleDrawer.bind(this, "summary", false)}
                   onOpen={this.toggleDrawer.bind(this, "summary", true)}
                   >
+                  <Row name="release number" value={dataset.release} description="hello world" />
                   <Row name="release date" value={dataset.dateReleased} description="hello world" />
                   <Row name="creation date" value={dataset.dateCreated} description="hello world" />
                   <Row name="published date" value={dataset.datePublished} description="hello world" />
