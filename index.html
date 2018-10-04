@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">  </head>
   <body style="margin: 0px; background-color: #fafafa;">
     <div id="root"></div>
-
     <script type="text/babel" data-plugins="transform-decorators-legacy">
       const {
         Button,
@@ -107,22 +106,25 @@
 
         render() {
           const {classes} = this.props;
+          const dataset = this.props.dataset;
+          dataset.classes = dataset.classes || [];
+
           return (
             <div className={classes.root}>
               <main className={classes.content}>
 
                 <br />
-                <Typography className={classes.heading}>{this.props.dataset.name}</Typography>
+                <Typography className={classes.heading}>{dataset.name}</Typography>
                 <br />
-                <Typography className={classes.heading}>{this.props.dataset.description}</Typography>
+                <Typography className={classes.heading}>{dataset.description}</Typography>
 
                 <br />
                 <br />
 
-                <Row name="release date" value={this.props.dataset.dateReleased} description="hello world" />
-                <Row name="creation date" value={this.props.dataset.dateCreated} description="hello world" />
-                <Row name="published date" value={this.props.dataset.datePublished} description="hello world" />
-                <Row name="modified date" value={this.props.dataset.dateModified} description="hello world" />
+                <Row name="release date" value={dataset.dateReleased} description="hello world" />
+                <Row name="creation date" value={dataset.dateCreated} description="hello world" />
+                <Row name="published date" value={dataset.datePublished} description="hello world" />
+                <Row name="modified date" value={dataset.dateModified} description="hello world" />
 
                 <br />
                 <Browser dataset={this.props.dataset} />
@@ -136,7 +138,42 @@
       class Browser extends React.Component {
         constructor(props) {
           super();
-          this.state = {selected: 0};
+          this.state = {
+            selected: 0
+          };
+
+          // alert(props.dataset.classes);
+          this.state.classes = (props.dataset.classes || []).map(clazz => {
+            if (typeof clazz != "string") {
+              return {status: "loaded", value: clazz};
+            } else {
+              return {status: "loading", value: clazz};
+            }
+          });
+
+          this.fetch();
+        }
+
+        async fetch() {
+          let classes = this.state.classes;
+          for (let i = 0; i < classes.length; i++) {
+            let clazz = classes[i];
+            if (clazz.status == "loaded") {
+              // passed by value
+              continue;
+            }
+            // console.log(clazz);
+            let result = await fetch(clazz.value);
+            // console.log(result);
+            if (!result.ok) {
+              classes[i].status = "failed";
+              this.setState({classes: classes});
+            } else {
+              classes[i].status = "loaded";
+              classes[i].value = await result.json();
+              this.setState({classes: classes});
+            }
+          }
         }
 
         handleClick(e, id) {
@@ -146,6 +183,8 @@
 
         render() {
           const {classes} = this.props;
+          const list = this.state.classes;
+
           return (
             <div>
                 <Paper>
@@ -158,14 +197,13 @@
                     </TableHead>
                     <TableBody>
                       {
-                      this.props.dataset.classes.map((clazz, id) => {
+                      list.map((clazz, id) => {
                         return (
                           <TableRow 
-                             className={classes.row} 
-                             onClick={event => this.handleClick(event, id)}
-                             selected={this.state.selected == id}>
-                            <TableCell>{clazz.name}</TableCell>
-                            <TableCell>{clazz.images ? clazz.images.length : 0}</TableCell>                      
+                             className={classes.row}
+                             onClick={event => this.handleClick(event, id)}>
+                            <TableCell>{clazz.status == "loaded" ? clazz.value.name : "loading"}</TableCell>
+                            <TableCell>{clazz.status == "loaded" ? (clazz.value.images || []).length : "loading"}</TableCell>
                           </TableRow>
                         )
                       })
@@ -188,22 +226,25 @@
 
                 <br />
  
-                <Typography className={classes.heading}>{this.props.dataset.classes[this.state.selected].name}</Typography>
-
-                <br />
-                <br />
-
-                <GridList cellHeight={160} className={classes.gridList} cols={3}>
-                  {
-                    this.props.dataset.classes[this.state.selected].images.map(image => {
-                      return (
-                        <GridListTile key="hello">
-                          <img src={image} />
-                        </GridListTile>
-                      )
-                    })
-                  }
-                </GridList>
+                {list[this.state.selected].status == "loaded" && (
+                  <div>
+                    <Typography className={classes.heading}>{list[this.state.selected].value.name}</Typography>
+                    <br />
+                    <br />
+                    <GridList cellHeight={160} className={classes.gridList} cols={3}>
+                      {
+                        (list[this.state.selected].value.images || []).map(image => {
+                          return (
+                            <GridListTile key="hello">
+                              <img src={image.url} />
+                            </GridListTile>
+                          )
+                        })
+                      }
+                    </GridList>
+                  </div>
+                  )
+                }
             </div>
           );
         }
@@ -272,9 +313,34 @@
         ]
       };
 
-      // Use the ReactDOM.render to show your component on the browser
-      const root = document.getElementById("root")
-      ReactDOM.render(<Dataset dataset={dataset} />, root);
+      function render(dataset, error) {
+        // Use the ReactDOM.render to show your component on the browser
+        const root = document.getElementById("root")
+        ReactDOM.render(<Dataset dataset={dataset} error={error}/>, root);
+      }
+
     </script>
+
+    <script>
+      async function load(file) {
+        try {
+          let result = await fetch(file);
+          if (!result.ok) {
+            return {error: `Failed to load ${file}. ${result}`};
+          }
+
+          return {dataset: await result.json()};
+        } catch (e) {
+          return {error: `Failed to loading ${file}. Check your JS console.`};
+        }
+      }
+
+      async function main(file) {
+        let {dataset, error} = await load(file);
+        render(dataset, error);
+      }
+      main("index.jsonld");
+    </script>
+
   </body>
 </html>
