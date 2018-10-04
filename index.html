@@ -74,6 +74,12 @@
           position: 'relative',
           width: drawerWidth,
         },
+        code: {
+          margin: "50px",
+          height: "400px",
+          fontFamily: "Roboto, sans-serif",
+          fontSize: "16px",
+        },
         content: {
           flexGrow: 1,
           backgroundColor: theme.palette.background.default,
@@ -154,11 +160,16 @@
                   onClose={this.toggleDrawer.bind(this, "code", false)}
                   onOpen={this.toggleDrawer.bind(this, "code", true)}
                   >
+
+                  <textarea className={classes.code}>
+                    {JSON.stringify(this.props.dataset, undefined, 2)}
+                  </textarea>
+
                 </SwipeableDrawer>
 
                 <br />
-                <Typography variant="title" className={classes.heading}>{dataset.name}</Typography>
-
+                <Typography variant="headline" component="h3" className={classes.heading}>{dataset.name}</Typography>
+                  
                 <br />
                 <Typography variant="subheading" className={classes.heading}>{dataset.description}</Typography>
 
