@@ -173,8 +173,8 @@
         }
 
         handleChangePage(event, page) {
-          // alert(page);
-          this.setState({page: page});
+          const PAGE_SIZE = 5;
+          this.setState({page: page, selected: PAGE_SIZE * page});
         };
 
         handleClick(e, id) {
@@ -185,7 +185,7 @@
           const {classes} = this.props;
           const list = this.state.classes;
           let offset = this.state.page;
-          const PAGE_SIZE = 1;
+          const PAGE_SIZE = 5;
           let page = list.slice(offset * PAGE_SIZE, (offset + 1) * PAGE_SIZE);
           let total = list.length / PAGE_SIZE;
 
@@ -311,7 +311,8 @@
         let {dataset, error} = await load(file);
         render(dataset, error);
       }
-      main("simple.jsonld");
+      // main("simple.jsonld");
+      main("index.jsonld");
     </script>
 
   </body>
