@@ -156,10 +156,12 @@
 
         async fetch() {
           let classes = this.state.classes;
+          let expand = (image) => typeof image == "string" ? { url: image } : image;
           for (let i = 0; i < classes.length; i++) {
             let clazz = classes[i];
             if (clazz.status == "loaded") {
               // passed by value
+              clazz.value.images = clazz.value.images.map(expand);
               continue;
             }
             // console.log(clazz);
@@ -177,7 +179,6 @@
         }
 
         handleClick(e, id) {
-          // alert(id);
           this.setState({selected: id});
         }
 
@@ -224,27 +225,40 @@
                   </Table>
                 </Paper>
 
+                <br /> 
+                <Gallery clazz={list[this.state.selected]} />
                 <br />
- 
-                {list[this.state.selected].status == "loaded" && (
-                  <div>
-                    <Typography className={classes.heading}>{list[this.state.selected].value.name}</Typography>
-                    <br />
-                    <br />
-                    <GridList cellHeight={160} className={classes.gridList} cols={3}>
-                      {
-                        (list[this.state.selected].value.images || []).map(image => {
-                          return (
-                            <GridListTile key="hello">
-                              <img src={image.url} />
-                            </GridListTile>
-                          )
-                        })
-                      }
-                    </GridList>
-                  </div>
+
+            </div>
+          );
+        }
+      }
+
+      @withStyles(styles)
+      class Gallery extends React.Component {
+        render() {
+          const {classes} = this.props;
+          let {value, status} = this.props.clazz;
+          if (status != "loaded") {
+            return (<div />);
+          }
+          let clazz = value;
+          return (
+            <div>
+              <Typography className={classes.heading}>{clazz.name}</Typography>
+                <br />
+                <br />
+              <GridList cellHeight={160} className={classes.gridList} cols={3}>
+              {
+                (clazz.images || []).map(image => {
+                  return (
+                    <GridListTile key={image.url}>
+                      <img src={image.url} />
+                    </GridListTile>
                   )
+                })
                 }
+              </GridList>
             </div>
           );
         }
@@ -268,51 +282,6 @@
         }
       }
             
-      let dataset = {
-        "@context": "https://code.sgo.to/datasets",
-        "@type": "Dataset",
-        "url": "http://vision.stanford.edu/aditya86/ImageNetDogs/",
-        "author": ["Aditya Khosla", "Nityananda Jayadevaprakash", "Bangpeng Yao", "Li Fei-Fei"],
-        "name": "Dog breeds",
-        "description": "This is a JSON-LD port of Stanford's ImageNetDogs dataset. It contains 120 dog breeds, ~150 images per class. Total images: 20,580.",
-        "citation": [{
-          "inproceedings": "KhoslaYaoJayadevaprakashFeiFei_FGVC2011",
-          "author": "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
-          "title": "Novel Dataset for Fine-Grained Image Categorization",
-          "booktitle": "First Workshop on Fine-Grained Visual Categorization, IEEE Conference on Computer Vision and Pattern Recognition",
-          "year": "2011",
-          "month": "June",
-          "address": "Colorado Springs, CO"
-        }, {
-          "inproceedings": "imagenet_cvpr09",
-          "author": ["Deng", "J. and Dong", "W. and Socher", "R. and Li", "L.-J. and Li", "K. and Fei-Fei, L"],
-          "title": "ImageNet: A Large-Scale Hierarchical Image Database",
-          "booktitle": "CVPR09",
-          "year": "2009",
-          "bibsource": "http://www.image-net.org/papers/imagenet_cvpr09.bib"
-        }],
-        "release": "0.0.1",
-        "dateCreated": "2018/10/03",
-        "datePublished": "2018/10/03",
-        "dateModified": "2018/10/03",
-        "classes": [{
-            "@type": "Class",
-            "name": "Honey",
-            "images": [
-               "https://material-ui.com/static/images/grid-list/honey.jpg",
-               "https://material-ui.com/static/images/grid-list/vegetables.jpg",
-               "https://material-ui.com/static/images/grid-list/plant.jpg"
-            ]
-          }, {
-            "@type": "Class",
-            "name": "Mushrooms",
-            "images": [
-               "https://material-ui.com/static/images/grid-list/mushroom.jpg"
-            ]
-          }
-        ]
-      };
-
       function render(dataset, error) {
         // Use the ReactDOM.render to show your component on the browser
         const root = document.getElementById("root")
@@ -339,7 +308,7 @@
         let {dataset, error} = await load(file);
         render(dataset, error);
       }
-      main("index.jsonld");
+      main("simple.jsonld");
     </script>
 
   </body>
