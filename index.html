@@ -174,6 +174,8 @@
 
         handleChangePage(event, page) {
           const PAGE_SIZE = 5;
+          // console.log(page);
+          // console.log(page * PAGE_SIZE);
           this.setState({page: page, selected: PAGE_SIZE * page});
         };
 
@@ -189,6 +191,9 @@
           let page = list.slice(offset * PAGE_SIZE, (offset + 1) * PAGE_SIZE);
           let total = list.length / PAGE_SIZE;
           let selected = this.state.selected;
+
+          // console.log(offset);
+          // console.log(selected);
 
           return (
             <div>
@@ -206,8 +211,8 @@
                         return (
                           <TableRow 
                              className={classes.row}
-                             onClick={event => this.handleClick(event, offset + id)}
-                             selected={(offset + id) == selected}>
+                             onClick={event => this.handleClick(event, offset * PAGE_SIZE + id)}
+                             selected={(offset * PAGE_SIZE + id) == selected}>
                             <TableCell>{clazz.status == "loaded" ? clazz.value.name : "loading"}</TableCell>
                             <TableCell>{clazz.status == "loaded" ? (clazz.value.images || []).length : "loading"}</TableCell>
                           </TableRow>
