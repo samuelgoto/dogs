@@ -146,12 +146,16 @@
 
                 <br />
                 <Typography className={classes.heading}>{dataset.name}</Typography>
+
                 <br />
                 <Typography className={classes.heading}>{dataset.description}</Typography>
+
                 <br />
                 <br />
                 <br />
+
                 <Browser dataset={this.props.dataset} />
+
               </main>
             </div>
           );
@@ -277,6 +281,15 @@
 
       @withStyles(styles)
       class Gallery extends React.Component {
+        constructor() {
+          super();
+          this.state = {selected: undefined};
+        }
+        handleToggle() {
+          if (this.state.selected != undefined) {
+            this.setState({selected: undefined});
+          }
+        }
         render() {
           const {classes} = this.props;
           let {value, status} = this.props.clazz;
@@ -291,15 +304,22 @@
                 <br />
               <GridList cellHeight={160} className={classes.gridList} cols={3}>
               {
-                (clazz.images || []).map(image => {
+                (clazz.images || []).map((image, index) => {
                   return (
                     <GridListTile key={image.url}>
-                      <img src={image.url} />
+                      <img style={{cursor: "pointer"}} src={image.url} onClick={() => this.setState({selected: index})}/>
                     </GridListTile>
                   )
                 })
                 }
               </GridList>
+
+              <Dialog open={this.state.selected != undefined} onClose={this.handleToggle.bind(this)}>
+                <DialogTitle>Image</DialogTitle>
+                <div onClick={this.handleToggle.bind(this)}>
+                  <img src={this.state.selected != undefined && clazz.images[this.state.selected].url} />
+                </div>
+              </Dialog>
             </div>
           );
         }
