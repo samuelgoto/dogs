@@ -5,6 +5,7 @@
   "author": ["Aditya Khosla", "Nityananda Jayadevaprakash", "Bangpeng Yao", "Li Fei-Fei"],
   "name": "Dog breeds",
   "description": "This is a JSON-LD port of Stanford's ImageNetDogs dataset. It contains 120 dog breeds, ~150 images per class. Total images: 20,580.",
+  "download": "https://github.com/samuelgoto/dogs/releases/download/0.0.1/dogs.tar",
   "citation": [{
     "inproceedings": "KhoslaYaoJayadevaprakashFeiFei_FGVC2011",
     "author": "Aditya Khosla and Nityananda Jayadevaprakash and Bangpeng Yao and Li Fei-Fei",
