@@ -37,7 +37,7 @@ async function main() {
    // console.log(file);
    let image = {
     "@type": "Image",
-    "url": `images/${dir}/${file}`
+    "url": `${file}`
    };
 
    entry.images.push(image);
