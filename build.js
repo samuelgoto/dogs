@@ -87,7 +87,7 @@ async function main() {
   // dataset.classes.push(entry);
   // break;
  }
- fs.writeFileSync("index.jsonld", JSON.stringify(dataset, undefined, 2));
+ fs.writeFileSync("manifest.jsonld", JSON.stringify(dataset, undefined, 2));
  // console.log(JSON.stringify(dataset, undefined, 2));
 }
 
