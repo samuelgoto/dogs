@@ -2,6 +2,7 @@
   "@context": "https://code.sgo.to/datasets",
   "@type": "Dataset",
   "name": "The stanford dog breed dataset",
+  "download": "https://github.com/samuelgoto/dogs/releases/download/v0.0.2/dogs.tar",
   "classes": [
     "images/n02085620-Chihuahua/index.jsonld",
     "images/n02085782-Japanese_spaniel/index.jsonld",
